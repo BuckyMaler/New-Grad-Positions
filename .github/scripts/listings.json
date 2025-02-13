@@ -23726,7 +23726,7 @@
         "company_name": "FICO",
         "id": "d6a0f3a6-4c37-4e15-897f-fd506589d26c",
         "title": "Software Engineering - Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1736338843,
         "date_posted": 1736338843,
         "url": "https://fico.wd1.myworkdayjobs.com/en-US/External/job/Birmingham-United-Kingdom/Software-Engineering---Engineer-I_30077",
@@ -23920,7 +23920,7 @@
         "company_name": "Whoop",
         "id": "e6cd877f-8c12-4b1d-81d0-55b0dcab11b4",
         "title": "Android Engineer I - Member Experience",
-        "active": true,
+        "active": false,
         "date_updated": 1736801095,
         "date_posted": 1736801095,
         "url": "https://jobs.lever.co/whoop/4b7dd77d-571c-492e-bc7c-2388d8479d1b/apply",
@@ -24243,7 +24243,7 @@
         "company_name": "Amentum",
         "id": "83bc8321-7068-4e94-beb9-dba482000637",
         "title": "Entry Level Software Engineer C/C++",
-        "active": true,
+        "active": false,
         "date_updated": 1737591087,
         "date_posted": 1737591087,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-C-C--_R0133510",
@@ -24817,7 +24817,7 @@
         "company_name": "Adobe",
         "id": "15a80b5f-07c1-43e6-a58f-13b94f7f74d8",
         "title": "University Graduate - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1738973403,
         "date_posted": 1738973403,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-University-Graduate---Software-Engineer_R153489",
@@ -24889,6 +24889,71 @@
             "Essex County, MA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "d9765ae9-aeab-4557-9368-2144b583f58c",
+        "title": "Software Engineer \u2013 Early Career - IS&T",
+        "active": true,
+        "date_updated": 1739334673,
+        "date_posted": 1739334673,
+        "url": "https://jobs.apple.com/en-us/details/200590935",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "2e65b1c2-691c-4938-8bd9-661851a332e9",
+        "title": "Software Engineer \u2013 Early Career - IS&T",
+        "active": true,
+        "date_updated": 1739334663,
+        "date_posted": 1739334663,
+        "url": "https://jobs.apple.com/en-us/details/200590936",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "7484f389-5a98-4a88-a679-f350bc7b57b4",
+        "title": "Graduate Software Engineer I",
+        "active": true,
+        "date_updated": 1739392196,
+        "date_posted": 1739392196,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Graduate-Software-Engineer-I_R89226-1",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bombora",
+        "id": "b91602b6-14e5-4b3e-93de-44d1785d605c",
+        "title": "Software Engineer I - Services Engineering",
+        "active": true,
+        "date_updated": 1739392439,
+        "date_posted": 1739392439,
+        "url": "https://bombora.com/about/bombora-careers?gh_jid=7859996002",
+        "locations": [
+            "Reno, NV",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bombora",
         "is_visible": true,
         "sponsorship": "Other"
     }
