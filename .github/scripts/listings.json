@@ -24552,7 +24552,7 @@
         "company_name": "Baxter International",
         "id": "0852ddfb-6762-4195-877f-130d8535b913",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1738358031,
         "date_posted": 1738358031,
         "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Software-Engineer-I_JR-160855-1",
@@ -24962,7 +24962,7 @@
         "company_name": "Global Payments",
         "id": "f7592917-bf0d-4701-a15e-08a35bb0fd10",
         "title": "Mainframe Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739463594,
         "date_posted": 1739463594,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0059288-1",
@@ -25114,6 +25114,23 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/PayScale",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Caterpillar Inc.",
+        "id": "401fd6ec-e523-439f-8266-d46c148a2a19",
+        "title": "Early Career Data Scientist / Technical Analyst",
+        "active": true,
+        "date_updated": 1739852039,
+        "date_posted": 1739852039,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2025-Cat-Digital---Early-Career-Data-Scientist---Technical-Analyst_R0000292585",
+        "locations": [
+            "Peoria, IL",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
         "is_visible": true,
         "sponsorship": "Other"
     }
