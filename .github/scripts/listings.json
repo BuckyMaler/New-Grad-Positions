@@ -13669,7 +13669,7 @@
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1716340171,
         "date_posted": 1716193274,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
@@ -24817,7 +24817,7 @@
         "company_name": "Adobe",
         "id": "15a80b5f-07c1-43e6-a58f-13b94f7f74d8",
         "title": "University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1738973403,
         "date_posted": 1738973403,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-University-Graduate---Software-Engineer_R153489",
@@ -24897,7 +24897,7 @@
         "company_name": "Apple",
         "id": "d9765ae9-aeab-4557-9368-2144b583f58c",
         "title": "Software Engineer \u2013 Early Career - IS&T",
-        "active": true,
+        "active": false,
         "date_updated": 1739334673,
         "date_posted": 1739334673,
         "url": "https://jobs.apple.com/en-us/details/200590935",
@@ -24913,7 +24913,7 @@
         "company_name": "Apple",
         "id": "2e65b1c2-691c-4938-8bd9-661851a332e9",
         "title": "Software Engineer \u2013 Early Career - IS&T",
-        "active": true,
+        "active": false,
         "date_updated": 1739334663,
         "date_posted": 1739334663,
         "url": "https://jobs.apple.com/en-us/details/200590936",
@@ -24962,7 +24962,7 @@
         "company_name": "Global Payments",
         "id": "f7592917-bf0d-4701-a15e-08a35bb0fd10",
         "title": "Mainframe Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739463594,
         "date_posted": 1739463594,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I_R0059288-1",
@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25131,6 +25131,38 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "50ec14ed-3ef8-4a27-af0e-3a8791befc1c",
+        "title": "Software Engineer I - 2025 Start",
+        "active": true,
+        "date_updated": 1739923942,
+        "date_posted": 1739923942,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "b1235d3d-8141-4b06-8e94-866e56eb42a9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1739939246,
+        "date_posted": 1739939246,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/Software-Engineer-1_R49174-2",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
