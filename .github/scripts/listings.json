@@ -4239,7 +4239,7 @@
         "company_name": "Palantir",
         "id": "ebf96118-757e-4330-8907-6871eeb1650f",
         "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1719847228,
         "date_posted": 1719847228,
         "url": "https://jobs.lever.co/palantir/a771a3d8-a99f-4df1-b250-a9a30c6dd070/apply",
@@ -4271,7 +4271,7 @@
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
         "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1719847227,
         "date_posted": 1719847227,
         "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
@@ -4287,7 +4287,7 @@
         "company_name": "Palantir",
         "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
         "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
@@ -4303,7 +4303,7 @@
         "company_name": "Palantir",
         "id": "395bbd57-d183-4045-a5a9-d66137760142",
         "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1719847226,
         "date_posted": 1719847226,
         "url": "https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply",
@@ -16987,7 +16987,7 @@
         "company_name": "Palantir",
         "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1724101393,
         "date_posted": 1721868821,
         "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
@@ -17746,7 +17746,7 @@
         "company_name": "Palantir",
         "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1724456004,
         "date_posted": 1724456004,
         "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
@@ -18766,7 +18766,7 @@
         "company_name": "Perpay",
         "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
         "title": "Software Engineer, New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1727128045,
         "date_posted": 1726009552,
         "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
@@ -25371,6 +25371,100 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "eBay",
+        "id": "e7be3663-17a6-4893-88c2-343079ea6812",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1740703242,
+        "date_posted": 1740703242,
+        "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Bay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "78e04359-a5f1-411c-a1b4-0d8d8d53208b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1740702898,
+        "date_posted": 1740702898,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202559167",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "b83c8e76-1e74-4dee-a98a-551d1e3bf2da",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1740703710,
+        "date_posted": 1740703710,
+        "url": "https://careers-americansystems.icims.com/jobs/2296/job",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "507c11b8-1ab9-4adf-ba97-90c11d465916",
+        "title": "IOS Software Engineer \u2013 Early Career - IS&T",
+        "active": true,
+        "date_updated": 1740730899,
+        "date_posted": 1740730899,
+        "url": "https://jobs.apple.com/en-us/details/200593209",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "e1182df4-c638-44ac-8b6a-a76247b838ff",
+        "title": "Software Development Engineer in Test \u2013 Early Career - Retail Engineering",
+        "active": true,
+        "date_updated": 1740775398,
+        "date_posted": 1740775398,
+        "url": "https://jobs.apple.com/en-us/details/200592987",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FICO",
+        "id": "b8271e90-1000-4226-8fdc-cdf343c709eb",
+        "title": "Software Engineering - Engineer I",
+        "active": false,
+        "date_updated": 1740774771,
+        "date_posted": 1740774771,
+        "url": "https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-Canada/Software-Engineering---Engineer-I_30378",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421",
         "is_visible": true,
         "sponsorship": "Other"
     }
