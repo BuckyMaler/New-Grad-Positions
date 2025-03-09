@@ -24179,7 +24179,7 @@
         "company_name": "Nike",
         "id": "c2bfbe80-00e6-4e57-a19e-cbb2f9e8b489",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1737160074,
         "date_posted": 1737160074,
         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I_R-45889",
@@ -25774,6 +25774,22 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "8e3dd754-8f42-4e84-8f17-15379e1a322b",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1741393653,
+        "date_posted": 1741393653,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/Software-Development-Engineer-I_R25004867-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
     }
