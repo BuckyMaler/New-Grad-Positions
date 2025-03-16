@@ -24211,7 +24211,7 @@
         "company_name": "Medtronic",
         "id": "da5d3eee-cc33-438e-a6a8-bb113eeb17af",
         "title": "Software Engineer I - Neuro Science",
-        "active": true,
+        "active": false,
         "date_updated": 1737505734,
         "date_posted": 1737505734,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro-Science_R17073-1",
@@ -25505,7 +25505,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "6044f53c-5272-4a36-9bcc-82dc326f75fd",
         "title": "Software Engineer I - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1741061765,
         "date_posted": 1741061765,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900",
@@ -25521,7 +25521,7 @@
         "company_name": "Cox",
         "id": "e6aafbb4-b094-4486-bfbb-8ca683084c4e",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1741121045,
         "date_posted": 1741121045,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---17330_R202559675",
@@ -25667,7 +25667,7 @@
         "company_name": "Jerry",
         "id": "bdf8543c-a6e6-4f17-a2ea-55f292ced767",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741235122,
         "date_posted": 1741235122,
         "url": "https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2/application",
@@ -26464,6 +26464,54 @@
             "Alexandria, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "a711364b-832c-4ada-af6d-b5dfc5682786",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742009017,
+        "date_posted": 1742009017,
+        "url": "https://jobs.ashbyhq.com/Jerry/4e64a103-5ac4-4456-923e-a877e47ffdda/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "fa3ffb85-7489-42f4-bbf6-e6037d710ca3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742009078,
+        "date_posted": 1742009078,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560209",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "b805d6ce-d320-4841-b839-0c861039f2f7",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742009075,
+        "date_posted": 1742009075,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560208",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
