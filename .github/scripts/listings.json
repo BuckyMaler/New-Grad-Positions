@@ -17201,7 +17201,7 @@
         "company_name": "Pattern Data",
         "id": "34858b56-8a32-4f10-b5d5-e76e1fad2229",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1723662584,
         "date_posted": 1723592408,
         "url": "https://job-boards.greenhouse.io/patterndata/jobs/4478536007",
@@ -26360,7 +26360,7 @@
         "company_name": "Amentum",
         "id": "27279069-7a32-4fdd-957d-ec19878c585e",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1741909183,
         "date_posted": 1741909183,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0136263",
@@ -26858,7 +26858,7 @@
         "company_name": "Western Digital",
         "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
         "title": "New College Grad - Software Development Engineering - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1742936758,
         "date_posted": 1742936758,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
@@ -26956,7 +26956,7 @@
         "company_name": "Cox",
         "id": "07d80948-2695-4e50-abbf-68fc7a2d2e33",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743107333,
         "date_posted": 1743107333,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560561",
@@ -26980,6 +26980,60 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "252e1c9c-a58b-4385-b400-0a7b19f51f63",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743186940,
+        "date_posted": 1743186940,
+        "url": "https://jobs.ashbyhq.com/Jerry/222b1802-9206-49cd-ae8f-fe8341683a5c/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wood Mackenzie",
+        "id": "93df262b-25e1-4990-bd08-6ef8ad48ae1f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743194672,
+        "date_posted": 1743194672,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
+        "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
+        "active": true,
+        "date_updated": 1743193831,
+        "date_posted": 1743193831,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Merritt Island, FL",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
     }
