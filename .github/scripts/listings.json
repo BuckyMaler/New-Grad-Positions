@@ -17538,7 +17538,7 @@
         "company_name": "TransMarket Group",
         "id": "f3b0c582-740f-4e42-8501-158b3c020fcb",
         "title": "Junior Quantitative Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1718752993,
         "date_posted": 1717197026,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389335007?gh_jid=4389335007",
@@ -24452,7 +24452,7 @@
         "company_name": "Nexxen",
         "id": "3de4fa1c-7e21-4619-b7ec-a3d7a3b28187",
         "title": "Software Engineer I - Dsp - Demand Side Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1738170628,
         "date_posted": 1738170628,
         "url": "https://boards.greenhouse.io/nexxen/jobs/7830836002",
@@ -26424,7 +26424,7 @@
         "company_name": "Leidos",
         "id": "c701232e-bf47-45bc-a196-931b1c1ce666",
         "title": "Software Engineer Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1741995263,
         "date_posted": 1741995263,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155575",
@@ -27042,7 +27042,7 @@
         "company_name": "Booz Allen",
         "id": "236bae2b-c334-41a6-b4fb-726a84ffa839",
         "title": "Software Developer - Junior",
-        "active": false,
+        "active": true,
         "date_updated": 1743319541,
         "date_posted": 1743319541,
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216776",
@@ -27074,7 +27074,7 @@
         "company_name": "Jerry",
         "id": "4e95ea6b-4dd4-4153-9376-b541acb352f8",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743456415,
         "date_posted": 1743456415,
         "url": "https://jobs.ashbyhq.com/Jerry/f013aaf2-e0a4-4d3f-89a1-6877c6b4f4a2/application",
@@ -27236,7 +27236,7 @@
         "company_name": "Amentum",
         "id": "96bf9737-b6bc-408e-879d-646f1c8faee5",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1743578094,
         "date_posted": 1743578094,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136999",
@@ -27292,6 +27292,87 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "96c5f451-9282-415b-a118-e348da769d15",
+        "title": "Software Development Engineer I - Digital Experience",
+        "active": true,
+        "date_updated": 1743750450,
+        "date_posted": 1743750450,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6764255?gh_jid=6764255",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "91b077d7-ee0b-4770-8222-8d37005c80c0",
+        "title": "Machine Learning Engineer I - Data & Insights",
+        "active": true,
+        "date_updated": 1743750383,
+        "date_posted": 1743750383,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6774164?gh_jid=6774164",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "World Kinect",
+        "id": "438cf180-7f42-4602-849d-40ee4a20a38d",
+        "title": "IT Software Engineer I",
+        "active": true,
+        "date_updated": 1743752222,
+        "date_posted": 1743752222,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21135",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "a3dfaf66-c6c8-436f-a50e-e31de70e4adb",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1743759378,
+        "date_posted": 1743759378,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-1--Software-Development---Engineering_R409272",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Audubon Society",
+        "id": "98c5b79d-f3e7-4260-918b-ce5bc3a58a04",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1741914671,
+        "date_posted": 1740529740,
+        "url": "https://audubon.wd5.myworkdayjobs.com/Audubon/job/New-York-NY/Junior-Data-Engineer_JR624",
+        "locations": [
+            "Washington, DC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Audubon-Society",
         "is_visible": true,
         "sponsorship": "Other"
     }
