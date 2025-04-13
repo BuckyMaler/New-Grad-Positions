@@ -27584,7 +27584,7 @@
         "company_name": "Cox",
         "id": "a14d6331-4670-42fd-9f0a-ffdd55199776",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744130219,
         "date_posted": 1744130219,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202561155",
@@ -27781,6 +27781,88 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "63da8d80-7bf1-46c7-bcff-ceb5921a3ee8",
+        "title": "Software Development Engineer I - Computer Science",
+        "active": true,
+        "date_updated": 1744438162,
+        "date_posted": 1744438162,
+        "url": "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "22176359-6ef2-49cd-ac67-af6067f61ca9",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744439093,
+        "date_posted": 1744439093,
+        "url": "https://jobs.ashbyhq.com/Jerry/c89f3ece-413b-4006-a73e-b04bbd4a54b0/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amperity",
+        "id": "25c87b7c-8866-4857-870a-a2f967fea1a3",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1744441478,
+        "date_posted": 1744441478,
+        "url": "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amperity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "80524411-e4b5-4865-8e50-4269636da726",
+        "title": "Software Engineer - Backend/Fullstack - Early in Career",
+        "active": true,
+        "date_updated": 1744442076,
+        "date_posted": 1741233290,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oMYzvfwy?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "9f7bd38f-81f0-43f3-a557-7f410004f2cd",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1744465156,
+        "date_posted": 1744465156,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410266",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
