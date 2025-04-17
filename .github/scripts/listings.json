@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25553,7 +25553,7 @@
         "company_name": "RTX",
         "id": "a110b0e2-7980-4b85-b7df-0c7da7f581e3",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1741121549,
         "date_posted": 1741121549,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I---Onsite-_01747844",
@@ -25634,7 +25634,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -26858,7 +26858,7 @@
         "company_name": "Western Digital",
         "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
         "title": "New College Grad - Software Development Engineering - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1742936758,
         "date_posted": 1742936758,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
@@ -26940,7 +26940,7 @@
         "company_name": "Western Digital",
         "id": "49f13974-486b-4e60-a8a3-03754947e5d9",
         "title": "New College Grad - Software Development Engineering - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1743104055,
         "date_posted": 1743104055,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000050379715",
@@ -26956,7 +26956,7 @@
         "company_name": "Cox",
         "id": "07d80948-2695-4e50-abbf-68fc7a2d2e33",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1743107333,
         "date_posted": 1743107333,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560561",
@@ -27005,7 +27005,7 @@
         "company_name": "Wood Mackenzie",
         "id": "93df262b-25e1-4990-bd08-6ef8ad48ae1f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743194672,
         "date_posted": 1743194672,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
@@ -27525,7 +27525,7 @@
         "company_name": "Amentum",
         "id": "504ec367-09e3-4ff1-9c4c-cb0ed4be9d55",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1744097722,
         "date_posted": 1744097722,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137355",
@@ -27960,6 +27960,119 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "9aaa2f63-92ac-41a7-a714-f4834d11a8a8",
+        "title": "ML Compiler Engineer I",
+        "active": true,
+        "date_updated": 1744783887,
+        "date_posted": 1744783887,
+        "url": "https://amazon.jobs/en/jobs/2955921/ml-compiler-engineer-i-annapurna-labs",
+        "locations": [
+            "Seattle, WA",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "6377b914-ff90-4ffb-ae6d-1a2b93094a2c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744785316,
+        "date_posted": 1744785316,
+        "url": "https://jobs.ashbyhq.com/Jerry/210f4864-89a5-4ab1-b45c-c2e16c5c2897/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "848554b5-91a9-4df3-8fc6-035c8188f4b8",
+        "title": "Software Engineer I - Sdet - Java",
+        "active": true,
+        "date_updated": 1744791474,
+        "date_posted": 1744791474,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "66b69cb8-2894-4d29-bb0f-abf8666fb0f6",
+        "title": "Software Engineer I - Java",
+        "active": false,
+        "date_updated": 1744791474,
+        "date_posted": 1744791474,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Java-_R-245946",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "0f7b9b50-89d2-4113-aa2b-381a6156069c",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1744809183,
+        "date_posted": 1744809183,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "156c72ee-dafa-45c7-b1bc-34bc6dfd02e3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744822729,
+        "date_posted": 1744822729,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01715325-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "795587eb-f201-4d90-9310-1215625e2e56",
+        "title": "Software Engineer I - Backend",
+        "active": true,
+        "date_updated": 1744821019,
+        "date_posted": 1744821019,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I--BACKEND-_R202561426-1",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
