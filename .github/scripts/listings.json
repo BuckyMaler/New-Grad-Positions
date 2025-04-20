@@ -18389,7 +18389,7 @@
         "company_name": "Salesforce",
         "id": "47e3621f-6df0-4275-9601-99435d3759f6",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1725581502,
         "date_posted": 1725581502,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1",
@@ -24666,7 +24666,7 @@
         "id": "36734b79-992e-40dc-bcf6-39add5ddef37",
         "title": "Front-End Engineer I - Digital Servicing",
         "active": false,
-        "date_updated": 1738642883,
+        "date_updated": 1745028772,
         "date_posted": 1738642883,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Remote-GA/Front-End-Engineer-I---Digital-Servicing_2500428-1",
         "locations": [
@@ -24691,7 +24691,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Synchrony-Financial",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -25619,7 +25619,7 @@
         "id": "fbb247bf-1178-4e69-88ad-c83830c55f6d",
         "title": "Software Engineer I",
         "active": false,
-        "date_updated": 1741162497,
+        "date_updated": 1745028799,
         "date_posted": 1741162497,
         "url": "https://careers-iridium.icims.com/jobs/4346/job",
         "locations": [
@@ -25627,7 +25627,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -28121,6 +28121,54 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "5f480b59-b446-4cd9-a0e1-cf86d9bcf010",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745045317,
+        "date_posted": 1745045317,
+        "url": "https://jobs.ashbyhq.com/Jerry/21b2fbcc-abd6-4b01-b78f-b196d884c32f/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "26c41710-c1c7-4480-9700-c93b318fd2e0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745045317,
+        "date_posted": 1745045317,
+        "url": "https://jobs.ashbyhq.com/Jerry/9458cca3-9c58-4aad-a579-7f5720c7ec87/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flexport",
+        "id": "561dc074-7c02-4562-a2df-5ac406ce6a4d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745050346,
+        "date_posted": 1745050346,
+        "url": "https://boards.greenhouse.io/flexport/jobs/6795493",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
         "is_visible": true,
         "sponsorship": "Other"
     }
