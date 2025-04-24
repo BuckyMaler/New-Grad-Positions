@@ -28113,7 +28113,7 @@
         "company_name": "Pinterest",
         "id": "836b6c19-97e2-48ec-b0eb-a351d8e837d6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744957437,
         "date_posted": 1744957437,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=6816337",
@@ -28225,7 +28225,7 @@
         "company_name": "Comcast",
         "id": "8f57b86b-c885-40a7-bb5e-654d3f3a1083",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1745327308,
         "date_posted": 1745327308,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410384",
@@ -28281,6 +28281,120 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Parity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenEye",
+        "id": "eb4231b2-d082-40f1-89ae-e4587f3d7d2f",
+        "title": "Software Engineer I - Ows",
+        "active": true,
+        "date_updated": 1745370235,
+        "date_posted": 1745370235,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/7968065002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "82e76641-ab4c-4fbe-bdbd-8468caf4ed26",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1745376565,
+        "date_posted": 1745376565,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410880",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a35410db-e313-43fe-a6f8-33a7f387a5ec",
+        "title": "Software Developer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1745384154,
+        "date_posted": 1745384154,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157630",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wex",
+        "id": "ad6add44-c884-41b8-b4f9-83a8584906eb",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1745363925,
+        "date_posted": 1745363925,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Chicago-IL/Software-Development-Engineer-1_R17423",
+        "locations": [
+            "Texas",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1745412218,
+        "date_posted": 1740429670,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "07201944-dac6-4ace-ad76-2bd70cd0a08a",
+        "title": "Entry Level Software Engineer 1",
+        "active": false,
+        "date_updated": 1745424119,
+        "date_posted": 1745424119,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Entry-Level-Software-Engineer-1--Chicago--IL-or-Reston--VA--ONSITE--4-days-a-week-_R410831-1",
+        "locations": [
+            "Chicago, IL",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bb9b3881-01d1-4fab-acc3-d9b00d0d5183",
+        "title": "Research Data Engineer \u2013 Entry Level - Health Research",
+        "active": true,
+        "date_updated": 1745449621,
+        "date_posted": 1745449621,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Engineer--Health-Research-_R-00158034",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
