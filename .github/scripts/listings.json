@@ -18621,7 +18621,7 @@
         "company_name": "TSC",
         "id": "794cc728-6700-4b4a-b913-bd57024ff3d9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1725925801,
         "date_posted": 1725925801,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I--Evergreen-_JR1602",
@@ -24227,7 +24227,7 @@
         "company_name": "Acorns",
         "id": "20573663-a33b-497c-82d0-cf8091dc8725",
         "title": "Software Engineer I \u2013 Recent Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1737505581,
         "date_posted": 1737505581,
         "url": "https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d/application",
@@ -24849,7 +24849,7 @@
         "company_name": "TSC",
         "id": "5c18ab8a-6554-43c2-ac6b-0dda476bd594",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739221510,
         "date_posted": 1739221510,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1905",
@@ -26956,7 +26956,7 @@
         "company_name": "Cox",
         "id": "07d80948-2695-4e50-abbf-68fc7a2d2e33",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743107333,
         "date_posted": 1743107333,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560561",
@@ -27525,7 +27525,7 @@
         "company_name": "Amentum",
         "id": "504ec367-09e3-4ff1-9c4c-cb0ed4be9d55",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1744097722,
         "date_posted": 1744097722,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137355",
@@ -28305,7 +28305,7 @@
         "company_name": "Comcast",
         "id": "82e76641-ab4c-4fbe-bdbd-8468caf4ed26",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1745376565,
         "date_posted": 1745376565,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410880",
@@ -28370,7 +28370,7 @@
         "company_name": "Comcast",
         "id": "07201944-dac6-4ace-ad76-2bd70cd0a08a",
         "title": "Entry Level Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1745424119,
         "date_posted": 1745424119,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Entry-Level-Software-Engineer-1--Chicago--IL-or-Reston--VA--ONSITE--4-days-a-week-_R410831-1",
@@ -28395,6 +28395,87 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "8f32dd67-120d-4650-9670-e86065ecbf08",
+        "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1745454925,
+        "date_posted": 1745454925,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_310885-1",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "e62b6fa5-8e78-4b9b-9f39-9c1c3b065305",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745455534,
+        "date_posted": 1745455534,
+        "url": "https://aurora.tech/jobs/7940570002?gh_jid=7940570002",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Yonder",
+        "id": "94a686e4-138a-430d-9d25-958cb6f437c8",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1745513642,
+        "date_posted": 1745513642,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-1_251750",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "9658c843-6373-42a7-9055-d028d06f76d7",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1745522989,
+        "date_posted": 1745522989,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Engineer-1--Software-Development---Engineering_R409766",
+        "locations": [
+            "Philadelphia, PA",
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "4ea7ca1c-d056-4b91-84c4-19a68e4be5b2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745522743,
+        "date_posted": 1745522743,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2024",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
         "is_visible": true,
         "sponsorship": "Other"
     }
