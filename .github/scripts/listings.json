@@ -23541,7 +23541,7 @@
         "company_name": "Amentum",
         "id": "554ac366-a90e-4c93-89b3-46ab00e61f8e",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1744242891,
         "date_posted": 1744242891,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0137459-1",
@@ -24187,7 +24187,7 @@
         "company_name": "Wex",
         "id": "ad6add44-c884-41b8-b4f9-83a8584906eb",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1745363925,
         "date_posted": 1745363925,
         "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Chicago-IL/Software-Development-Engineer-1_R17423",
@@ -24494,7 +24494,7 @@
         "company_name": "Jerry",
         "id": "33dd1bfa-1712-41d4-a0f8-65b0ebe662c2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745908011,
         "date_posted": 1745908011,
         "url": "https://jobs.ashbyhq.com/Jerry/5b30d5ee-5fbf-45c5-adc9-1eb930fa2ddb/application",
@@ -24526,7 +24526,7 @@
         "company_name": "Jerry",
         "id": "a2714d03-7e18-4b7f-8271-d45527abd86b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745908025,
         "date_posted": 1745908025,
         "url": "https://jobs.ashbyhq.com/Jerry/905ad34f-1367-4ae8-b765-facf9a8d5aa5/application",
@@ -24849,7 +24849,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -24857,6 +24857,40 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Higher-Logic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "767992a1-765b-4763-ab83-e71f60b64e0d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1746675087,
+        "date_posted": 1746675087,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/7982361002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "6826025f-bf5a-4e22-8d8e-643162b110b2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1746698720,
+        "date_posted": 1746492363,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/MOUNT-ROYAL-Montreal/Software-Engineer-II_R49481",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
