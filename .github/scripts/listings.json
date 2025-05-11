@@ -2,22 +2,6 @@
     {
         "source": "Simplify",
         "company_name": "Arsiem Corporation",
-        "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1715815039,
-        "date_posted": 1715815039,
-        "url": "https://jobs.lever.co/arsiem/f94bf15a-2979-4326-ad2e-d0c510ef9694/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arsiem Corporation",
         "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
         "title": "Software Engineer 1",
         "active": false,
@@ -1028,22 +1012,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Lucid",
-        "id": "8215b2bb-30ad-4ea4-a275-4083d45a4dfb",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1715815085,
-        "date_posted": 1715815085,
-        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5179646004",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Latitude AI",
         "id": "bc84cc2c-c5d6-415c-819a-2241ea996e93",
         "title": "GIS Production Analyst - Contractor",
@@ -1055,22 +1023,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/LatitudeAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "3f29d010-cc7e-46d3-809a-80b161151483",
-        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": false,
-        "date_updated": 1715815470,
-        "date_posted": 1715815470,
-        "url": "https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1151,38 +1103,6 @@
             "Hollywood, LA"
         ],
         "company_url": "https://simplify.jobs/c/Match-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alarm.com",
-        "id": "5c5c09b7-6984-46ab-aba3-70db9eff385c",
-        "title": "Software Engineer - Android",
-        "active": false,
-        "date_updated": 1717463402,
-        "date_posted": 1715814936,
-        "url": "https://boards.greenhouse.io/alarmcom/jobs/7431154002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alarm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lucid",
-        "id": "73fb2cf0-1505-4488-a20a-690747eac682",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1715815091,
-        "date_posted": 1715815091,
-        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5179630004",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -11606,22 +11526,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Radar",
-        "id": "80443f11-6f3f-4393-a7bc-dc28ee04bdb6",
-        "title": "Product Engineer - Multi-Stack",
-        "active": false,
-        "date_updated": 1715786494,
-        "date_posted": 1715786494,
-        "url": "https://apply.workable.com/radarlabs/j/DC63DF644B/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/RadarLabs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Legion",
         "id": "55d089f9-bcc5-485b-a62f-b6db05659ede",
         "title": "Optimization Engineer",
@@ -11851,22 +11755,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Collabora",
-        "id": "58e2625e-38f0-455e-950d-edd368319bc8",
-        "title": "Vulkan/Opengl Software Developer - Remote/Anywhere",
-        "active": false,
-        "date_updated": 1715815136,
-        "date_posted": 1715815136,
-        "url": "https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Collabora",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alphataraxia",
         "id": "69456844-e0f0-4840-bf78-06788a85b803",
         "title": "Investment Analyst - DC",
@@ -11958,22 +11846,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wayve",
-        "id": "ef4bb9f7-0f8b-4188-a647-13ed89fee1d0",
-        "title": "Software Engineer - ML Platform",
-        "active": false,
-        "date_updated": 1716318717,
-        "date_posted": 1715814877,
-        "url": "https://boards.greenhouse.io/wayve/jobs/7444783002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayve",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24702,7 +24574,7 @@
         "company_name": "Medtronic",
         "id": "308fb443-554b-4b18-b5d5-56450e3432dc",
         "title": "Software Engineer I - CRM",
-        "active": false,
+        "active": true,
         "date_updated": 1746572078,
         "date_posted": 1746572078,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R29355",
@@ -24770,7 +24642,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6826025f-bf5a-4e22-8d8e-643162b110b2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746698720,
         "date_posted": 1746492363,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/MOUNT-ROYAL-Montreal/Software-Engineer-II_R49481",
@@ -24901,6 +24773,40 @@
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "7fb9cfc6-2b8c-4a41-9b3c-ea60476f4436",
+        "title": "Electro-Optics Hardware Engineer New Grad",
+        "active": true,
+        "date_updated": 1746838619,
+        "date_posted": 1746838619,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optics-Hardware-Engineer-New-Grad_R027951",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "507ff866-10a7-476f-ab6c-7cc9167dec0e",
+        "title": "Software Engineer I - Protium Prototyping Platform",
+        "active": true,
+        "date_updated": 1746839478,
+        "date_posted": 1746839478,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Principal-Software-Engineer---Protium-Prototyping-Platform_R48201",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
