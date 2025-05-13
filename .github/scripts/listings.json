@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1715987606,
-        "date_posted": 1715987606,
-        "url": "https://jobs.lever.co/arsiem/1a74e319-c20e-43c8-b839-6a68c9210cc4/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Trustpilot",
         "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
         "title": "Software Engineer I - API Platform",
@@ -1023,22 +1007,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Match Group",
-        "id": "57ff5272-e025-441e-a464-1507d8eb9d5a",
-        "title": "Data Scientist I",
-        "active": false,
-        "date_updated": 1717812279,
-        "date_posted": 1715929584,
-        "url": "https://jobs.lever.co/matchgroup/c69a83e8-d2c5-46d4-a544-45a984370666/apply",
-        "locations": [
-            "Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Match-Group",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -11460,22 +11428,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Dialpad",
-        "id": "8b7e1709-8159-4e19-9d59-a34c3a0577db",
-        "title": "Software Engineer - Distributed Systems",
-        "active": false,
-        "date_updated": 1719517277,
-        "date_posted": 1715987562,
-        "url": "https://boards.greenhouse.io/dialpad/jobs/7443266002",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Dialpad",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
@@ -11636,22 +11588,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Picogrid",
-        "id": "bf1a1ba6-730d-4296-8067-22ca5726bd19",
-        "title": "Deployment Strategist",
-        "active": false,
-        "date_updated": 1717550399,
-        "date_posted": 1715987394,
-        "url": "https://jobs.ashbyhq.com/picogrid/ed9e790b-c45e-4caf-a731-121df5e96a09/application",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Picogrid",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23268,7 +23204,7 @@
         "company_name": "Softheon",
         "id": "d07bb04b-8594-438b-96b7-62012419c15e",
         "title": "Software Engineer I - Membership",
-        "active": true,
+        "active": false,
         "date_updated": 1744356258,
         "date_posted": 1744356258,
         "url": "https://apply.workable.com/softheon/j/4AFE55D62D/apply",
@@ -24283,7 +24219,7 @@
         "company_name": "Anaplan",
         "id": "7b4b2639-ee5a-4055-89d7-8aa2025fa07e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1746134625,
         "date_posted": 1746134625,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/7978206002",
@@ -24509,7 +24445,7 @@
         "company_name": "Iridium Communications",
         "id": "9e8d8f00-a18c-4471-b416-da5304aa6c4f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746644336,
         "date_posted": 1746644336,
         "url": "https://careers-iridium.icims.com/jobs/4452/job",
@@ -24577,7 +24513,7 @@
         "company_name": "RTX",
         "id": "e301f303-51bf-4f05-ad53-0e2acb8aec77",
         "title": "Embedded Cybersecurity Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746737744,
         "date_posted": 1746737744,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01767038",
@@ -24594,7 +24530,7 @@
         "company_name": "Amentum",
         "id": "81381128-7fa7-4edc-888e-63057efd025b",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1746731824,
         "date_posted": 1746731824,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0138996",
@@ -24611,7 +24547,7 @@
         "company_name": "Jerry",
         "id": "ddf427ae-2021-4d7d-95ce-a6911f749895",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746755918,
         "date_posted": 1746755918,
         "url": "https://jobs.ashbyhq.com/Jerry/7607a509-5e38-47ea-89f4-88cafdc014af/application",
@@ -24629,7 +24565,7 @@
         "company_name": "Jerry",
         "id": "b496b991-3a7b-4690-ab3d-8d0d20285fbd",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746755916,
         "date_posted": 1746755916,
         "url": "https://jobs.ashbyhq.com/Jerry/7a7d9446-f522-4caf-a84f-2d26d994f597/application",
@@ -24725,6 +24661,58 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "b4dc5eb2-d1ac-4754-bcd1-19e3964e6858",
+        "title": "C++ Software Development Engineer I",
+        "active": true,
+        "date_updated": 1747083253,
+        "date_posted": 1747083253,
+        "url": "https://www.esri.com/careers/4725259007?gh_jid=4725259007",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "903b61fb-449f-413d-b320-bc4b6366e91a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747090407,
+        "date_posted": 1747090407,
+        "url": "https://jobs.ashbyhq.com/Jerry/fd11ffbe-f3a9-4b9e-86c0-6ff73a078494/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "27bb31bd-e66f-4fe2-b12b-121b5e623aab",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747090406,
+        "date_posted": 1747090406,
+        "url": "https://jobs.ashbyhq.com/Jerry/6cdeb247-37ee-4c1b-82d1-49d246adb15c/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
