@@ -23464,7 +23464,7 @@
         "company_name": "Mastercard",
         "id": "848554b5-91a9-4df3-8fc6-035c8188f4b8",
         "title": "Software Engineer I - Sdet - Java",
-        "active": false,
+        "active": true,
         "date_updated": 1744791474,
         "date_posted": 1744791474,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943",
@@ -23752,7 +23752,7 @@
         "company_name": "OpenEye",
         "id": "eb4231b2-d082-40f1-89ae-e4587f3d7d2f",
         "title": "Software Engineer I - Ows",
-        "active": true,
+        "active": false,
         "date_updated": 1745370235,
         "date_posted": 1745370235,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/7968065002",
@@ -24011,7 +24011,7 @@
         "company_name": "FactSet",
         "id": "48b6fb36-0b83-47e0-aea7-66f9589cf797",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745616441,
         "date_posted": 1745616441,
         "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineer-I_R27132",
@@ -24653,7 +24653,7 @@
         "company_name": "Cadence Design Systems",
         "id": "507ff866-10a7-476f-ab6c-7cc9167dec0e",
         "title": "Software Engineer I - Protium Prototyping Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1746839478,
         "date_posted": 1746839478,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Principal-Software-Engineer---Protium-Prototyping-Platform_R48201",
@@ -24722,7 +24722,7 @@
         "company_name": "Chewy",
         "id": "21adeb8b-b57d-4177-85e7-4102ac65a349",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747155009,
         "date_posted": 1747155009,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6862212",
@@ -24730,6 +24730,23 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "2f5d97bf-ac1c-46f1-bf43-1ce06e051c8e",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1747237592,
+        "date_posted": 1747237592,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410445",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
