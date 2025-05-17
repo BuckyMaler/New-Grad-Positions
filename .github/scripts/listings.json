@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
-        "title": "Software Engineer I - API Platform",
-        "active": false,
-        "date_updated": 1716304762,
-        "date_posted": 1716304762,
-        "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Magna",
-        "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1716333203,
-        "date_posted": 1716333203,
-        "url": "https://boards.greenhouse.io/magna/jobs/4382449007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Navan",
         "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
         "title": "Evergreen: New College Grad Software Engineer - Front-End",
@@ -11440,22 +11408,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Alchemy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Philadelphia Eagles",
-        "id": "65539c86-02e8-475a-b5a1-d99f1ab23538",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1716333688,
-        "date_posted": 1716333688,
-        "url": "https://boards.greenhouse.io/philadelphiaeagles/jobs/4371500006",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PhiladelphiaEagles",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23931,7 +23883,7 @@
         "company_name": "Adobe",
         "id": "20b0f992-16b4-4518-9bf8-cfc3e9b78596",
         "title": "University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1745866852,
         "date_posted": 1745866852,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217",
@@ -24386,7 +24338,7 @@
         "company_name": "Amentum",
         "id": "81381128-7fa7-4edc-888e-63057efd025b",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1746731824,
         "date_posted": 1746731824,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0138996",
@@ -24438,7 +24390,7 @@
         "company_name": "Nutanix",
         "id": "919244a4-4961-4cab-9622-bfdb974e4a18",
         "title": "Software Engineer 1/Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1746778219,
         "date_posted": 1746778219,
         "url": "https://jobs.jobvite.com/nutanix/job/oPR2vfwX?nl=1&nl=1&fr=false",
@@ -24716,7 +24668,7 @@
         "company_name": "Global Payments",
         "id": "be560e6d-beae-405e-b05e-5072d648cd47",
         "title": "Mainframe Software Engineer I or Above",
-        "active": true,
+        "active": false,
         "date_updated": 1747339511,
         "date_posted": 1747339511,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0062116",
@@ -24759,6 +24711,92 @@
             "Reno, NV"
         ],
         "company_url": "https://simplify.jobs/c/Bombora",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Credit Genie",
+        "id": "e77949b5-9580-43ad-a54d-4049719357ac",
+        "title": "New Grad-Data Scientist - Cmu",
+        "active": true,
+        "date_updated": 1747418407,
+        "date_posted": 1747418407,
+        "url": "https://jobs.ashbyhq.com/creditgenie/256ab050-e0a8-4192-a9bd-0c635adb2a61/application",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Credit-Genie",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Esri",
+        "id": "4386ad33-6282-48ed-8f6c-e5cd45f12e04",
+        "title": "C++ Software Engineer I - Maps Sdks",
+        "active": true,
+        "date_updated": 1747433617,
+        "date_posted": 1747433617,
+        "url": "https://www.esri.com/careers/4735889007?gh_jid=4735889007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "d5fbd86f-7f5f-41e6-af78-b894c50e4554",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1747435446,
+        "date_posted": 1747435446,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Engineer-1_312023-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marqeta",
+        "id": "5415dfde-d4c9-4bc8-a0b4-98767647b837",
+        "title": "Software Engineer I - Transaction Engine Foundation",
+        "active": true,
+        "date_updated": 1747437835,
+        "date_posted": 1747437835,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6832149",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist",
+        "id": "a8bacb04-9bc6-4e63-814e-999777d2c423",
+        "title": "Testing Software Engineer I",
+        "active": true,
+        "date_updated": 1747439084,
+        "date_posted": 1747439084,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0100249",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
     }
