@@ -194,22 +194,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "370ac2f5-f0e3-410f-b905-4b82238a3dce",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1716448342,
-        "date_posted": 1716448342,
-        "url": "https://jobs.lever.co/arsiem/ac0fe045-d6bc-4cf8-b515-07f643701c60/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Aquatic Capital Management",
         "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
         "title": "Software Engineer \u2013 Data: Early Career - 2024",
@@ -11413,26 +11397,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Waabi",
-        "id": "5e93a995-a4f9-4e2c-a34e-0d1058714019",
-        "title": "Software Engineer - Web Tools",
-        "active": false,
-        "date_updated": 1716578116,
-        "date_posted": 1716505706,
-        "url": "https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8/apply",
-        "locations": [
-            "Toronto, ON, Canada",
-            "SF",
-            "Dallas, TX",
-            "Canada",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Waabi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Colibri Group",
         "id": "9b72106b-1d13-451e-9074-306de3f33ba7",
         "title": "Data Analytics Engineer",
@@ -11444,22 +11408,6 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/ColibriGroup",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Klaviyo",
-        "id": "1617a524-b62c-4c07-82a7-1b3a2c0924f8",
-        "title": "Full Stack Data Scientist",
-        "active": false,
-        "date_updated": 1716924078,
-        "date_posted": 1716506306,
-        "url": "http://www.klaviyo.com/careers/jobs?gh_jid=5994439003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Klaviyo",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24499,7 +24447,7 @@
         "company_name": "Comcast",
         "id": "2f5d97bf-ac1c-46f1-bf43-1ce06e051c8e",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1747237592,
         "date_posted": 1747237592,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410445",
