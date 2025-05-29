@@ -22878,7 +22878,7 @@
         "company_name": "Pinterest",
         "id": "836b6c19-97e2-48ec-b0eb-a351d8e837d6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744957437,
         "date_posted": 1744957437,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=6816337",
@@ -23884,7 +23884,7 @@
         "company_name": "Nutanix",
         "id": "919244a4-4961-4cab-9622-bfdb974e4a18",
         "title": "Software Engineer 1/Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1746778219,
         "date_posted": 1746778219,
         "url": "https://jobs.jobvite.com/nutanix/job/oPR2vfwX?nl=1&nl=1&fr=false",
@@ -24751,7 +24751,7 @@
         "company_name": "Allegiant Air",
         "id": "2296fe37-66d9-4882-bb9a-1db9cdb9cdac",
         "title": "Software Frontend Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748373987,
         "date_posted": 1748373987,
         "url": "https://jobs.lever.co/allegiantair/ee33e426-98ad-4ac1-9775-5fb4e59cfe92/apply",
@@ -24811,6 +24811,23 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "156b1df0-6ea7-4680-81b3-0aedff749b18",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1748395107,
+        "date_posted": 1748395107,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202562939",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
