@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1717629371,
-        "date_posted": 1717629371,
-        "url": "https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Konrad Group",
         "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
         "title": "Mobile Developer \u2013 Entry Level",
@@ -815,38 +799,6 @@
             "Pleasanton, CA"
         ],
         "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gemini",
-        "id": "d062e142-8f84-4d97-90d1-d71e53a49c39",
-        "title": "Software Developer - Security",
-        "active": false,
-        "date_updated": 1717572332,
-        "date_posted": 1717572332,
-        "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=5905734&gh_jid=5905734",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gemini",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Dev Technology Group",
-        "id": "fff6a747-010f-422a-afcc-3f697797d3de",
-        "title": "Entry level New graduates - Computer Science/CIS",
-        "active": false,
-        "date_updated": 1717571444,
-        "date_posted": 1717571444,
-        "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -10871,103 +10823,6 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DAT Freight & Analytics",
-        "id": "472f07df-2c3c-4014-9773-ef4c6959edf5",
-        "title": "Associate Software Engineer - Front End",
-        "active": false,
-        "date_updated": 1719364853,
-        "date_posted": 1717629822,
-        "url": "https://careers.dat.com/jobs/5196632004?gh_jid=5196632004",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/DATFreight",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "e62ed8d2-093b-4611-ac1f-a4bda30365e1",
-        "title": "Perception Engineer - Maneuver Dominance",
-        "active": false,
-        "date_updated": 1717629749,
-        "date_posted": 1717629749,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4160392007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "9feab6ad-3ec7-466d-b237-bb211c783c17",
-        "title": "Perception Engineer - Maneuver Dominance",
-        "active": false,
-        "date_updated": 1717629748,
-        "date_posted": 1717629748,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4159127007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Exiger",
-        "id": "4e0835ad-b18e-4b2f-a659-05a69653248d",
-        "title": "Associate \u2013 Research & Delivery",
-        "active": false,
-        "date_updated": 1717629044,
-        "date_posted": 1717629044,
-        "url": "https://www.exiger.com/careers/5197383004?gh_jid=5197383004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Exiger",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fetch",
-        "id": "0fd00adb-ad3e-456b-b7cc-af77bda5cfe9",
-        "title": "IOS Software Engineer",
-        "active": false,
-        "date_updated": 1717628897,
-        "date_posted": 1717628897,
-        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6004245003",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/FetchRewards",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HeyGen",
-        "id": "ddef8625-d294-446b-98e4-6ec749f86ea5",
-        "title": "Frontend Software Engineer",
-        "active": false,
-        "date_updated": 1718737641,
-        "date_posted": 1717571216,
-        "url": "https://boards.greenhouse.io/heygen/jobs/4225179007",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/HeyGen",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24919,6 +24774,94 @@
             "Bristol, CT",
             "Glendale, CA",
             "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "e39dee4b-c67a-4642-b29f-5f994f3e3bd8",
+        "title": "Data Engineer I",
+        "active": false,
+        "date_updated": 1748651902,
+        "date_posted": 1748651902,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Engineer-I_1574916",
+        "locations": [
+            "California",
+            "Florida",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertex",
+        "id": "99231143-cfc7-4ad8-ae58-bb841a32102e",
+        "title": "Software Developer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1748653159,
+        "date_posted": 1748653159,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer-I_JR101131-1",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicell",
+        "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748658660,
+        "date_posted": 1748658660,
+        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4261",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748657041,
+        "date_posted": 1748657041,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "01a1e675-6cb4-4452-a930-98a18207e857",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748657163,
+        "date_posted": 1748657163,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10121473-1",
+        "locations": [
+            "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
