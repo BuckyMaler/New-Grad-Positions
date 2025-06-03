@@ -10731,38 +10731,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Wongdoody",
-        "id": "5b62281b-5676-479f-99e8-f8b9c47babce",
-        "title": "IOS Developer",
-        "active": false,
-        "date_updated": 1717763553,
-        "date_posted": 1717763553,
-        "url": "https://boards.greenhouse.io/wongdoody/jobs/6003954003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wongdoody",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Voleon Group",
-        "id": "fe973129-18e3-45ce-af3f-7505d95b6158",
-        "title": "Software Engineer - Business Process & Automation",
-        "active": false,
-        "date_updated": 1719429522,
-        "date_posted": 1717759475,
-        "url": "https://jobs.lever.co/voleon/edb35bac-5c73-421d-926c-48a9efb5041d/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -11517,22 +11485,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Seneca-Nation-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Pollen Mobile",
-        "id": "79a02e5b-32a5-41d7-91e5-e6b098706fe4",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1720486190,
-        "date_posted": 1717764512,
-        "url": "https://jobs.lever.co/pronto-ai/575d882e-624c-4259-9114-260fe7aa860c/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Pollen-Mobile",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -20722,7 +20674,7 @@
         "company_name": "Splunk",
         "id": "07ffc73d-aed6-4d82-9fc5-371e2650d332",
         "title": "Fedramp Machine Learning Engineer - Early in Career",
-        "active": true,
+        "active": false,
         "date_updated": 1741822135,
         "date_posted": 1741822135,
         "url": "https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false",
@@ -21382,7 +21334,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "655c3fce-8de0-4783-b341-9b0565b8968d",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1743017870,
         "date_posted": 1742872919,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Sofware-Engineer-I_R0027092",
@@ -22828,7 +22780,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1745412218,
         "date_posted": 1740429670,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
@@ -23767,7 +23719,7 @@
         "company_name": "Affirm",
         "id": "004ee5c4-9eb4-4f8e-ac9f-649677226c18",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747274690,
         "date_posted": 1747274690,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6570371003",
@@ -24182,7 +24134,7 @@
         "company_name": "Global Payments",
         "id": "b2d9c7cd-851d-4563-8385-2f7f328b68f3",
         "title": "Mainframe Software Engineer I or Above",
-        "active": false,
+        "active": true,
         "date_updated": 1747846875,
         "date_posted": 1747846875,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Software-Engineer-Senior-or-Above_R0059814-1",
@@ -24494,7 +24446,7 @@
         "company_name": "Jerry",
         "id": "25ec6ebd-33b7-4de4-8826-96a5f3cd7d90",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748377582,
         "date_posted": 1748377582,
         "url": "https://jobs.ashbyhq.com/Jerry/f5fcf725-2c2a-42f7-aed9-e2a7b2e40f6f/application",
@@ -24511,7 +24463,7 @@
         "company_name": "Jerry",
         "id": "2048b645-c67e-401d-81ee-03307c7271b1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748377583,
         "date_posted": 1748377583,
         "url": "https://jobs.ashbyhq.com/Jerry/80da1e07-dbc2-4c10-a8ba-002e8e970bdc/application",
@@ -24614,7 +24566,7 @@
         "company_name": "RTX",
         "id": "bfd63ca5-4bf3-434a-880d-dd0f4450f95e",
         "title": "C/C++ and Java Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748570188,
         "date_posted": 1748570188,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/C-C---and-Java-Software-Development-Engineer-I--Onsite-_01770233",
@@ -24648,7 +24600,7 @@
         "company_name": "Cox",
         "id": "01d7e84d-bb34-47e2-8df0-f0763394468f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748573117,
         "date_posted": 1748573117,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202563166",
@@ -24740,7 +24692,7 @@
         "company_name": "Vertex",
         "id": "99231143-cfc7-4ad8-ae58-bb841a32102e",
         "title": "Software Developer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1748653159,
         "date_posted": 1748653159,
         "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer-I_JR101131-1",
@@ -24800,6 +24752,107 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "0ded481a-71ef-48cd-ac34-ea790e58826f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748890885,
+        "date_posted": 1748890885,
+        "url": "https://jobs.ashbyhq.com/Jerry/5ca08967-fa9e-48d2-89a3-cb1d0d191d25/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "e9f8bb59-dad9-4b95-89cd-7734a5e13f56",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748894912,
+        "date_posted": 1748894912,
+        "url": "https://jobs.ashbyhq.com/Jerry/9b0f472a-e1a2-484b-af4b-53134df3e39d/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "92a61f68-3b0b-4e8f-b27e-dc0f1236982b",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1748896122,
+        "date_posted": 1748896122,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1422262-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1748897636,
+        "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
+        "company_name": "Mandolin",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Fransisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Mandolin-RoshanT",
+        "id": "912501d1-5cc5-4ffb-8ea2-399004013cca",
+        "date_posted": 1748897636,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748897902,
+        "url": "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f",
+        "company_name": "Mandolin",
+        "title": "Forward Deployed Engineer",
+        "locations": [
+            "San Fransisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Mandolin-RoshanT",
+        "id": "2a0111f3-9e8b-45fb-adfc-aac790590dda",
+        "date_posted": 1748897902,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "b93502c9-30b8-4122-adc8-57b52d142df9",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1748901307,
+        "date_posted": 1748901307,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Junior-Software-Developer--TS-SCI-with-Poly_308758-1",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
