@@ -756,38 +756,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "c6cd12fe-2403-42c4-8c68-25d223ad9fdc",
-        "title": "Entry-Level AI Response Evaluator - Japanese - United States",
-        "active": false,
-        "date_updated": 1718045910,
-        "date_posted": 1717866586,
-        "url": "https://jobs.lever.co/welocalize/110953c3-74d5-494a-a598-1c1fa8034fbc/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
-        "title": "Associate Software Engineer in Test",
-        "active": false,
-        "date_updated": 1718150683,
-        "date_posted": 1717863833,
-        "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10695,38 +10663,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Inari Agriculture",
-        "id": "b3178625-afcb-4ee6-a33c-208d21c3d61d",
-        "title": "Field Data Scientist",
-        "active": false,
-        "date_updated": 1717864581,
-        "date_posted": 1717864581,
-        "url": "https://boards.greenhouse.io/inariagriculture/jobs/7291700002",
-        "locations": [
-            "West Lafayette, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Inari-Agriculture",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "8250c475-1db8-4323-a8c6-8dbccd024f27",
-        "title": "Kinesso \u2013 Campaign Manager - Programmatic",
-        "active": false,
-        "date_updated": 1718059381,
-        "date_posted": 1717814434,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4382486007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23944,7 +23880,7 @@
         "company_name": "Truist",
         "id": "a8bacb04-9bc6-4e63-814e-999777d2c423",
         "title": "Testing Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747439084,
         "date_posted": 1747439084,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0100249",
@@ -24727,7 +24663,7 @@
         "company_name": "Chewy",
         "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748657041,
         "date_posted": 1748657041,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
@@ -24845,7 +24781,7 @@
         "company_name": "CACI",
         "id": "b93502c9-30b8-4122-adc8-57b52d142df9",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1748901307,
         "date_posted": 1748901307,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Junior-Software-Developer--TS-SCI-with-Poly_308758-1",
@@ -24853,6 +24789,41 @@
             "Dulles, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Yahoo",
+        "id": "66ecc266-39a4-49c3-9cea-bbabfb5a82cd",
+        "title": "Software Dev Engineer I - Data Platforms",
+        "active": false,
+        "date_updated": 1748911934,
+        "date_posted": 1748911934,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I--Data-Platforms_JR0025606",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Numeric",
+        "id": "c1940def-1b0f-4f57-8517-4b6abdb3b22a",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1748918686,
+        "date_posted": 1748918686,
+        "url": "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Numeric-IO",
         "is_visible": true,
         "sponsorship": "Other"
     }
