@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
-        "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
-        "active": false,
-        "date_updated": 1718098999,
-        "date_posted": 1718098999,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Graphics-Developer-Tool---New-College-Grad-2024_JR1981743-1",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Search Discovery",
         "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
         "title": "Data Engineer I",
@@ -703,22 +686,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Collectors",
-        "id": "d4fd6201-30ef-4275-9ff9-2fd819148233",
-        "title": "Research Specialist - PM Shift - Temp-to-hire",
-        "active": false,
-        "date_updated": 1719342980,
-        "date_posted": 1718100679,
-        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5200906004",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Collectors",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23883,7 +23850,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -24555,7 +24522,7 @@
         "company_name": "The Walt Disney Company",
         "id": "985a1ce5-abec-447c-a212-73c296f3978b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748629806,
         "date_posted": 1748629806,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10122274",
@@ -24870,7 +24837,7 @@
         "company_name": "Qualtrics",
         "id": "0b9b6974-8f0d-4554-a8cf-0b1ef24954aa",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1749082663,
         "date_posted": 1749082663,
         "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
@@ -24888,7 +24855,7 @@
         "company_name": "Jerry",
         "id": "ac124f7e-452f-40b2-803f-3f9ba0caf4e1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749090517,
         "date_posted": 1749090517,
         "url": "https://jobs.ashbyhq.com/Jerry/ef71b5ab-8849-4d81-adc3-a150ef83a77b/application",
@@ -24905,7 +24872,7 @@
         "company_name": "Jerry",
         "id": "f284567b-1315-487d-8c8d-0367f1563831",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749090027,
         "date_posted": 1749090027,
         "url": "https://jobs.ashbyhq.com/Jerry/1cba1452-a2cc-4d93-9413-d8406b0bcea7/application",
@@ -25025,7 +24992,7 @@
         "company_name": "Cox",
         "id": "d28356e9-a49a-4ccf-bf5b-232d2e9daa56",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1749166278,
         "date_posted": 1749166278,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-1_R202563453",
@@ -25033,6 +25000,40 @@
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "ae667c1a-7742-4562-97ee-c695209e879f",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1749156687,
+        "date_posted": 1749156687,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "a4e7658a-a929-45c6-9253-9296e7897bcd",
+        "title": "Engineer 1 - Software Dev/Eng - Full Stack",
+        "active": true,
+        "date_updated": 1749191553,
+        "date_posted": 1749191553,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev-Eng-----Full-Stack_R413401",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
