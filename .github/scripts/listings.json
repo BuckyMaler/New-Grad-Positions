@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Search Discovery",
-        "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1718187003,
-        "date_posted": 1718187003,
-        "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034491",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/SearchDiscovery",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "UiPath",
-        "id": "5e9167d8-f42f-4865-adc7-5e6603ba4a87",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718186466,
-        "date_posted": 1718186466,
-        "url": "https://careers.uipath.com/jobs/9169?lang=en-us&icims=1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Kalderos",
         "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
         "title": "Software Engineer I",
@@ -670,22 +638,6 @@
             "Orange, CA"
         ],
         "company_url": "https://simplify.jobs/c/Collectors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "21048f42-2611-411d-b407-13af2c43dc82",
-        "title": "Part Time \u2013 Clinical Robot Associate - Chicago - IL",
-        "active": false,
-        "date_updated": 1718189535,
-        "date_posted": 1718189535,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6021249003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -10314,294 +10266,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Bandwidth",
-        "id": "11683186-b7bc-45ba-b05f-bab84a56a76b",
-        "title": "Internal Applications Engineer",
-        "active": false,
-        "date_updated": 1718232896,
-        "date_posted": 1718232896,
-        "url": "https://boards.greenhouse.io/bandwidth/jobs/6031102",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bandwidth",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "dunnhumby",
-        "id": "21979e4f-8da4-4171-b49c-f2519fc4d69d",
-        "title": "Engineer",
-        "active": false,
-        "date_updated": 1718232545,
-        "date_posted": 1718232545,
-        "url": "https://www.dunnhumby.com/jobs/?gh_jid=6017475003",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/dunnhumby",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Seneca Nation Group",
-        "id": "6ed7d6a7-6be6-4476-950a-7b99099d0e7c",
-        "title": "Database Administrator",
-        "active": false,
-        "date_updated": 1718232252,
-        "date_posted": 1718232252,
-        "url": "https://senecaholdings.com/jobs/?gh_jid=4430081005",
-        "locations": [
-            "Killeen, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Seneca-Nation-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "df7c06ff-3ac7-447d-90e8-301f534dcdef",
-        "title": "Software Engineer In Test - NY Remote",
-        "active": false,
-        "date_updated": 1720486402,
-        "date_posted": 1718230380,
-        "url": "https://jobs.lever.co/prelim/75262bad-f83c-40a3-8f1f-29a2c4fce011/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "92f8f4f6-bb4f-4290-bd01-be90d716358f",
-        "title": "Software Engineer In Test - LA Remote",
-        "active": false,
-        "date_updated": 1720486642,
-        "date_posted": 1718230384,
-        "url": "https://jobs.lever.co/prelim/e0bf1295-d4d9-468c-8aae-f4ab8690f383/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "77548f27-9286-4cbb-abc9-8688c5cf3cb0",
-        "title": "Software Engineer In Test - SF Remote",
-        "active": false,
-        "date_updated": 1720486387,
-        "date_posted": 1718230377,
-        "url": "https://jobs.lever.co/prelim/a4444c2d-e66a-448a-b4b0-85525c01335f/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tombras",
-        "id": "3826162e-eb28-467b-a3db-327ca13a7d29",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1718230425,
-        "date_posted": 1718230425,
-        "url": "https://jobs.lever.co/tombras/59331e88-3f1f-45dd-a056-2a602a1b633c/apply",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Tombras",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ensemble",
-        "id": "b42324c9-b05a-4cb5-84ee-c2723a4df9c7",
-        "title": "Data Visualization Specialist",
-        "active": false,
-        "date_updated": 1718227832,
-        "date_posted": 1718227832,
-        "url": "https://boards.greenhouse.io/ensemble/jobs/4404267007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensemble",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "TravelPerk",
-        "id": "30bbed98-14eb-41ca-bd5d-c6b029fa1595",
-        "title": "Android Engineer",
-        "active": false,
-        "date_updated": 1718227532,
-        "date_posted": 1718227532,
-        "url": "https://www.travelperk.com/job-application/?gh_jid=3560401",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TravelPerk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "WorldQuant",
-        "id": "befca383-f31e-4925-b951-1683a7f2e4ad",
-        "title": "Trading Operations Engineer",
-        "active": false,
-        "date_updated": 1718226021,
-        "date_posted": 1718226021,
-        "url": "https://boards.greenhouse.io/worldquant/jobs/4372923006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/WorldQuant",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "e8e651bb-f2dd-422d-b23e-1cd6687cbdc3",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718225952,
-        "date_posted": 1718225952,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405259005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "00841873-98cb-4a3a-ada4-bebc8eb31846",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718225939,
-        "date_posted": 1718225939,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405268005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ExodusPoint",
-        "id": "510de715-b730-44a0-9a67-ba46dc1cbb82",
-        "title": "Risk Developer",
-        "active": false,
-        "date_updated": 1718225471,
-        "date_posted": 1718225471,
-        "url": "https://boards.greenhouse.io/exoduspoint/jobs/6980709002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/ExodusPoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Analytic Partners",
-        "id": "eeff5556-32b6-42ff-9d4f-bb6bb5d3c416",
-        "title": "Software Engineer - Python",
-        "active": false,
-        "date_updated": 1718224503,
-        "date_posted": 1718224503,
-        "url": "https://jobs.lever.co/analyticpartners/f69e1a6c-c25f-4821-9bd5-3b72d6115fd8/apply",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytic-Partners",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "056851ba-b215-43e6-963e-a13802e20e6a",
-        "title": "Trading Desk Operations Engineer",
-        "active": false,
-        "date_updated": 1718188007,
-        "date_posted": 1718188007,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7486198002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "c564cfe1-469c-471a-8545-5e762290eaa7",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718185705,
-        "date_posted": 1718185705,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405275005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "a924361a-b8a7-467b-b019-02692cd4d389",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718176903,
-        "date_posted": 1718176903,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405272005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "dabbcf55-c5e4-4b33-a76e-4769706d56ba",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718156516,
-        "date_posted": 1718156516,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405260005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -11858,22 +11522,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arsiem Corporation",
-        "id": "17854bb2-4069-4ad1-bc33-7eaf2e3ce692",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1718229625,
-        "date_posted": 1718229625,
-        "url": "https://jobs.lever.co/arsiem/1704e662-12d0-481e-8d2f-6571d12b4d65/apply",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -20577,7 +20225,7 @@
         "company_name": "Radiant",
         "id": "3430703f-ad5d-4462-ad0c-63f3bd7bea59",
         "title": "Software Engineer \u2013 New Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1741909038,
         "date_posted": 1741909038,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4540308005",
@@ -23850,7 +23498,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -24022,7 +23670,7 @@
         "company_name": "Cox",
         "id": "565ee00e-b9fc-43bb-a494-b240d1f2f772",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747850798,
         "date_posted": 1747850798,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202561161",
@@ -24820,7 +24468,7 @@
         "company_name": "USAA",
         "id": "0b713de4-99ed-4f04-9774-87d58d2fd092",
         "title": "Data Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1749073264,
         "date_posted": 1749073264,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer---Entry-Level_R0109984",
@@ -24837,7 +24485,7 @@
         "company_name": "Qualtrics",
         "id": "0b9b6974-8f0d-4554-a8cf-0b1ef24954aa",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1749082663,
         "date_posted": 1749082663,
         "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
@@ -25034,6 +24682,58 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "4478d71d-1724-4037-a8dc-0d74c18d81c6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749244765,
+        "date_posted": 1749244765,
+        "url": "https://jobs.ashbyhq.com/Jerry/1ad199e1-668c-436c-8125-2ce019979fc7/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "38f288c6-281c-4954-a79b-61319230f507",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749256429,
+        "date_posted": 1749256429,
+        "url": "https://jobs.ashbyhq.com/Jerry/bf3c29df-7967-4e12-b84e-d0c725f33261/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Relativity Space",
+        "id": "18a63e15-0822-4fcf-965d-19765771fb6b",
+        "title": "Software Engineer I - Factory Platform",
+        "active": true,
+        "date_updated": 1749265082,
+        "date_posted": 1749265082,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8029393002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other"
     }
