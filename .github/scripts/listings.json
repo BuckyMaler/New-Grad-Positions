@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Kalderos",
-        "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718302393,
-        "date_posted": 1718302393,
-        "url": "https://www.kalderos.com/company/job-board/?gh_jid=6024016003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kalderos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Replo",
-        "id": "6b914596-3d09-4136-b34d-72d820620116",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1718272246,
-        "date_posted": 1718272246,
-        "url": "https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Replo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Aquatic Capital Management",
         "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
         "title": "Software Engineer \u2013 Data: Early Career - 2024",
@@ -606,38 +574,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Telesat",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "c79ca512-cb75-468c-b6c7-91c8d1adf52b",
-        "title": "Kinesso \u2013 Associate - Addressable Activation",
-        "active": false,
-        "date_updated": 1718320074,
-        "date_posted": 1718320074,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4398165007",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Collectors",
-        "id": "6f79916e-3862-40d7-8e3a-d9d76d5b4566",
-        "title": "Trading Card Specialist - PM Shift - Temp-to-hire",
-        "active": false,
-        "date_updated": 1719342782,
-        "date_posted": 1718270778,
-        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5201158004",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Collectors",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -10118,150 +10054,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/ManticoreGames",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Axiom Space",
-        "id": "860ac63a-8763-425f-91b1-087014d16d60",
-        "title": "RF Software Engineer",
-        "active": false,
-        "date_updated": 1718320494,
-        "date_posted": 1718320494,
-        "url": "https://axiomspace.bamboohr.com/careers/865/",
-        "locations": [
-            "Webster, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AxiomSpace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Axiom Space",
-        "id": "a887487e-efcf-4031-9b98-4cf492b0606a",
-        "title": "AI&T Technician",
-        "active": false,
-        "date_updated": 1718320486,
-        "date_posted": 1718320486,
-        "url": "https://axiomspace.bamboohr.com/careers/641/",
-        "locations": [
-            "Webster, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AxiomSpace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Analytic Partners",
-        "id": "0eec6c41-f528-470b-8700-50e88f221702",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1718319956,
-        "date_posted": 1718319956,
-        "url": "https://jobs.lever.co/analyticpartners/0584a8f8-ce64-4f38-963b-5ecf5382cd80/apply",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytic-Partners",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "PitchBook",
-        "id": "e89d3a5d-df6f-4b7c-92d0-530bbc0f5f55",
-        "title": "Data Analyst - Private Markets",
-        "active": false,
-        "date_updated": 1720206817,
-        "date_posted": 1718306441,
-        "url": "https://boards.greenhouse.io/pitchbookdata/jobs/4373393006",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/PitchBook",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DeepMind",
-        "id": "15a0fab8-36e5-4f37-815e-452bbfc01b09",
-        "title": "Research Engineer - Foundational Research - New York",
-        "active": false,
-        "date_updated": 1718300453,
-        "date_posted": 1718300453,
-        "url": "https://boards.greenhouse.io/deepmind/jobs/6038986",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DeepMind",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DoraHacks",
-        "id": "1c4a7ee6-3377-4a22-9a6d-eec123c79a1a",
-        "title": "Blockchain Developer - Cosmossdk",
-        "active": false,
-        "date_updated": 1718277229,
-        "date_posted": 1718277229,
-        "url": "https://jobs.lever.co/DoraHacks/bc9fe296-233c-4949-8874-eb8824d18c23/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoraHacks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "a58ca12d-3d7c-4264-a641-ff0852c37889",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718247781,
-        "date_posted": 1718247781,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405274005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "96eaccb6-bcad-4ccd-be22-e8e2f40cafce",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718247789,
-        "date_posted": 1718247789,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405263005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "076f8d57-3d9d-459c-b1f5-e6550e694664",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718247782,
-        "date_posted": 1718247782,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405276005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24674,7 +24466,7 @@
         "company_name": "Comcast",
         "id": "a4e7658a-a929-45c6-9253-9296e7897bcd",
         "title": "Engineer 1 - Software Dev/Eng - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1749191553,
         "date_posted": 1749191553,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev-Eng-----Full-Stack_R413401",
@@ -24734,6 +24526,23 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "904a6d2f-35f5-4628-a253-66e50a77d8f4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749368316,
+        "date_posted": 1749368316,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6824705",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
     }
