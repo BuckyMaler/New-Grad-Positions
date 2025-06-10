@@ -547,38 +547,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "25fbebce-34f6-46aa-8855-a7c49ac06aab",
-        "title": "Clinical Robot Associate - Columbus - OH",
-        "active": false,
-        "date_updated": 1718407501,
-        "date_posted": 1718407501,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6026478003",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Telesat",
-        "id": "7cbb1cb2-93e5-4378-85b7-8912197d7db5",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1718406625,
-        "date_posted": 1718406625,
-        "url": "https://jobs.lever.co/telesat/c635dc25-5dcd-4fc2-b24b-db1ab1d42d89/apply",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Telesat",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10022,38 +9990,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sylvera",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lyft",
-        "id": "cbc91f3c-c19e-4fb8-9bed-7ae20deeb1ff",
-        "title": "Software Engineer - Security Foundations",
-        "active": false,
-        "date_updated": 1718407071,
-        "date_posted": 1718407071,
-        "url": "https://app.careerpuck.com/job-board/lyft/job/7495795002?gh_jid=7495795002",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lyft",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Manticore Games",
-        "id": "2d5b3df5-4d57-4147-bae2-7f557cb5f2cd",
-        "title": "Software Engineer - Build",
-        "active": false,
-        "date_updated": 1718406719,
-        "date_posted": 1718406719,
-        "url": "https://www.manticoregames.com/careers/?gh_jid=7095077002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ManticoreGames",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -22873,7 +22809,7 @@
         "company_name": "Salesforce",
         "id": "74920028-4f5d-450e-88c3-4caccd6cc51e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1746821189,
         "date_posted": 1746821189,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR295894-1",
@@ -24364,7 +24300,7 @@
         "company_name": "RTX",
         "id": "ccaa4fb3-137f-4ce7-b7b5-a514e4564bde",
         "title": "Software Engineer I - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1749162410,
         "date_posted": 1749162410,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--C-------Onsite-_01740652",
@@ -24415,7 +24351,7 @@
         "company_name": "RTX",
         "id": "9d9be120-9661-444e-a7ca-085385022fd3",
         "title": "Software Engineer I - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1749166369,
         "date_posted": 1749166369,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01732642",
@@ -24449,7 +24385,7 @@
         "company_name": "Amentum",
         "id": "ae667c1a-7742-4562-97ee-c695209e879f",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1749156687,
         "date_posted": 1749156687,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249",
@@ -24483,7 +24419,7 @@
         "company_name": "Jerry",
         "id": "4478d71d-1724-4037-a8dc-0d74c18d81c6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749244765,
         "date_posted": 1749244765,
         "url": "https://jobs.ashbyhq.com/Jerry/1ad199e1-668c-436c-8125-2ce019979fc7/application",
@@ -24500,7 +24436,7 @@
         "company_name": "Jerry",
         "id": "38f288c6-281c-4954-a79b-61319230f507",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749256429,
         "date_posted": 1749256429,
         "url": "https://jobs.ashbyhq.com/Jerry/bf3c29df-7967-4e12-b84e-d0c725f33261/application",
@@ -24545,5 +24481,53 @@
         "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1749489255,
+        "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a",
+        "company_name": "N1",
+        "title": "New Grad Software Engineer (Full Stack)",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Orazej",
+        "id": "0466e15a-b254-4e00-adeb-31680d73f854",
+        "date_posted": 1749489255,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749489273,
+        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd",
+        "company_name": "N1",
+        "title": "New Grad Software Engineer (Backend Rust)",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Orazej",
+        "id": "7bdb9743-578d-4529-923d-f9a1418092c0",
+        "date_posted": 1749489273,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749489300,
+        "url": "https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567",
+        "company_name": "N1",
+        "title": "Software Engineer (Backend Rust)",
+        "locations": [
+            "New York City"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dfucius",
+        "id": "e13d5b72-9c33-4ce0-8428-80e020bfe5dc",
+        "date_posted": 1749489300,
+        "company_url": "",
+        "is_visible": true
     }
 ]
