@@ -9962,22 +9962,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "TruckSmarter",
-        "id": "d05836a0-6e59-4fdd-9f63-9284fd6c3f66",
-        "title": "Product Engineer - Fintech",
-        "active": false,
-        "date_updated": 1718665582,
-        "date_posted": 1718665582,
-        "url": "https://jobs.ashbyhq.com/trucksmarter/343d6b44-b27b-4238-96d6-88c53223d49d/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/TruckSmarter",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -13058,7 +13042,7 @@
         "company_name": "SingleStore",
         "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
         "title": "Software Engineer \u2013 University Graduate - Database Engine",
-        "active": false,
+        "active": true,
         "date_updated": 1726873933,
         "date_posted": 1726873933,
         "url": "https://boards.greenhouse.io/singlestore/jobs/6237482",
@@ -16732,7 +16716,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -22656,7 +22640,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -23365,7 +23349,7 @@
         "company_name": "Global Payments",
         "id": "b2d9c7cd-851d-4563-8385-2f7f328b68f3",
         "title": "Mainframe Software Engineer I or Above",
-        "active": true,
+        "active": false,
         "date_updated": 1747846875,
         "date_posted": 1747846875,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Software-Engineer-Senior-or-Above_R0059814-1",
@@ -24163,7 +24147,7 @@
         "company_name": "Magical",
         "id": "c4525cfe-fce3-483f-ab1d-50ad350da242",
         "title": "Software Engineer \u2013 New Grad - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1749065450,
         "date_posted": 1748567513,
         "url": "https://jobs.ashbyhq.com/magical/5d001754-2817-44d0-af08-a36525848a15/application",
@@ -24267,7 +24251,7 @@
         "company_name": "Omnicell",
         "id": "e55927c8-69f7-49bd-b1cd-7427d9c9187b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749159921,
         "date_posted": 1749159921,
         "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4131",
@@ -24537,7 +24521,7 @@
         "company_name": "Esri",
         "id": "7bacd203-41b1-43fe-9233-014b3b7ae09d",
         "title": "3D Software Engineer I - Scene Layers",
-        "active": true,
+        "active": false,
         "date_updated": 1749541482,
         "date_posted": 1749541482,
         "url": "https://www.esri.com/careers/4756374007?gh_jid=4756374007",
@@ -24683,6 +24667,179 @@
             "Richardson, TX"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "6a073c64-89e1-494c-9db4-780abd1df87b",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1749693233,
+        "date_posted": 1749693233,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140459",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "47ebe178-d299-43bf-95e4-e124d2404a24",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1749693233,
+        "date_posted": 1749693233,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140458",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1749693231,
+        "date_posted": 1749693231,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Relativity Space",
+        "id": "92b236e9-f2d6-4b02-a956-0ec292ed153f",
+        "title": "Software Engineer I - Factory Platform",
+        "active": true,
+        "date_updated": 1749693098,
+        "date_posted": 1749693098,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8031811002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "7f2f7c82-d34f-44c8-83b0-ef1e3a65c34d",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1749696025,
+        "date_posted": 1749696025,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/COBALT-PARK-GO/Junior-Software-Developer_R000133283",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "c51f55af-91b8-4dbc-b0bd-93a96e0f3ec7",
+        "title": "Software Engineer I - Backend - Identity Decisioning",
+        "active": true,
+        "date_updated": 1749696761,
+        "date_posted": 1749696761,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6605721003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "148f33c0-78be-4f05-af96-c10e696ee96d",
+        "title": "Software Engineer I - Backend - Identity Decisioning",
+        "active": true,
+        "date_updated": 1749696764,
+        "date_posted": 1749696764,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6605722003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tower Research Capital",
+        "id": "3fbe5f4e-e83b-4dd0-8d66-6873e67b8be4",
+        "title": "Software Engineer \u2013 New Grad - C++",
+        "active": true,
+        "date_updated": 1749696611,
+        "date_posted": 1749696611,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
+        "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
+        "active": true,
+        "date_updated": 1749762513,
+        "date_posted": 1749762513,
+        "url": "https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Taco Bell",
+        "id": "8e36922e-f0b8-456e-973f-d5be216fc17f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1749762927,
+        "date_posted": 1749762927,
+        "url": "https://job-boards.greenhouse.io/tacobell/jobs/6843093",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TacoBell",
         "is_visible": true,
         "sponsorship": "Other"
     }
