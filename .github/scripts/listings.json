@@ -8176,22 +8176,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "VideoAmp",
-        "id": "0c8642f3-c5d7-4aba-9d74-34716507d5f1",
-        "title": "Data Reporting Engineer",
-        "active": false,
-        "date_updated": 1719516388,
-        "date_posted": 1718781265,
-        "url": "http://videoamp.com/job?gh_jid=7442686002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/VideoAmp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -20700,7 +20684,7 @@
         "company_name": "Yahoo",
         "id": "7016a5af-0041-49f1-92fe-5b86052df035",
         "title": "Big Data Tools Engineer - Software Dev Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746154749,
         "date_posted": 1746154749,
         "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664",
@@ -23131,7 +23115,7 @@
         "company_name": "Truist",
         "id": "ceb4bb2b-1182-4adb-aad0-7cde078e9465",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749853698,
         "date_posted": 1749853698,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103666-1",
@@ -23139,6 +23123,41 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749876528,
+        "date_posted": 1749876528,
+        "url": "https://jobs.ashbyhq.com/Jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "9c2e0bd7-2137-475b-a7db-80b592a9801b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749867696,
+        "date_posted": 1749867696,
+        "url": "https://jobs.ashbyhq.com/Jerry/3be6e143-ee06-4a70-be7d-c329b06c39dc/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
