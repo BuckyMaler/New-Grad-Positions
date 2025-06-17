@@ -1,37 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "SimpliSafe",
-        "id": "4623274c-aa5b-4987-abb6-0d44af521387",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718982721,
-        "date_posted": 1718982721,
-        "url": "https://boards.greenhouse.io/simplisafe/jobs/6019248",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SimpliSafe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Advanced Technology Services (ATS)",
-        "id": "34a2109e-c491-4143-b156-39bfa8cf7b98",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718983575,
-        "date_posted": 1718983575,
-        "url": "https://boards.greenhouse.io/advancedtechnologyservices/jobs/4378598006",
-        "locations": [
-            "Peoria, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719426621,
         "url": "https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us",
         "company_name": "Amazon",
@@ -92,54 +60,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Forward",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BitGo",
-        "id": "fc6ecf6a-d434-4bcb-9b58-425486c3141f",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1719012374,
-        "date_posted": 1719012374,
-        "url": "https://boards.greenhouse.io/bitgo/jobs/7508780002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "a8cbf680-7187-425d-8949-0cbb2d517137",
-        "title": "Associate \u2013 Programmatic",
-        "active": false,
-        "date_updated": 1719011365,
-        "date_posted": 1719011365,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4365650007",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Clever",
-        "id": "f4fde4d8-d3f6-4ace-8352-940fb35b55fd",
-        "title": "General Applications - Software Engineer - All levels",
-        "active": false,
-        "date_updated": 1718966220,
-        "date_posted": 1718966220,
-        "url": "https://www.clever.com/about/careers?gh_jid=4641126",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Clever",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -2269,22 +2189,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Sourcegraph",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ascend Analytics",
-        "id": "6ffcf3d4-b6fd-43ff-b2fd-a9c8ab4eac57",
-        "title": "Energy Analyst - General Interest",
-        "active": false,
-        "date_updated": 1720034480,
-        "date_posted": 1718965188,
-        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4384286005",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AscendAnalytics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -7818,183 +7722,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/System1",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ElevenLabs",
-        "id": "e01a4b1d-a57d-467f-b331-cc2482db514d",
-        "title": "Fullstack Engineer - Frontend Leaning",
-        "active": false,
-        "date_updated": 1718982381,
-        "date_posted": 1718982381,
-        "url": "https://jobs.ashbyhq.com/elevenlabs/ef90b176-ca78-42bd-880a-bab3b0533629/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ElevenLabs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arc'teryx Equipment",
-        "id": "0e56e773-e292-45a7-ae76-0ad442cc6c88",
-        "title": "Materials Coordinator",
-        "active": false,
-        "date_updated": 1720486142,
-        "date_posted": 1719012621,
-        "url": "https://jobs.lever.co/arcteryx.com/346c0567-676d-4a9f-aa93-6c1ac8d17f87/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Snyk",
-        "id": "e31d84dd-04d2-4eb8-8955-0cf42ab0b33b",
-        "title": "Software Engineer - Appsec Admin Team",
-        "active": false,
-        "date_updated": 1718983356,
-        "date_posted": 1718983356,
-        "url": "https://boards.greenhouse.io/snyk/jobs/7053383002",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Snyk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Voleon Group",
-        "id": "c5ae6328-02cf-439e-87b3-b2b9dcf8bb26",
-        "title": "Trading Operations Analyst",
-        "active": false,
-        "date_updated": 1719011532,
-        "date_posted": 1719011532,
-        "url": "https://jobs.lever.co/voleon/56c11e51-099c-4124-9883-cff318543ec7/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "MiQ",
-        "id": "c291f367-2610-4c3b-bec5-242402afca9d",
-        "title": "Associate Programmatic Trader - Advertising",
-        "active": false,
-        "date_updated": 1719011715,
-        "date_posted": 1719011715,
-        "url": "https://www.wearemiq.com/careers/job?gh_jid=7507820002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MiQ",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Keywords Studios",
-        "id": "6dfa515f-8204-4a58-9f6a-01355c98fddf",
-        "title": "Game Engineering - Programming & Tech Art - Talent Community",
-        "active": false,
-        "date_updated": 1719516221,
-        "date_posted": 1718967159,
-        "url": "https://apply.workable.com/keywords-intl1/j/40D0338604/apply",
-        "locations": [
-            "Scotland, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Keywords-Studios",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Keywords Studios",
-        "id": "d112e906-5596-4abb-8d81-27a3f4982e72",
-        "title": "Game Engineering - Programming & Tech Art - Talent Community",
-        "active": false,
-        "date_updated": 1719516276,
-        "date_posted": 1718967174,
-        "url": "https://apply.workable.com/keywords-intl1/j/B0CD44F5F0/apply",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Keywords-Studios",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Keywords Studios",
-        "id": "0f694b7c-1f94-4091-ae73-4a80f2794128",
-        "title": "Game Engineering - Programming & Tech Art - Talent Community",
-        "active": false,
-        "date_updated": 1719516627,
-        "date_posted": 1718967169,
-        "url": "https://apply.workable.com/keywords-intl1/j/DCDFFC25BD/apply",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Keywords-Studios",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Netskope",
-        "id": "29c5e7b6-1787-4c4c-92bd-7f1a1e96b901",
-        "title": "Linux Operations Engineer - Fedramp - Contractor",
-        "active": false,
-        "date_updated": 1718965773,
-        "date_posted": 1718965773,
-        "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=5986339",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Netskope",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Universal Engineering Sciences",
-        "id": "7d1ed8a6-5b3c-40c3-ad8e-eff2829c1fd3",
-        "title": "Staff Geologist",
-        "active": false,
-        "date_updated": 1718964844,
-        "date_posted": 1718964844,
-        "url": "https://jobs.lever.co/universalengineeringsciences/c1860464-4ccf-4ee9-88af-14422e6a4461/apply",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Universal-Engineering-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "XPeng Motors",
-        "id": "fcb0a0c1-fdeb-4590-be19-b491a62d1785",
-        "title": "Data Analyst - Contractor",
-        "active": false,
-        "date_updated": 1718964594,
-        "date_posted": 1718964594,
-        "url": "https://boards.greenhouse.io/xpengmotors/jobs/7245295002",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/XPengMotors",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -22869,7 +22596,7 @@
         "company_name": "Taco Bell",
         "id": "8e36922e-f0b8-456e-973f-d5be216fc17f",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749762927,
         "date_posted": 1749762927,
         "url": "https://job-boards.greenhouse.io/tacobell/jobs/6843093",
@@ -22955,7 +22682,7 @@
         "company_name": "Jerry",
         "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749876528,
         "date_posted": 1749876528,
         "url": "https://jobs.ashbyhq.com/Jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e/application",
@@ -22972,13 +22699,48 @@
         "company_name": "Jerry",
         "id": "9c2e0bd7-2137-475b-a7db-80b592a9801b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749867696,
         "date_posted": 1749867696,
         "url": "https://jobs.ashbyhq.com/Jerry/3be6e143-ee06-4a70-be7d-c329b06c39dc/application",
         "locations": [
             "Toronto, ON, Canada",
             "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "16661010-6f98-42f0-a289-1249e8f0229a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750102159,
+        "date_posted": 1750102159,
+        "url": "https://jobs.ashbyhq.com/Jerry/64d4add5-42e3-4aa9-8c30-7ce523fc2a44/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "ae4410d5-8cda-46a8-bf56-e0c379c0545a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750102159,
+        "date_posted": 1750102159,
+        "url": "https://jobs.ashbyhq.com/Jerry/266b0e9f-d33f-4eab-893c-f600c0b934d5/application",
+        "locations": [
+            "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
