@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1724783490,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "Redmond, Washington"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "ikatyal2110",
-        "id": "87834e42-b9d5-420b-bf4a-e5cf28790f94",
-        "date_posted": 1721163609,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1721346985,
-        "url": "https://jobs.intel.com/en/job/toronto/fpga-software-engineer/41147/67421896768",
-        "company_name": "Intel",
-        "title": "FPGA Software Engineer",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "angelz913",
-        "id": "4da7771c-6d4c-4f51-9a6d-5c1afc33f807",
-        "date_posted": 1721163640,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1730857095,
         "url": "https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178",
         "company_name": "Robinhood Careers",
@@ -11343,7 +11311,7 @@
         "company_name": "Plexus",
         "id": "0f7b9b50-89d2-4113-aa2b-381a6156069c",
         "title": "Embedded Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744809183,
         "date_posted": 1744809183,
         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010",
@@ -12446,7 +12414,7 @@
         "company_name": "Salesforce",
         "id": "74920028-4f5d-450e-88c3-4caccd6cc51e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1746821189,
         "date_posted": 1746821189,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR295894-1",
@@ -13416,7 +13384,7 @@
         "company_name": "Blue Yonder",
         "id": "5f565819-56ce-4ea6-8c0f-973c2568f7f0",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748565666,
         "date_posted": 1748565666,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_251265",
@@ -14707,7 +14675,7 @@
         "company_name": "7shifts",
         "id": "7756364a-3f30-4889-b775-278cbf59fdb3",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1750215990,
         "date_posted": 1750215990,
         "url": "https://job-boards.greenhouse.io/7shifts/jobs/5567427004",
@@ -15240,7 +15208,7 @@
         "company_name": "Cadence Design Systems",
         "id": "33be3440-ff6f-49af-b2a0-82beedfc4f37",
         "title": "C++ Software Engineer \u2013 New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1750918314,
         "date_posted": 1750918314,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BOSTON-02/C---Software-Engineer---New-College-Graduate--Boston-_R50668",
@@ -15932,7 +15900,7 @@
         "company_name": "Jerry",
         "id": "eeaa4cc1-0e31-4939-8dec-9de609614afe",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751933513,
         "date_posted": 1751906090,
         "url": "https://jobs.ashbyhq.com/Jerry/cd2c9819-712d-4a67-a0e1-c23e0814cf27/application",
@@ -15967,7 +15935,7 @@
         "company_name": "Jerry",
         "id": "d47df80b-67c5-4d5d-b42d-a98eaa62ce5b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751933474,
         "date_posted": 1751907689,
         "url": "https://jobs.ashbyhq.com/Jerry/da971495-baa6-4d32-8138-34bcb2be8366/application",
@@ -16169,7 +16137,7 @@
         "company_name": "Cox",
         "id": "f935ee5a-c392-44e1-809b-f9d430745018",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752080193,
         "date_posted": 1752080193,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564413",
@@ -16187,7 +16155,7 @@
         "company_name": "Cox",
         "id": "6bdc6618-41d3-4c4e-bef1-c978b0efb97b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752081665,
         "date_posted": 1752081665,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564424-1",
@@ -16229,6 +16197,134 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "ffea2fb6-ddc8-421a-b36a-3cf10b681138",
+        "title": "Quantitative Trader \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196371,
+        "date_posted": 1752196371,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
+        "title": "Quantitative Research Analyst \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196371,
+        "date_posted": 1752196371,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "9f39417b-65f8-44a7-a1f8-63cce9e90313",
+        "title": "Quantitative Research Analyst \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196370,
+        "date_posted": 1752196370,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
+        "title": "Quantitative Research Analyst \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196374,
+        "date_posted": 1752196374,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel Securities",
+        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
+        "title": "Software Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196370,
+        "date_posted": 1752196370,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
+        "title": "Quantitative Research Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196364,
+        "date_posted": 1752196364,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EvenUp",
+        "id": "bf85e278-1c60-40dd-a026-a10c6789b9ff",
+        "title": "Early Career Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1752244675,
+        "date_posted": 1750750206,
+        "url": "https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
         "is_visible": true,
         "sponsorship": "Other"
     }
