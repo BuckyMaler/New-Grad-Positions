@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1730857095,
-        "url": "https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178",
-        "company_name": "Robinhood Careers",
-        "title": "Software Developer",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "angelz913",
-        "id": "27fc2dce-17a1-4deb-9269-daa0e8dc4d91",
-        "date_posted": 1721243648,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1721676352,
         "url": "https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad",
         "company_name": "Axle Health",
@@ -14158,7 +14142,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b829ef6e-52bc-4ef3-97c5-7fba018a4eca",
         "title": "C++ Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1749534445,
         "date_posted": 1749534445,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50467-1",
@@ -14435,7 +14419,7 @@
         "company_name": "Nutanix",
         "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
         "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
-        "active": true,
+        "active": false,
         "date_updated": 1749762513,
         "date_posted": 1749762513,
         "url": "https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false",
@@ -15225,7 +15209,7 @@
         "company_name": "Expedia Group",
         "id": "55977220-7e8c-4124-a334-f3c01386b5f4",
         "title": "Eggp \u2013 Software Development Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1750951070,
         "date_posted": 1750951070,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/EGGP---Software-Development-Engineer-I_R-96274",
@@ -16137,7 +16121,7 @@
         "company_name": "Cox",
         "id": "f935ee5a-c392-44e1-809b-f9d430745018",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1752080193,
         "date_posted": 1752080193,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564413",
@@ -16155,7 +16139,7 @@
         "company_name": "Cox",
         "id": "6bdc6618-41d3-4c4e-bef1-c978b0efb97b",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1752081665,
         "date_posted": 1752081665,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564424-1",
@@ -16325,6 +16309,75 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "eba56ae9-5f60-4397-b126-d8f6cb306ca6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752279880,
+        "date_posted": 1752279880,
+        "url": "https://jobs.ashbyhq.com/Jerry/9bc019ed-e265-47be-9e6d-2d0c64c76cc5/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "31a2f9d5-7681-4ecb-a37b-38da6e3742cf",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752279356,
+        "date_posted": 1752279356,
+        "url": "https://jobs.ashbyhq.com/Jerry/ed0a663b-cad1-4c76-aec7-1e0ceeac9a58/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia",
+        "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1752282350,
+        "date_posted": 1752282350,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
+        "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1752277777,
+        "date_posted": 1752277777,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
     }
