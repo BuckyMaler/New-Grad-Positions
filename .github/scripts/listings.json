@@ -14402,7 +14402,7 @@
         "company_name": "Tower Research Capital",
         "id": "3fbe5f4e-e83b-4dd0-8d66-6873e67b8be4",
         "title": "Software Engineer \u2013 New Grad - C++",
-        "active": false,
+        "active": true,
         "date_updated": 1749696611,
         "date_posted": 1749696611,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
@@ -15019,7 +15019,7 @@
         "company_name": "Cadence Design Systems",
         "id": "365b7673-11c2-4848-8252-c82cd2814343",
         "title": "C++ Software Engineer \u2013 New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1750721940,
         "date_posted": 1750721940,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/C---Software-Engineer---New-College-Graduate--Boston-_R50667-1",
@@ -15088,7 +15088,7 @@
         "company_name": "Guidewire",
         "id": "edfced35-ecac-4306-b9bd-2a3536f637e5",
         "title": "Machine Learning Engineer I - Generative AI",
-        "active": true,
+        "active": false,
         "date_updated": 1750813323,
         "date_posted": 1750813323,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Machine-Learning-Engineer-I--Generative-AI_JR_13363",
@@ -15209,7 +15209,7 @@
         "company_name": "Expedia Group",
         "id": "55977220-7e8c-4124-a334-f3c01386b5f4",
         "title": "Eggp \u2013 Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750951070,
         "date_posted": 1750951070,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/EGGP---Software-Development-Engineer-I_R-96274",
@@ -15902,7 +15902,7 @@
         "company_name": "Ciena",
         "id": "f3f5a9e1-9b27-4535-a685-2419883e5517",
         "title": "New Grad: Wavelogic Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1751906827,
         "date_posted": 1751906827,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Wavelogic-Software-Development_R028366",
@@ -16318,7 +16318,7 @@
         "company_name": "Jerry",
         "id": "eba56ae9-5f60-4397-b126-d8f6cb306ca6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752279880,
         "date_posted": 1752279880,
         "url": "https://jobs.ashbyhq.com/Jerry/9bc019ed-e265-47be-9e6d-2d0c64c76cc5/application",
@@ -16335,7 +16335,7 @@
         "company_name": "Jerry",
         "id": "31a2f9d5-7681-4ecb-a37b-38da6e3742cf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752279356,
         "date_posted": 1752279356,
         "url": "https://jobs.ashbyhq.com/Jerry/ed0a663b-cad1-4c76-aec7-1e0ceeac9a58/application",
@@ -16447,6 +16447,142 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Old Mission",
+        "id": "f0523704-6917-4869-82a6-536b484b8fac",
+        "title": "College Graduates - Full-Time - Junior Software Engineer",
+        "active": true,
+        "date_updated": 1752520275,
+        "date_posted": 1752520275,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1752518406,
+        "date_posted": 1752518406,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "b09d07b6-2d11-469e-b3aa-b297ebd7f7a3",
+        "title": "College Graduates - Full-Time - Junior Quantitative Trader",
+        "active": true,
+        "date_updated": 1752520281,
+        "date_posted": 1752520281,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602928003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "495799cb-e3e0-4046-92c5-52eaeee8ecee",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1752518404,
+        "date_posted": 1752518404,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7053014",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akamai Technologies",
+        "id": "09cabfc5-67b1-4553-87c6-0866a7d70657",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752550111,
+        "date_posted": 1752550111,
+        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/897",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akamai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "9e3271b2-bfd1-4924-80cc-6adf115fe3ac",
+        "title": "College Graduates - Full-Time - Junior Quantitative Trader",
+        "active": true,
+        "date_updated": 1752520276,
+        "date_posted": 1752520276,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "f95f5d5d-ca68-42fe-9088-64cae078432e",
+        "title": "Entry Level Software Engineer - GUI Development",
+        "active": true,
+        "date_updated": 1752623971,
+        "date_posted": 1752623971,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-Software-Engineer--GUI-Development-_314487",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "e23f991b-f6bb-4037-a415-84cb81506adb",
+        "title": "Entry Level DSP Software Engineer",
+        "active": true,
+        "date_updated": 1752623968,
+        "date_posted": 1752623968,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
