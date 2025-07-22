@@ -778,22 +778,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "30b85505-621b-49b6-94cb-6a458bd2fa7a",
-        "title": "Software Engineer I - Toronto",
-        "active": false,
-        "date_updated": 1722008886,
-        "date_posted": 1722008886,
-        "url": "https://jobs.ashbyhq.com/Jerry/88113f9b-cff2-437e-aad3-81aa5b1959f6/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Belvedere Trading",
         "id": "6c6dfa90-d789-473d-972e-f82f3b874d81",
         "title": "Software Engineer \u2013 Entry Level 2025",
@@ -2172,22 +2156,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "5b6a8aa7-a630-435d-a1c6-cabd222a297d",
-        "title": "New Graduate Software Engineer - Palo Alto",
-        "active": false,
-        "date_updated": 1725564438,
-        "date_posted": 1722008890,
-        "url": "https://jobs.ashbyhq.com/Jerry/2201b806-93b2-4b6a-986b-407120670b9d/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Vectra",
         "id": "9a63bd39-e642-47f1-b2af-0665cb194cac",
         "title": "Software Engineer \u2013 New College Graduate",
@@ -2232,22 +2200,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Navan",
-        "id": "12d74d59-f8fb-4f04-a478-e3dd867f6e9d",
-        "title": "University Graduate - Software Engineer - Back-End",
-        "active": false,
-        "date_updated": 1722036576,
-        "date_posted": 1722036576,
-        "url": "https://tripactions.com/job-openings?gh_jid=5382869",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navan",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -6338,7 +6290,7 @@
         "company_name": "Amazon",
         "id": "02f1296a-454a-4dfe-b72f-743ad3d7d5e9",
         "title": "Software Development Engineer I - Redshift",
-        "active": true,
+        "active": false,
         "date_updated": 1733862163,
         "date_posted": 1733862163,
         "url": "https://amazon.jobs/en/jobs/2850010/software-development-engineer-i-2025-redshift",
@@ -16785,7 +16737,7 @@
         "company_name": "Jerry",
         "id": "f74c215f-f679-4382-ba30-752294713896",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752880857,
         "date_posted": 1752880857,
         "url": "https://jobs.ashbyhq.com/Jerry/eb8a6a97-8177-4c5b-a607-afe98c8d4cfb/application",
@@ -16802,7 +16754,7 @@
         "company_name": "Jerry",
         "id": "3cfcb567-840d-47ed-ab5f-74a04168f3e9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752880856,
         "date_posted": 1752880856,
         "url": "https://jobs.ashbyhq.com/Jerry/b1126803-047b-4af5-97b1-70a2cc31d8f5/application",
@@ -16879,6 +16831,41 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "429fa158-ef4b-4c5d-b5f1-4bfb70aa3174",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753141071,
+        "date_posted": 1753141071,
+        "url": "https://jobs.ashbyhq.com/Jerry/738a0eb0-f826-43c2-9e42-470e4726caca/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "6425ba3a-ef45-4548-8563-d4735b6d3cd1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753141551,
+        "date_posted": 1753141551,
+        "url": "https://jobs.ashbyhq.com/Jerry/2dd7d70d-7794-4662-b0a9-48900db8d26c/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
