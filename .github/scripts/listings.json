@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1722830792,
-        "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873?src=JB-10088",
-        "company_name": "Jackson",
-        "title": "Software Developer I",
-        "locations": [
-            "Lansing, MI"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Vandy02",
-        "id": "6c90943e-6c18-4116-b883-11cdbd5e6680",
-        "date_posted": 1722119314,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1722830775,
         "url": "https://www.mwam.com/technology-graduate-scheme/",
         "company_name": "Marshall Wace",
@@ -805,22 +789,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "WebFX",
-        "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
-        "title": "Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1722065815,
-        "date_posted": 1722065815,
-        "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/WebFX",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -14218,7 +14186,7 @@
         "company_name": "Amentum",
         "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749693231,
         "date_posted": 1749693231,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
@@ -14270,7 +14238,7 @@
         "company_name": "Affirm",
         "id": "c51f55af-91b8-4dbc-b0bd-93a96e0f3ec7",
         "title": "Software Engineer I - Backend - Identity Decisioning",
-        "active": true,
+        "active": false,
         "date_updated": 1749696761,
         "date_posted": 1749696761,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6605721003",
@@ -16255,7 +16223,7 @@
         "company_name": "Expedia",
         "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1752282350,
         "date_posted": 1752282350,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
@@ -16272,7 +16240,7 @@
         "company_name": "USAA",
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1752277777,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
@@ -16284,20 +16252,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752472944,
+        "date_updated": 1753177758,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1845733/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "locations": [
             "Redmond, Washington"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "laharigandrapu11",
         "id": "304a7ded-72d0-47e6-bfba-a9de25f58228",
         "date_posted": 1752472944,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -16789,7 +16757,7 @@
         "company_name": "Truist",
         "id": "63dfa35a-5132-4189-bc76-5a03a54fe417",
         "title": "Testing Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752881755,
         "date_posted": 1752881755,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0104761",
@@ -16806,7 +16774,7 @@
         "company_name": "Qualtrics",
         "id": "10831f24-9b0d-410a-acb1-7b972a57de6b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752892303,
         "date_posted": 1752892303,
         "url": "https://www.qualtrics.com/careers/us/en/job/7083211?gh_jid=7083211",
@@ -16866,6 +16834,107 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coalition",
+        "id": "b70c7334-2f4e-43c5-b676-e430713cbd61",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753196102,
+        "date_posted": 1753113665,
+        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coalition",
+        "id": "b8410e88-84d1-4aea-9b97-aea36b0a5fdd",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753196181,
+        "date_posted": 1753113312,
+        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1750781981,
+        "date_posted": 1750781981,
+        "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753196375,
+        "url": "https://www.coalitioninc.com/job-posting/4560711005",
+        "company_name": "Coalition",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c9cb916-636c-461e-801d-614d77ddd2d0",
+        "date_posted": 1753196375,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753196474,
+        "url": "https://www.coalitioninc.com/job-posting/4560712005",
+        "company_name": "Coalition",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a100b624-c8c2-41bc-8111-41cbf72a71b2",
+        "date_posted": 1753196474,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "e3160033-b187-489b-9a2c-6ad90c7eb959",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753227701,
+        "date_posted": 1753227701,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7075000",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
     }
