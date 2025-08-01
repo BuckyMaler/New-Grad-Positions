@@ -1,56 +1,5 @@
 [
     {
-        "date_updated": 1722830775,
-        "url": "https://www.mwam.com/technology-graduate-scheme/",
-        "company_name": "Marshall Wace",
-        "title": "Software Engineer \u2013 New Grad",
-        "locations": [
-            "London",
-            "NYC",
-            "Singapore"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "mwam-hackathon",
-        "id": "ba6d86ea-cd6d-4d0c-bb4a-7248462d46ae",
-        "date_posted": 1722830775,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1722830823,
-        "url": "https://careers.confluent.io/jobs/14738286-2025-software-engineer",
-        "company_name": "Confluent",
-        "title": "Software Engineer",
-        "locations": [
-            "Austin, TX",
-            "Remote"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "Aparna-Rajesh",
-        "id": "9b0a722e-f5ac-444a-9789-28a8b41a8563",
-        "date_posted": 1722830823,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1728076907,
-        "url": "https://sentry.io/careers/6145443/",
-        "company_name": "Sentry",
-        "title": "Software Engineer (New Grad)\t",
-        "locations": [
-            "San Francisco and Toronto and Vienna"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "ClamEater14",
-        "id": "2639c4b6-6f70-4651-bc0e-86244459d878",
-        "date_posted": 1722902527,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1723074737,
         "url": "https://careers.roblox.com/jobs/6086753",
         "company_name": "Roblox",
@@ -470,22 +419,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Databricks",
-        "id": "e3d21593-1e8b-450d-b6d6-003cb9b886d3",
-        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
-        "active": false,
-        "date_updated": 1725047862,
-        "date_posted": 1722901621,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866556002",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Hudson River Trading",
         "id": "b1765552-e652-4f88-a20d-d926c26402ad",
         "title": "Software Engineer \u2013 2025 Grads - C++",
@@ -629,22 +562,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Databricks",
-        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
-        "title": "Software Engineer \u2013 New Grad - 2025 Start",
-        "active": false,
-        "date_updated": 1725047860,
-        "date_posted": 1722901621,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -844,22 +761,6 @@
     {
         "source": "Simplify",
         "company_name": "Databricks",
-        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
-        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
-        "active": false,
-        "date_updated": 1725047862,
-        "date_posted": 1722901620,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Databricks",
         "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
         "title": "Data Scientist \u2013 New Grad - 2025 Start",
         "active": false,
@@ -902,22 +803,6 @@
             "West Redlands, Redlands, CA"
         ],
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Databricks",
-        "id": "0c371caf-e8f4-4052-bb57-cf6f1dc9555f",
-        "title": "Software Engineer \u2013 New Grad - 2025 Start",
-        "active": false,
-        "date_updated": 1725047861,
-        "date_posted": 1722901619,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866542002",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -14076,7 +13961,7 @@
         "company_name": "Relativity Space",
         "id": "92b236e9-f2d6-4b02-a956-0ec292ed153f",
         "title": "Software Engineer I - Factory Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1749693098,
         "date_posted": 1749693098,
         "url": "https://boards.greenhouse.io/relativity/jobs/8031811002",
@@ -15916,14 +15801,14 @@
         "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1752191756,
+        "date_updated": 1753969838,
         "date_posted": 1752191756,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7062434",
         "locations": [
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16112,7 +15997,7 @@
         "company_name": "USAA",
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1753448156,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
@@ -17021,7 +16906,7 @@
         "company_name": "Activate Group",
         "id": "61a29eb8-d0c1-440f-8e60-f3c24f31a890",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1753431607,
         "date_posted": 1753431607,
         "url": "https://activate-group-limited.breezy.hr/p/ce91d3dbfe2201/apply",
@@ -17327,7 +17212,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753902176,
+        "date_updated": 1753970048,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
         "company_name": "Northrop Grumman",
         "title": "Associate Software Engineer",
@@ -17335,12 +17220,12 @@
             "Woodland Hills, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "d1e43d3a-7644-4e37-8262-5a7101b66b2c",
         "date_posted": 1753902176,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753902372,
@@ -17432,14 +17317,14 @@
         "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753918469,
+        "date_updated": 1753970216,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
         "locations": [
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -17467,13 +17352,83 @@
         "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753919144,
+        "date_updated": 1753970281,
         "date_posted": 1753919144,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
         "locations": [
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "2807c62b-1f19-4c36-ad32-40967e3edbd7",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1753920113,
+        "date_posted": 1753920113,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "0480e89b-c78b-4d7d-9ba3-f94a115f0330",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1753924502,
+        "date_posted": 1753924502,
+        "url": "https://aurora.tech/jobs/8081673002?gh_jid=8081673002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753986441,
+        "url": "https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hybrid-_R-028085",
+        "company_name": "Eversource Energy",
+        "title": "IT Associate Software Engineer (Hybrid)",
+        "locations": [
+            "Westwood, MA",
+            "Manchester, NH",
+            "Berlin, CT",
+            "Windsor, CT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "d8a37546-8bde-4054-b447-9568f56ffdcd",
+        "date_posted": 1753986441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "f67c1936-5b21-4da6-98eb-07f4fa60271e",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1754004985,
+        "date_posted": 1754004985,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Junior-Software-Developer_R55998-1",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
     }
