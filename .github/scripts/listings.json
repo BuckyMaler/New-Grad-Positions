@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1723074737,
-        "url": "https://careers.roblox.com/jobs/6086753",
-        "company_name": "Roblox",
-        "title": "Software Engineer - New Graduate",
-        "locations": [
-            "San Mateo"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "javier30112000",
-        "id": "7a314c39-ba0c-41f2-afd3-8461c1388ca8",
-        "date_posted": 1723074737,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723074820,
-        "url": "https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003",
-        "company_name": "Konrad Group",
-        "title": "Software Developer (Entry Level)",
-        "locations": [
-            "Vancouver, BC"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "8855647d-0d39-4566-a4dc-6da006be5052",
-        "date_posted": 1723074820,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1723583608,
         "url": "https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b",
         "company_name": "Codeium",
@@ -707,38 +675,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cockroach Labs",
-        "id": "366df603-5f51-4282-9ddc-612ea7d46da7",
-        "title": "Software Engineer \u2013 New Grad - Backend - Migrations - Toronto",
-        "active": false,
-        "date_updated": 1723072573,
-        "date_posted": 1723072573,
-        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=6145671",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "f4b018af-f2e8-4fc2-a187-4321c59b4345",
-        "title": "2025 Early Career Program: Software Engineering",
-        "active": false,
-        "date_updated": 1723072249,
-        "date_posted": 1723072249,
-        "url": "https://job-boards.greenhouse.io/rvohealth/jobs/4455898005",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -12425,7 +12361,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -14698,7 +14634,7 @@
         "company_name": "USAA",
         "id": "d3f775c8-7ee2-4b66-aa3b-9d6fd945d0e1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750813369,
         "date_posted": 1750813369,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0110441",
@@ -15997,7 +15933,7 @@
         "company_name": "USAA",
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1753448156,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
@@ -16701,7 +16637,7 @@
         "company_name": "mthree",
         "id": "4570d8ad-62e5-475b-a211-802e05fe95d3",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1753235271,
         "date_posted": 1753235271,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006",
@@ -17713,6 +17649,75 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "c86a9cb2-fa64-4418-b4df-d55f61688156",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753715923,
+        "date_posted": 1753715923,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7095831",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "ad85e523-b5ae-49c4-82cc-2e0893694bef",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1754002259,
+        "date_posted": 1754002259,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0064692",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perforce",
+        "id": "560f3e04-2328-4836-962f-e38062fc833f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753709334,
+        "date_posted": 1753709334,
+        "url": "https://jobs.lever.co/perforce/44b37b45-6756-489d-bd3a-668ba2352f9b/apply",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Perforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unify",
+        "id": "423111af-a1fe-49bd-a8da-fed875b08bea",
+        "title": "New Grad Software Engineer",
+        "active": true,
+        "date_updated": 1753814038,
+        "date_posted": 1753814038,
+        "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unify-Gtm",
         "is_visible": true,
         "sponsorship": "Other"
     }
