@@ -519,22 +519,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "6baf7235-65ab-415c-b0e7-e982f11951e0",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1723246690,
-        "date_posted": 1723246690,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6084188003",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Pattern Data",
         "id": "34858b56-8a32-4f10-b5d5-e76e1fad2229",
         "title": "Software Engineer I",
@@ -551,22 +535,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Belvedere Trading",
-        "id": "0c126d54-19b1-45cf-8655-3cc3bbfecde9",
-        "title": "Quantitative Trader \u2013 Entry Level 2025",
-        "active": false,
-        "date_updated": 1723598087,
-        "date_posted": 1723246982,
-        "url": "https://jobs.lever.co/belvederetrading/69de6697-e9d4-426e-ae22-bad4c6e04cf8/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Stripe",
         "id": "aeb7718a-4a2d-4347-8c9b-4d206378b6f8",
         "title": "Software Engineer \u2013 New Grad",
@@ -578,38 +546,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "3ef0f95b-7742-4447-a3de-44b0d83373fd",
-        "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1723246687,
-        "date_posted": 1723246687,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6084310003",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Belvedere Trading",
-        "id": "6c6dfa90-d789-473d-972e-f82f3b874d81",
-        "title": "Software Engineer \u2013 Entry Level 2025",
-        "active": false,
-        "date_updated": 1723597767,
-        "date_posted": 1723246712,
-        "url": "https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -11929,7 +11865,7 @@
         "company_name": "Salesforce",
         "id": "74920028-4f5d-450e-88c3-4caccd6cc51e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1746821189,
         "date_posted": 1746821189,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR295894-1",
@@ -13811,7 +13747,7 @@
         "company_name": "Amentum",
         "id": "6a073c64-89e1-494c-9db4-780abd1df87b",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749693233,
         "date_posted": 1749693233,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140459",
@@ -16672,7 +16608,7 @@
         "company_name": "Amentum",
         "id": "b12a8329-3617-4c19-8314-a864143ec31a",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1753478832,
         "date_posted": 1753478832,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142814",
@@ -16862,7 +16798,7 @@
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1753486335,
         "date_posted": 1753486335,
         "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
@@ -16897,7 +16833,7 @@
         "company_name": "Machinify",
         "id": "49f1c484-8ccc-4db7-87b8-0a324ee12097",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753322788,
         "date_posted": 1753322788,
         "url": "https://jobs.ashbyhq.com/Machinify/635f87d9-fede-4da6-9ab3-51e5238c61cb/application",
@@ -16931,7 +16867,7 @@
         "company_name": "Jerry",
         "id": "bc6193ad-e142-4cc1-a047-fe6c9a467962",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753745290,
         "date_posted": 1753745290,
         "url": "https://jobs.ashbyhq.com/Jerry/441a20b6-31e5-4887-8bfd-cc16a1e5bcae/application",
@@ -17169,7 +17105,7 @@
         "company_name": "Esri",
         "id": "36e74f92-9b86-4fd3-ad81-cc172200ff92",
         "title": ".NET/C# Software Development Engineer I - SDK",
-        "active": true,
+        "active": false,
         "date_updated": 1753913543,
         "date_posted": 1753913543,
         "url": "https://www.esri.com/careers/4803095007?gh_jid=4803095007",
@@ -17272,8 +17208,8 @@
         "company_name": "Leidos",
         "id": "2807c62b-1f19-4c36-ad32-40967e3edbd7",
         "title": "Junior Software Engineer",
-        "active": true,
-        "date_updated": 1753920113,
+        "active": false,
+        "date_updated": 1754274312,
         "date_posted": 1753920113,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540",
         "locations": [
@@ -17281,7 +17217,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -17301,7 +17237,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753986441,
+        "date_updated": 1754338132,
         "url": "https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hybrid-_R-028085",
         "company_name": "Eversource Energy",
         "title": "IT Associate Software Engineer (Hybrid)",
@@ -17311,13 +17247,13 @@
             "Berlin, CT",
             "Windsor, CT"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "d8a37546-8bde-4054-b447-9568f56ffdcd",
         "date_posted": 1753986441,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -17508,7 +17444,7 @@
         "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1754075670,
+        "date_updated": 1754274376,
         "date_posted": 1754075670,
         "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
         "locations": [
@@ -17516,7 +17452,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -17626,7 +17562,7 @@
         "company_name": "TripAdvisor",
         "id": "c86a9cb2-fa64-4418-b4df-d55f61688156",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753715923,
         "date_posted": 1753715923,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7095831",
@@ -17788,5 +17724,74 @@
         "date_posted": 1754190176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "7d188c3f-6bb0-4d90-9d09-ff110ac0c85a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754326306,
+        "date_posted": 1754326306,
+        "url": "https://jobs.ashbyhq.com/Jerry/ea6198c6-18ff-4d6b-93b7-29daa4e3957f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "ac728ba9-6063-445f-9722-8eda369b2d95",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754327245,
+        "date_posted": 1754327245,
+        "url": "https://jobs.ashbyhq.com/Jerry/6cf756d3-779a-43c4-8258-61269e129316/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754344367,
+        "url": "https://www.metacareers.com/jobs/609052015548260",
+        "company_name": "Meta",
+        "title": "Product Security Engineer (University Grad)",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "0f71614a-cdc8-4185-9f86-9b731f4410f0",
+        "date_posted": 1754344367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoro",
+        "id": "e825cd57-2482-4e89-b28a-901424d7269b",
+        "title": "Software Engineer I - Release Platform",
+        "active": true,
+        "date_updated": 1754351086,
+        "date_posted": 1754351086,
+        "url": "https://zoro.com/careers/jobs?gh_jid=4589860006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoro",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
