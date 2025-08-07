@@ -11865,7 +11865,7 @@
         "company_name": "Salesforce",
         "id": "74920028-4f5d-450e-88c3-4caccd6cc51e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1746821189,
         "date_posted": 1746821189,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR295894-1",
@@ -12057,7 +12057,7 @@
         "company_name": "Amentum",
         "id": "ab8be857-c152-406b-aa20-db7b85c97468",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1747325720,
         "date_posted": 1747325720,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139276",
@@ -16642,7 +16642,7 @@
         "company_name": "Amentum",
         "id": "645f2ed7-1f3c-4fbd-ba6e-977758cdb035",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1753478830,
         "date_posted": 1753478830,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142813",
@@ -16798,7 +16798,7 @@
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1753486335,
         "date_posted": 1753486335,
         "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
@@ -16979,7 +16979,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753898131,
+        "date_updated": 1754476695,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6330949",
         "company_name": "DoorDash",
         "title": "Software Engineer I, Entry-Level",
@@ -16990,13 +16990,13 @@
             "Seattle, WA",
             "Sunnyvale, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "a93325b4-95dc-4822-b5b7-bab5a2905640",
         "date_posted": 1753898131,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753901043,
@@ -17122,7 +17122,7 @@
         "company_name": "Daifuku",
         "id": "ac5ffdcf-21fe-4972-9d28-94e4e0872172",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754416784,
         "date_posted": 1753916149,
         "url": "https://careers-daifuku-america.icims.com/jobs/20436/job",
@@ -17261,7 +17261,7 @@
         "company_name": "Motorola",
         "id": "f67c1936-5b21-4da6-98eb-07f4fa60271e",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1754004985,
         "date_posted": 1754004985,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Junior-Software-Developer_R55998-1",
@@ -17408,7 +17408,7 @@
         "company_name": "Quantinuum",
         "id": "6adb6a85-61dd-4b56-bd51-24db9fc84062",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754190235,
         "date_posted": 1754065188,
         "url": "https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570/apply",
@@ -18197,7 +18197,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754364327,
+        "date_updated": 1754478715,
         "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
         "company_name": "Ramp",
         "title": "Software Engineer - Backend",
@@ -18205,12 +18205,12 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "b754db34-4c23-450f-b881-2c897de087f8",
         "date_posted": 1754364327,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -18268,7 +18268,7 @@
         "company_name": "RTX",
         "id": "fb96780d-b990-4c79-9972-b2c78120da32",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754432472,
         "date_posted": 1754432472,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2025-Fulltime--Raytheon-Software-Engineer-I--Onsite-_01784333",
@@ -18310,6 +18310,40 @@
             "Downers Grove, IL"
         ],
         "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "9d10f271-23f6-45b7-b460-6bd613fda2c6",
+        "title": "Software Engineer I - CRM",
+        "active": true,
+        "date_updated": 1754441018,
+        "date_posted": 1754441018,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "d52df6c0-4d3c-42d3-8437-e5f8609667b5",
+        "title": "Software Engineer \u2013 Entry Level or Associate",
+        "active": true,
+        "date_updated": 1754453558,
+        "date_posted": 1754453558,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
     }
