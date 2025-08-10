@@ -5764,7 +5764,7 @@
         "company_name": "Amazon",
         "id": "be83d3ad-b672-4c8d-b07b-498249b63823",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1733862169,
         "date_posted": 1733862169,
         "url": "https://amazon.jobs/en/jobs/2849985/software-development-engineer-i-2025",
@@ -10698,7 +10698,7 @@
         "company_name": "Sev1Tech",
         "id": "944e985f-b58f-4373-8d24-a453b692eb61",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1750205446,
         "date_posted": 1744912668,
         "url": "https://careers-sev1tech.icims.com/jobs/8793/job",
@@ -16346,7 +16346,7 @@
         "company_name": "WebFX",
         "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1750781981,
         "date_posted": 1750781981,
         "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
@@ -18511,7 +18511,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754642042,
+        "date_updated": 1754753470,
         "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
         "company_name": "Amgen",
         "title": "Junior Software Engineer",
@@ -18519,13 +18519,13 @@
             "Thousand Oaks, CA",
             "Tampa, FL"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "669bff20-bc17-4752-acc8-b2297819b6ae",
         "date_posted": 1754642042,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642138,
@@ -18640,20 +18640,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754649712,
+        "date_updated": 1754753697,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
         "company_name": "Detroit Defense",
         "title": "Software Test Engineer",
         "locations": [
             "Troy, MI"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "c970b2d3-4e10-414c-8ef1-849d778e5262",
         "date_posted": 1754649712,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754649789,
@@ -18782,5 +18782,289 @@
         "date_posted": 1754676794,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
+        "title": "Software Developer Engineer I",
+        "active": true,
+        "date_updated": 1754702367,
+        "date_posted": 1754702367,
+        "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
+        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
+        "active": true,
+        "date_updated": 1754705238,
+        "date_posted": 1754705238,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
+        "title": "Software Engineer \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1754705218,
+        "date_posted": 1754705218,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754711609,
+        "date_posted": 1754711609,
+        "url": "https://jobs.ashbyhq.com/Jerry/4dcfcfa6-7d55-40a9-9b9d-d7195ae88fd3/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "bf169a76-72de-42e1-ae62-e464af8b92ea",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754711084,
+        "date_posted": 1754711084,
+        "url": "https://jobs.ashbyhq.com/Jerry/19d84e98-6a93-4e5b-937d-170f6f36ea46/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
+        "title": "Junior AI-Assisted Software Engineer",
+        "active": true,
+        "date_updated": 1754712418,
+        "date_posted": 1754712418,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "locations": [
+            "South Orange, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Relay",
+        "id": "96d32e79-92f2-46af-9675-a4acc65d81a2",
+        "title": "Junior Software Developer Engineer in Test - C#",
+        "active": true,
+        "date_updated": 1754712043,
+        "date_posted": 1754712043,
+        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754747431,
+        "url": "https://www.tesla.com/careers/search/job/247659",
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f10df930-2707-43a7-8c03-f5fe269294f5",
+        "date_posted": 1754747431,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747598,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
+        "company_name": "BMO",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ad525d17-d6ca-4379-b4b2-b8382f101832",
+        "date_posted": 1754747598,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747781,
+        "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "company_name": "DIRECTV",
+        "title": "IT Software Engineer 1",
+        "locations": [
+            "locations El Segundo, CA",
+            "Remote in USA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6995c809-24ab-4413-98db-2a6e1c27e11d",
+        "date_posted": 1754747781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747940,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+        "company_name": "Moog",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "locations Torrance, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
+        "date_posted": 1754747940,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748271,
+        "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff31da1e-4ae5-46da-8714-dd3695505784",
+        "date_posted": 1754748271,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748405,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
+        "company_name": "GlobalFoundries",
+        "title": "Digital Manufacturing Data Science Analyst",
+        "locations": [
+            "Malta, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
+        "date_posted": 1754748405,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748517,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff7b6269-b3e1-4e8c-bcb1-6d796c23b551",
+        "date_posted": 1754748517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748680,
+        "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
+        "company_name": "U.S. Venture",
+        "title": "Data Analyst I (Breakthrough)",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bb95c23d-065b-4ae3-ab08-1db8a7deba5a",
+        "date_posted": 1754748680,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754755775,
+        "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
+        "company_name": "Lumafield",
+        "title": "Embedded Systems Engineer",
+        "locations": [
+            "Boston, MA",
+            "Everett, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2494635c-0be1-4065-b0d6-fd28c52d0841",
+        "date_posted": 1754755775,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4de1ec5a-28f6-48a5-ad70-109b6693bc01",
+        "title": "Cyber/Electronic Warfare Research Engineer I",
+        "active": true,
+        "date_updated": 1754741015,
+        "date_posted": 1753478704,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD720-9861-Broken-Land-Pkwy-Columbia-9861-Broken-Land-Parkway-Suite-400-Columbia-MD-21046-USA/Cyber-Electronic-Warfare-Engineer_01782149",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
