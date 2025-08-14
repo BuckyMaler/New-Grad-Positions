@@ -9345,7 +9345,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -16635,7 +16635,7 @@
         "company_name": "Broadcom Limited",
         "id": "323bd7d7-77ed-4cde-83a7-1a5badca5950",
         "title": "Junior R & D Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1753313866,
         "date_posted": 1753313866,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/Junior-R---D-Software-Engineer_R023410",
@@ -17279,7 +17279,7 @@
         "company_name": "Terex",
         "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
         "title": "Software Engineer I - 3rd Eye",
-        "active": true,
+        "active": false,
         "date_updated": 1754068499,
         "date_posted": 1754068499,
         "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
@@ -18448,14 +18448,14 @@
         "id": "31258921-79ec-4c6b-a2d1-bd40aa5a0ff2",
         "title": "Software Engineer I - Engineering - Development",
         "active": true,
-        "date_updated": 1754616167,
+        "date_updated": 1755082091,
         "date_posted": 1754616167,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -18574,20 +18574,20 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754642817,
+        "date_updated": 1755045240,
         "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
         "company_name": "Royal Carribean Group",
         "title": "Associate Engineer, Software",
         "locations": [
             "Miramar, FL"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "6e1f2c33-4a57-4f51-a2bb-2cd3de84d5b5",
         "date_posted": 1754642817,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642937,
@@ -18734,14 +18734,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754676669,
+        "date_updated": 1755082139,
         "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
-        "company_name": "TikTok.",
+        "company_name": "TikTok",
         "title": "Product Security Engineer - Security Assurance",
         "locations": [
             "Seattle, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "c1fe3539-1d8e-4d12-a200-fb863a28c8e4",
@@ -18858,7 +18858,7 @@
         "company_name": "SS&C",
         "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
         "title": "Junior AI-Assisted Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754712418,
         "date_posted": 1754712418,
         "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
@@ -18968,20 +18968,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754748405,
+        "date_updated": 1755081429,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
         "company_name": "GlobalFoundries",
         "title": "Digital Manufacturing Data Science Analyst",
         "locations": [
             "Malta, NY"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
         "date_posted": 1754748405,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754748517,
@@ -19386,20 +19386,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755035602,
+        "date_updated": 1755045285,
         "url": "https://university-uber.icims.com/jobs/147250/job",
         "company_name": "Uber",
         "title": "Graduate 2025 Software Engineer I, US",
         "locations": [
             "San Francisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
         "date_posted": 1755035602,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755035689,
@@ -19465,5 +19465,135 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045229,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Elisha-Edme",
+        "id": "f81de977-11f6-4e8f-8c28-558e716f56c7",
+        "date_posted": 1755045229,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755051956,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9f9d4908-0ce6-435e-8455-57401d9d963c",
+        "date_posted": 1755051837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052023,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-1",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "985c4208-ceeb-4718-a570-fecef1c7f303",
+        "date_posted": 1755052023,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052838,
+        "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
+        "company_name": "Gannett Fleming",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "San Diego, CA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f8afaa29-d90b-499f-bcd6-bdb1709071e9",
+        "date_posted": 1755052838,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052904,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
+        "company_name": "Applied Intuition",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "30855501-03e4-44ce-98c1-cc68924ce170",
+        "date_posted": 1755052904,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052966,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?gh_jid=4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "37534fef-92db-4930-aa0c-6c9a5cbd86ba",
+        "date_posted": 1755052966,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755053017,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005",
+        "company_name": "Applied Intuition",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0c3584aa-5224-43ae-960d-faa5dd6e5ae2",
+        "date_posted": 1755053017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "50db7037-287c-460f-a7d6-ce1abcb89b9c",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1755117566,
+        "date_posted": 1755062669,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
     }
 ]
