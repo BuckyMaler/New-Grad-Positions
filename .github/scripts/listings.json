@@ -307,22 +307,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qloo",
-        "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1724283287,
-        "date_posted": 1724283287,
-        "url": "https://jobs.lever.co/qloo/56d875f9-671c-447b-868e-5da9af79ffce/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qloo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Flashpoint",
         "id": "766d0bee-e451-4b4d-9ee9-53b175d32a4c",
         "title": "Data Engineer I",
@@ -399,22 +383,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "fc6f06da-06c1-42c1-a421-a038eb9081fe",
-        "title": "Security Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1724440781,
-        "date_posted": 1724284038,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4488331007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1504,23 +1472,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vectra",
-        "id": "9a63bd39-e642-47f1-b2af-0665cb194cac",
-        "title": "Software Engineer \u2013 New College Graduate",
-        "active": false,
-        "date_updated": 1724283294,
-        "date_posted": 1724283294,
-        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142089",
-        "locations": [
-            "Austin, TX",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vectra",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16944,7 +16895,7 @@
         "company_name": "Chewy",
         "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753970216,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
@@ -18090,7 +18041,7 @@
         "company_name": "Broadcom Limited",
         "id": "078470df-4ce4-4ea5-942f-cff77cdefc9e",
         "title": "Entry level Mainframe Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754436601,
         "date_posted": 1754436601,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1",
@@ -19616,8 +19567,8 @@
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "4057dcc2-fc6b-4dd5-b8f4-d667a603a058",
+        "source": "Simplify",
+        "id": "2076cb1b-b272-44d3-9643-cf08334eece0",
         "date_posted": 1755168924,
         "company_url": "",
         "is_visible": true
@@ -20708,6 +20659,110 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel",
+        "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
+        "title": "Software Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1755287791,
+        "date_posted": 1755287791,
+        "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
+        "title": "Software Engineer I - Embedded Devices",
+        "active": true,
+        "date_updated": 1755287553,
+        "date_posted": 1755287553,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+        "locations": [
+            "Lowell, MA",
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "5af2dd1a-d134-4c11-ae93-26803d4c2933",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1755315906,
+        "date_posted": 1755315906,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/85076586336",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "d7950fb8-db44-4a5e-abcd-231daa5f9037",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1755294176,
+        "date_posted": 1755294176,
+        "url": "https://www.esri.com/careers/4829378007?gh_jid=4829378007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "b9d94e6c-1a9a-4a79-a413-dfefe90329d3",
+        "title": "New Grad \u2013 Fullstack Software Engineer - Home Loans",
+        "active": true,
+        "date_updated": 1755292464,
+        "date_posted": 1755292464,
+        "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
+        "locations": [
+            "Seattle, WA",
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "60821365-1160-46c1-a9a7-fa80b8c6d832",
+        "title": "Systems/Software Engineer I",
+        "active": true,
+        "date_updated": 1755302622,
+        "date_posted": 1755302622,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1192770",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other"
     }
