@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1724738358,
-        "url": "https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "Multiple Locations"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "justin-negron",
-        "id": "000fb0d7-21d8-4588-a138-95b22cd2ed62",
-        "date_posted": 1724390764,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1724644330,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4471879007",
         "company_name": "Verkada",
@@ -270,71 +254,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Glean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Stripe",
-        "id": "7b44c5dc-3450-441f-9363-94b671266966",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724398569,
-        "date_posted": 1724398569,
-        "url": "https://stripe.com/jobs/search?gh_jid=6142741",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Stripe",
-        "id": "aeb7718a-4a2d-4347-8c9b-4d206378b6f8",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724398569,
-        "date_posted": 1724398569,
-        "url": "https://stripe.com/jobs/search?gh_jid=6025906",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Intuition",
-        "id": "8acc4571-b11e-404c-89e6-8d6307c46119",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1724613235,
-        "date_posted": 1724398634,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4420849005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1724456004,
-        "date_posted": 1724456004,
-        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -2766,22 +2685,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Pax8",
-        "id": "0475d339-069e-46be-aed1-8b2f9f000ead",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1727897502,
-        "date_posted": 1724455309,
-        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4694725004",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Pax8",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -19502,7 +19405,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "2076cb1b-b272-44d3-9643-cf08334eece0",
         "date_posted": 1755168924,
@@ -19873,7 +19776,7 @@
         "company_name": "The Boeing Company",
         "id": "14de31b0-7cfe-4974-b496-09085c6b6b80",
         "title": "Entry Level Software Engineer - Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1755220981,
         "date_posted": 1755220981,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025462883",
@@ -20570,7 +20473,7 @@
         "company_name": "Mastercard",
         "id": "1e3ed3ad-963e-4860-adfd-b24288e46eaf",
         "title": "Software Engineer I - Backend - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1755298469,
         "date_posted": 1755298469,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Backend---Java-_R-258140",
@@ -20806,5 +20709,39 @@
         "date_posted": 1755418805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "af0793a3-f50e-4836-85d5-d59475e5051e",
+        "title": "Cyber/EW Research Engineer I",
+        "active": true,
+        "date_updated": 1755540692,
+        "date_posted": 1755540692,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Cyber-EW-Research-Engineer-I_01787171",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1753960073,
+        "date_posted": 1751385394,
+        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
