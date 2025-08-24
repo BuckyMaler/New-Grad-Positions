@@ -99,54 +99,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Valkyrie Trading",
-        "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1724888352,
-        "date_posted": 1724888352,
-        "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "89f46cb5-8471-4dfa-9217-afe6a525b569",
-        "title": "Associate \u2013 New Grad - Software Engineer - OR049152",
-        "active": false,
-        "date_updated": 1724888340,
-        "date_posted": 1724888340,
-        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049152-_R195487",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vultr",
-        "id": "36743eb4-3dff-4e5a-a38d-2478ad5fa9d5",
-        "title": "Junior Software Engineer - PHP - Cloud Native",
-        "active": false,
-        "date_updated": 1724887332,
-        "date_posted": 1724887332,
-        "url": "https://job-boards.greenhouse.io/vultr/jobs/4392298006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vultr",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
@@ -10340,7 +10292,7 @@
         "company_name": "Flexport",
         "id": "561dc074-7c02-4562-a2df-5ac406ce6a4d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745050346,
         "date_posted": 1745050346,
         "url": "https://boards.greenhouse.io/flexport/jobs/6795493",
@@ -16820,7 +16772,7 @@
         "company_name": "IMEG",
         "id": "c2d7fcdd-c8fe-4c43-9dc1-de65608846a9",
         "title": "Full Stack Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1754002555,
         "date_posted": 1754002555,
         "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer-1--Remote-_R-14878",
@@ -22398,7 +22350,7 @@
         "company_name": "Comcast",
         "id": "45c67361-dcb2-443d-a69c-24a9bd11095b",
         "title": "Front End Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1755817076,
         "date_posted": 1755817076,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Front-End-Software-Engineer-1---Chicago-OR-Reston--VA---Onsite_R418260",
@@ -22784,5 +22736,81 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
+        "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755908269,
+        "date_posted": 1755908269,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SMX",
+        "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755909353,
+        "date_posted": 1755909353,
+        "url": "https://www.smxtech.com/careers/?gh_jid=6689584003",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1755912096,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
+        "company_name": "Zip",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "573f981f-3318-4edf-9a8b-b5398fce3299",
+        "date_posted": 1755912096,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755912117,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
+        "company_name": "Apple",
+        "title": "Accessibility Engineer, IS&T",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "43c0929e-32b2-4d37-ad4e-8c0c6fec385b",
+        "date_posted": 1755912117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
