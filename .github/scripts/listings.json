@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Datadog",
-        "id": "9a6f5b77-ab04-40be-9380-b9b8b7fa7b18",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1725376579,
-        "date_posted": 1725376579,
-        "url": "https://careers.datadoghq.com/detail/6182685/?gh_jid=6182685",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Datadog",
-        "id": "2945c552-0101-45e5-8f9b-0e71bc01dac5",
-        "title": "Data Scientist \u2013 Early Career",
-        "active": false,
-        "date_updated": 1725376538,
-        "date_posted": 1725376538,
-        "url": "https://careers.datadoghq.com/detail/6209265/?gh_jid=6209265",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ZipRecruiter",
-        "id": "ec8cddda-da0c-4e6c-be99-8c8ac79a925c",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1725391341,
-        "date_posted": 1725391341,
-        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZipRecruiter",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "ff117a92-97e8-4c34-9bcb-202940bb2a6c",
-        "title": "2025 Early Career Program: Software Engineering Intern",
-        "active": false,
-        "date_updated": 1725393746,
-        "date_posted": 1725393746,
-        "url": "https://job-boards.greenhouse.io/rvohealth/jobs/4468377005",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "OKX ",
-        "id": "f98ecb17-34b6-44cf-8307-31ef552197e3",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1725405523,
-        "date_posted": 1725405523,
-        "url": "https://job-boards.greenhouse.io/okx/jobs/6081008003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/OKX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Signify Health",
         "id": "71f49cbc-2ad7-4a6f-9612-c04685cc3182",
         "title": "Data Engineer I",
@@ -8876,7 +8795,7 @@
         "company_name": "Blue Origin",
         "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
         "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1743193831,
         "date_posted": 1743193831,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
@@ -16271,7 +16190,7 @@
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753918469,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
@@ -16305,7 +16224,7 @@
         "company_name": "Uber",
         "id": "f555971a-35b5-4db5-a78a-8ef74219acc1",
         "title": "Software Engineer I - Platforms",
-        "active": false,
+        "active": true,
         "date_updated": 1753919699,
         "date_posted": 1753919699,
         "url": "https://www.uber.com/global/en/careers/list/145880/",
@@ -16481,7 +16400,7 @@
         "company_name": "The Travelers Companies",
         "id": "604f95b5-9b0a-4c6e-b75c-21d98b95d516",
         "title": "Software Engineer I - Artificial Intelligence in Underwriting",
-        "active": true,
+        "active": false,
         "date_updated": 1754031836,
         "date_posted": 1754031836,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Artificial-Intelligence-in-Underwriting_R-45455",
@@ -19883,7 +19802,7 @@
         "company_name": "Neo Financial",
         "id": "c92690cc-8125-41d1-b8c8-b18520bfbb9d",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1755293379,
         "date_posted": 1755293379,
         "url": "https://ats.rippling.com/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
@@ -22251,7 +22170,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ce72f687-0643-43a5-9527-4d892c6faea2",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755850660,
         "date_posted": 1755850660,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192929-1",
@@ -22757,7 +22676,7 @@
         "company_name": "Adobe",
         "id": "774345f9-14bd-4a7b-8b70-617dd2f96ec7",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1756175120,
         "date_posted": 1756175120,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682",
@@ -23869,6 +23788,256 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "8bc213e8-2641-4559-8500-b5b181768159",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756451687,
+        "date_posted": 1756451687,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6987316",
+        "locations": [
+            "Boston, MA",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "c57a389d-852e-48f0-9233-6d85f2fefa9c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756453258,
+        "date_posted": 1756453258,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202566222",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EvenUp",
+        "id": "87cea11e-3fc8-4ec4-878f-2ff415f60149",
+        "title": "Early Career Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1756453223,
+        "date_posted": 1756453223,
+        "url": "https://jobs.ashbyhq.com/evenup/58e747cc-0572-4316-83c0-f112ee52e3b5/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "date_updated": 1756476999,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://munichre-jobs.com/en/MunichRe/job/130423-data-scientist-na-integrated-analytics-2026-new-grad-toronto",
+        "company_name": "Munich RE",
+        "title": "Data Scientist, NA Integrated Analytics",
+        "locations": [
+            "Toronto, ON, Can"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "GaryZhous",
+        "id": "f74a72c4-7120-4f49-9fc5-be50d5fa6c82",
+        "date_posted": 1756476999,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756485726,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305993",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "54a14e61-2d97-44f3-af30-22bff4ed92f4",
+        "date_posted": 1756485726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756492269,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305990",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a046edb0-dfa3-4d24-9b31-fb7b6f2bb7e2",
+        "date_posted": 1756492269,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756492378,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job",
+        "company_name": "General Dynamics",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1bf1d395-4785-40b2-ac4b-7db495eb5ec9",
+        "date_posted": 1756492378,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756492466,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/commure-athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
+        "company_name": "Commure",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "824dbdb9-1606-406b-b6a9-16042480b55e",
+        "date_posted": 1756492466,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756492792,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1",
+        "company_name": "CVS Health",
+        "title": "Associate Software Development Engineer",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "910b3775-8202-485c-b174-64affd1fbaed",
+        "date_posted": 1756492792,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756499638,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.metacareers.com/jobs/1455625889019477",
+        "company_name": "Meta",
+        "title": "Research Scientist Intern, Anisotropic Optics and Photonics (PhD)",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "59e1749c-e866-4cbc-9b4a-ed2d221db6ec",
+        "date_posted": 1756499299,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "0b92737d-70a3-4db5-b31c-4cb752879f91",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1756505796,
+        "date_posted": 1756505796,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Viavi Solutions",
+        "id": "413f9259-1976-4806-b0d6-77770586e422",
+        "title": "Software Development Engineer I - C/C++ - Enterprise Network Performance and Cybersecurity Analytics Platform",
+        "active": true,
+        "date_updated": 1756508005,
+        "date_posted": 1756508005,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Minnetonka-MN-USA/Software-Development-Engineer-I--C-C------Enterprise-Network-Performance-and-Cybersecurity-Analytics-Platform_250003665-1",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "ae299101-f673-4a96-87ff-2115d79846c1",
+        "title": "Firmware Engineer \u2013 Early Career - AI/ML Focus",
+        "active": true,
+        "date_updated": 1756509146,
+        "date_posted": 1756509146,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-(AIML-Focus)-CO-80501/1321668700/?ats=successfactors",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
