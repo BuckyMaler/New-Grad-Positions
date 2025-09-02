@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Salesforce",
-        "id": "47e3621f-6df0-4275-9601-99435d3759f6",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
-        "date_updated": 1725581502,
-        "date_posted": 1725581502,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1",
-        "locations": [
-            "Cambridge, MA",
-            "Boston, MA",
-            "Seattle, WA",
-            "Indianapolis, IN",
-            "SF",
-            "Chicago, IL",
-            "Bellevue, WA",
-            "Atlanta, GA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "aeab7799-c1ed-4f67-b4cc-81bfa2380655",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1725580968,
-        "date_posted": 1725580968,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ThirstySprout",
-        "id": "dbb66ab2-e06e-4a44-8216-c81b52efe356",
-        "title": "Data Analyst - Junior Data Scientist",
-        "active": false,
-        "date_updated": 1725580926,
-        "date_posted": 1725580926,
-        "url": "https://jobs.ashbyhq.com/thirstysprout/2ec7f7e5-db22-4c15-8898-aea563139804/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ThirstySprout",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "fd6bbde9-f83f-4049-be5a-961d5abd1e32",
-        "title": "Associate Software Engineer \u2013 Seeking 2024 and 2025 Grads",
-        "active": false,
-        "date_updated": 1725650119,
-        "date_posted": 1725650119,
-        "url": "https://jobs.lever.co/veeva/0f3a83d8-9184-4bc6-bbad-6e448ffee6a5/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer: Early Career - Python",
-        "active": true,
-        "date_updated": 1725655419,
-        "date_posted": 1725655419,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "London, UK",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wyetech LLC",
         "id": "8f047ff6-f495-4866-812d-ef15b1e478a8",
         "title": "Software Engineer 1",
@@ -15826,7 +15736,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1753902077,
+        "date_updated": 1756731148,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
         "company_name": "Blue Origin",
         "title": "Software Development Engineer I",
@@ -15839,12 +15749,13 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "351eb7e6-4f6e-4a73-8d05-d8e223bd7452",
         "date_posted": 1753902077,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1753970048,
@@ -18605,7 +18516,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755168795,
+        "date_updated": 1756731380,
         "url": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
         "company_name": "Rippling",
         "title": "Software Engineer - Spend Growth",
@@ -18613,12 +18524,13 @@
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2199e28d-668b-4f20-bc5a-695ed9f27647",
         "date_posted": 1755168795,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755168924,
@@ -19948,7 +19860,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755418805,
+        "date_updated": 1756731511,
         "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
         "company_name": "BAE Systems",
         "title": "Junior Software Engineer",
@@ -19956,12 +19868,13 @@
             "Hill AFB, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "36561c35-450e-4662-a8c2-84cd99283ea8",
         "date_posted": 1755418805,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21382,9 +21295,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755715697,
+        "date_updated": 1756731591,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://www.metacareers.com/jobs/812938290909042/",
         "company_name": "Meta",
@@ -21398,7 +21311,7 @@
         "id": "eed6971f-9231-4362-8879-2d953878f409",
         "date_posted": 1755715697,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756120142,
@@ -22465,19 +22378,16 @@
         "id": "c56b7a83-c21a-400b-9522-d7e0d32c1778",
         "title": "Software Engineer I - Engineering - Development",
         "active": true,
-        "date_updated": 1756191234,
+        "date_updated": 1756731699,
         "date_posted": 1756191234,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602803706893",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -23029,7 +22939,7 @@
         ]
     },
     {
-        "date_updated": 1756303925,
+        "date_updated": 1756730767,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -23044,7 +22954,7 @@
         "id": "23144399-8ed7-416d-be8b-00a825a7b492",
         "date_posted": 1756303925,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756304006,
@@ -23066,9 +22976,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756304091,
+        "date_updated": 1756731713,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/jerry.ai/3bb80177-b737-419c-8133-dd5f60a8a270",
         "company_name": "Jerry",
@@ -23082,7 +22992,7 @@
         "id": "072216f4-a069-4ed2-a11f-cfbb558eca08",
         "date_posted": 1756304091,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756304248,
@@ -23122,7 +23032,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756319204,
+        "date_updated": 1756731768,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -23137,7 +23047,7 @@
         "id": "5e1806a5-85f7-4b5e-afdc-07f96205a142",
         "date_posted": 1756319204,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756320123,
@@ -23461,7 +23371,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756414000,
+        "date_updated": 1756731805,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -23476,7 +23386,7 @@
         "id": "86266e03-12a2-4eef-b634-d3c5bbccad6e",
         "date_posted": 1756414000,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -23693,7 +23603,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756492792,
+        "date_updated": 1756731860,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -23708,7 +23618,7 @@
         "id": "910b3775-8202-485c-b174-64affd1fbaed",
         "date_posted": 1756492792,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756499638,
@@ -23835,6 +23745,24 @@
         "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
         "title": "New Grad \u2013 Software Engineer",
         "active": true,
+        "date_updated": 1756729929,
+        "date_posted": 1751902001,
+        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pylon",
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pylon",
+        "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
+        "title": "New Grad \u2013 Software Engineer",
+        "active": false,
         "date_updated": 1752662543,
         "date_posted": 1751902001,
         "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
@@ -23851,17 +23779,183 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Pylon",
-        "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
-        "title": "New Grad \u2013 Software Engineer",
-        "active": false,
-        "date_updated": 1752662543,
-        "date_posted": 1751902001,
-        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
+        "company_name": "Nutanix",
+        "id": "9d624829-b749-4a08-98ec-ca5dab38321a",
+        "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
+        "active": true,
+        "date_updated": 1756745491,
+        "date_posted": 1756745491,
+        "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false",
         "locations": [
-            "SF"
+            "Durham, NC"
         ],
-        "company_url": "https://simplify.jobs/c/Pylon",
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1756747299,
+        "date_posted": 1756747299,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
+        "locations": [
+            "Uxbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "4425a2a5-881f-4567-b730-3abfc1cccaae",
+        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
+        "active": true,
+        "date_updated": 1756768715,
+        "date_posted": 1756768715,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
