@@ -8809,7 +8809,7 @@
         "company_name": "Sev1Tech",
         "id": "b21ffbbd-f7a4-46fb-b07f-567504ac99dc",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1743833497,
         "date_posted": 1743833497,
         "url": "https://careers-sev1tech.icims.com/jobs/8778/job",
@@ -17493,7 +17493,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754649789,
+        "date_updated": 1756942869,
         "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
         "company_name": "Cook Systems",
         "title": "Software Developer",
@@ -17506,7 +17506,8 @@
         "id": "84ea0eef-b51b-47f6-b7d9-800f3cfb2a0f",
         "date_posted": 1754649789,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754662042,
@@ -17628,7 +17629,7 @@
         "company_name": "Esri",
         "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
         "title": "Software Developer Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754702367,
         "date_posted": 1754702367,
         "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
@@ -18165,7 +18166,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755008257,
+        "date_updated": 1756861605,
         "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
         "company_name": "Analytical Mechanics Associates",
         "title": "AI/ML Research Associate",
@@ -18179,7 +18180,8 @@
         "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
         "date_posted": 1755008257,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -19614,7 +19616,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "30dfbb90-c528-42cb-a136-c69f862081f5",
         "title": "Electrical/Hardware Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755298789,
         "date_posted": 1755298789,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1192941-1",
@@ -19682,7 +19684,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
         "title": "Software Engineer I - Embedded Devices",
-        "active": true,
+        "active": false,
         "date_updated": 1755700391,
         "date_posted": 1755287553,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
@@ -21517,7 +21519,7 @@
         "company_name": "Electric Boat",
         "id": "36deec29-ea02-40cd-8e84-bb1c17b42299",
         "title": "Entry Level Embedded Software Engineer-Ship Control",
-        "active": true,
+        "active": false,
         "date_updated": 1755751912,
         "date_posted": 1755751912,
         "url": "https://careers-gdeb.icims.com/jobs/15852/job",
@@ -21666,7 +21668,7 @@
         "company_name": "Captivation",
         "id": "cb124379-04a6-406e-bef5-a9aaf7d455d7",
         "title": "Software Engineer 1 - Linux/Python/Bash/HTML/Cypress/Pytest/Gitlab",
-        "active": true,
+        "active": false,
         "date_updated": 1755821939,
         "date_posted": 1755821939,
         "url": "https://job-boards.greenhouse.io/captivation/jobs/4892702008",
@@ -22121,7 +22123,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756111175,
+        "date_updated": 1756942893,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22136,7 +22138,7 @@
         "id": "1c05e666-373c-4781-beed-494338a2489e",
         "date_posted": 1756111175,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756111332,
@@ -22262,7 +22264,7 @@
         "company_name": "Adobe",
         "id": "b43f82cb-e084-472f-826c-e6575d95cf26",
         "title": "2026 University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756166052,
         "date_posted": 1756166052,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2026-University-Graduate---Software-Engineer_R158871",
@@ -22491,7 +22493,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756203509,
+        "date_updated": 1756861809,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22506,10 +22508,10 @@
         "id": "7c30bd9c-3f47-41c1-966c-8080f9538215",
         "date_posted": 1756203509,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1756203595,
+        "date_updated": 1756861622,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22524,10 +22526,10 @@
         "id": "be6b7f52-e0de-4f3b-a55f-fb12c1634640",
         "date_posted": 1756203595,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1756203670,
+        "date_updated": 1756861589,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22542,7 +22544,7 @@
         "id": "ec5f452f-cba6-4d1b-8b45-3da8cfbc6a1d",
         "date_posted": 1756203670,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756203764,
@@ -22698,7 +22700,7 @@
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1756246846,
         "date_posted": 1756246846,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
@@ -23187,7 +23189,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756367509,
+        "date_updated": 1756942880,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -23202,7 +23204,7 @@
         "id": "013f204e-f50f-4c1d-8d73-6fe3e4c9eeba",
         "date_posted": 1756367509,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -23567,7 +23569,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756492378,
+        "date_updated": 1756942904,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -23582,7 +23584,7 @@
         "id": "1bf1d395-4785-40b2-ac4b-7db495eb5ec9",
         "date_posted": 1756492378,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756661235,
@@ -23704,7 +23706,7 @@
         "company_name": "TD Bank",
         "id": "4b2b81c8-a1ed-4052-aae0-2f7ee004699c",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756512846,
         "date_posted": 1756512846,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1441970",
@@ -23983,7 +23985,7 @@
         ]
     },
     {
-        "date_updated": 1756810197,
+        "date_updated": 1756902955,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -24000,10 +24002,10 @@
         "id": "2a4933f0-d5a6-4b8c-ac33-d2221814b2ef",
         "date_posted": 1756810197,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1756810329,
+        "date_updated": 1756942858,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -24018,10 +24020,10 @@
         "id": "27dd1211-8577-4247-9301-e47b3f32aef3",
         "date_posted": 1756810329,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1756810420,
+        "date_updated": 1756942918,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -24036,7 +24038,7 @@
         "id": "21b12d9c-2aa1-4ac8-9368-fd79df6bf457",
         "date_posted": 1756810420,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -24045,7 +24047,7 @@
         "id": "8c125a08-f60a-4953-95e3-1a9411da20a7",
         "title": "Software Development Engineer I \u2013 Early Career & New Graduate Rotation",
         "active": true,
-        "date_updated": 1756826732,
+        "date_updated": 1756903070,
         "date_posted": 1756826732,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
         "locations": [
@@ -24054,11 +24056,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -24164,8 +24163,8 @@
         ]
     },
     {
-        "date_updated": 1756855912,
-        "sponsorship": "Offers Sponsorship",
+        "date_updated": 1756902937,
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
@@ -24195,8 +24194,8 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756855936,
-        "sponsorship": "Offers Sponsorship",
+        "date_updated": 1756904475,
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
@@ -24229,5 +24228,356 @@
         "date_posted": 1756857301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CenturyLink",
+        "id": "95f54956-e2af-4542-b8fb-7a29b6302279",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756858294,
+        "date_posted": 1756858294,
+        "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322179700/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Lumen Technologies",
+        "id": "a1d30eed-a7e9-41bd-a40e-24b7b40caa45",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756861077,
+        "date_posted": 1756861077,
+        "url": "https://jobs.lumen.com/global/en/job/339750",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
+        "title": "2026 University Graduate - Finance Data Scientist",
+        "active": true,
+        "date_updated": 1756862678,
+        "date_posted": 1756862678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "f692cc56-d79e-4b40-8851-130e0670610c",
+        "title": "Software Engineer I - Salesforce",
+        "active": true,
+        "date_updated": 1756903143,
+        "date_posted": 1756863999,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "b3c3e871-13cb-4544-9170-9f76e534ec8b",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1756865175,
+        "date_posted": 1756865175,
+        "url": "https://careers.roblox.com/jobs/7206214?gh_jid=7206214",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gecko Robotics",
+        "id": "d782e6b5-6978-407c-affa-b4c257577a5a",
+        "title": "Software Engineer \u2013 New Graduate Rotational Development Program",
+        "active": true,
+        "date_updated": 1756866418,
+        "date_posted": 1756866418,
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "65140a4f-996b-40f3-98da-63270ba6a609",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1756871708,
+        "date_posted": 1756871708,
+        "url": "https://stripe.com/jobs/search?gh_jid=7210112",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "8510087c-34fe-43c9-b6e9-7f5a00f1d270",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1756871707,
+        "date_posted": 1756871707,
+        "url": "https://stripe.com/jobs/search?gh_jid=7206505",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "date_updated": 1756904460,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
+        "company_name": "Ivo",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "GovindKurapati",
+        "id": "5a988adb-dc36-4b80-98e3-95ce67531a2d",
+        "date_posted": 1756904460,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756905852,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003",
+        "company_name": "Freeform",
+        "title": "Software Engineer",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "55691383-80a7-4e73-82cc-eb04be8d1519",
+        "date_posted": 1756905852,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756906002,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "685076cd-8147-403f-90a1-b01171ef0304",
+        "date_posted": 1756906002,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756935204,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.atlassian.com/company/careers/details/20901",
+        "company_name": "Atlassian",
+        "title": "Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "juansierr4",
+        "id": "f8f58787-3009-4652-b891-232a0fd067e8",
+        "date_posted": 1756934889,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756935232,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://epic.avature.net/Careers/FolderDetail/Technical-Solutions-Engineer/742",
+        "company_name": "Epic",
+        "title": "Technical Solutions Engineer",
+        "locations": [
+            "Madison, WI"
+        ],
+        "category": "Other",
+        "source": "mtlogs",
+        "id": "7c07dced-7918-4dda-b95d-19acbed32876",
+        "date_posted": 1756935232,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "70265251-b099-4ec2-bfe8-f8c63eff757f",
+        "title": "Software Engineer I - Frontend Focus - Viator",
+        "active": true,
+        "date_updated": 1756939988,
+        "date_posted": 1756939988,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6977655",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Yodlee",
+        "id": "55387b88-2383-456c-a4b3-8a3352b0061b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756939471,
+        "date_posted": 1756939471,
+        "url": "https://jobs.jobvite.com/yodlee/job/oOGbxfwW?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Berwyn, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yodlee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barry-Wehmiller",
+        "id": "a46be02c-d22d-485a-9004-fe7fad10c76b",
+        "title": "Entry Level - Software Engineer",
+        "active": true,
+        "date_updated": 1756939940,
+        "date_posted": 1756939940,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Dallas-TX/Entry-Level---Software-Engineer_R019332",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Glean",
+        "id": "67b134e0-653d-4b37-bc63-6df9e5585e40",
+        "title": "Software Engineer \u2013 University Grad",
+        "active": true,
+        "date_updated": 1756942211,
+        "date_posted": 1756942211,
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Glean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
