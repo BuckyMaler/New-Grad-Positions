@@ -1,111 +1,10 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "f939fbea-934d-4a56-958a-cf9f2977763d",
-        "title": "Mthree \u2013 Junior Software Engineer - Chester & Sheffield",
-        "active": false,
-        "date_updated": 1726053127,
-        "date_posted": 1726053127,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4401897006",
-        "locations": [
-            "Sheffield, UK",
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "f2bd3aac-859d-424c-887a-e00abb3854b6",
-        "title": "Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow",
-        "active": false,
-        "date_updated": 1726067231,
-        "date_posted": 1726067231,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391091006",
-        "locations": [
-            "Christchurch, UK",
-            "Newcastle upon Tyne, UK",
-            "Birmingham, UK",
-            "Sheffield, UK",
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1726307479,
-        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148217EXTERNALENUS/2025-University-Graduate-Software-Engineer",
-        "company_name": "Adobe",
-        "title": "Software Engineer - University Graduate 2025",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "whuang214",
-        "id": "74775dc2-7dd0-4a7d-ad1c-b022190acfcc",
-        "date_posted": 1726075748,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "company_name": "KLA",
-        "id": "04688802-4e15-4b0e-b04b-a1ad14f12bc2",
-        "title": "Software Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1726083111,
-        "date_posted": 1726083111,
-        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer--New-College-Grad-_2425130-1",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/adae5c6b-e3f9-4029-96e7-aa9b050e80d0",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chime",
-        "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
-        "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
-        "active": false,
-        "date_updated": 1726096329,
-        "date_posted": 1726096329,
-        "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alto Pharmacy",
-        "id": "0e38bd82-57b3-4b35-8bb2-e96f647a2e52",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1726307511,
-        "date_posted": 1726096026,
-        "url": "https://boards.greenhouse.io/alto/jobs/6235262",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alto",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tencent",
         "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
         "title": "Security Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1726111127,
         "date_posted": 1726111127,
         "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Security-Engineer-I_R103856",
@@ -13493,7 +13392,7 @@
         "company_name": "The Boeing Company",
         "id": "b8e14c36-bba1-4830-b233-54949d054ae8",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1751479662,
         "date_posted": 1751479662,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Aurora-CO/Entry-Level-Full-Stack-Software-Engineer_JR2025456200-1",
@@ -18708,7 +18607,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755243482,
+        "date_updated": 1757118346,
         "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
         "company_name": "KBR",
         "title": "Software Engineer I",
@@ -18721,7 +18620,8 @@
         "id": "aeacaa6e-d32d-4a0f-8918-d9d29578ce3c",
         "date_posted": 1755243482,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755568251,
@@ -19235,7 +19135,7 @@
         "company_name": "Mastercard",
         "id": "1e3ed3ad-963e-4860-adfd-b24288e46eaf",
         "title": "Software Engineer I - Backend - Java",
-        "active": false,
+        "active": true,
         "date_updated": 1755298469,
         "date_posted": 1755298469,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Backend---Java-_R-258140",
@@ -21410,7 +21310,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "de9c535c-9de3-4b5a-befd-6a72f6f83500",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755848329,
         "date_posted": 1755848329,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192926",
@@ -22322,7 +22222,7 @@
         "company_name": "GM financial",
         "id": "00d4f23c-6703-49a3-b6c4-920c4dc7c87b",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756246682,
         "date_posted": 1756246682,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/837",
@@ -23288,7 +23188,7 @@
         "company_name": "Seagate Technology ",
         "id": "ae299101-f673-4a96-87ff-2115d79846c1",
         "title": "Firmware Engineer \u2013 Early Career - AI/ML Focus",
-        "active": true,
+        "active": false,
         "date_updated": 1756509146,
         "date_posted": 1756509146,
         "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-(AIML-Focus)-CO-80501/1321668700/?ats=successfactors",
@@ -23667,7 +23567,7 @@
         "company_name": "CenturyLink",
         "id": "ce77bc77-35cc-4a79-bd6a-6e30a1998f1b",
         "title": "Information Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756838053,
         "date_posted": 1756838053,
         "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322139300/?ats=successfactors",
@@ -23688,7 +23588,7 @@
         "company_name": "Lumen Technologies",
         "id": "858230a7-8a49-4496-addb-d53e74684ef6",
         "title": "Information Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756840742,
         "date_posted": 1756840742,
         "url": "https://jobs.lumen.com/global/en/job/339747",
@@ -23837,7 +23737,7 @@
         "company_name": "CenturyLink",
         "id": "95f54956-e2af-4542-b8fb-7a29b6302279",
         "title": "Information Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756858294,
         "date_posted": 1756858294,
         "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322179700/?ats=successfactors",
@@ -23858,7 +23758,7 @@
         "company_name": "Lumen Technologies",
         "id": "a1d30eed-a7e9-41bd-a40e-24b7b40caa45",
         "title": "Information Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756861077,
         "date_posted": 1756861077,
         "url": "https://jobs.lumen.com/global/en/job/339750",
@@ -24043,7 +23943,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756906002,
+        "date_updated": 1757118163,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -24059,7 +23959,7 @@
         "id": "685076cd-8147-403f-90a1-b01171ef0304",
         "date_posted": 1756906002,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756935204,
@@ -25238,6 +25138,126 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EBSCO",
+        "id": "67745353-ef49-4446-9e3d-36d4010722f9",
+        "title": "Software Dev Engineer I",
+        "active": true,
+        "date_updated": 1757116763,
+        "date_posted": 1757116763,
+        "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
+        "title": "Entry Level Java and Python Software Engineer",
+        "active": true,
+        "date_updated": 1757118218,
+        "date_posted": 1757118218,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "d0811db1-ec47-4cb1-8b04-bd837aa97c50",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757119025,
+        "date_posted": 1757119025,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202566673",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
+        "title": "Security Software Engineer I",
+        "active": false,
+        "date_updated": 1755955947,
+        "date_posted": 1755955947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
+        "title": "Security Software Engineer I",
+        "active": false,
+        "date_updated": 1755955947,
+        "date_posted": 1755955947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
+        "title": "Security Software Engineer I",
+        "active": true,
+        "date_updated": 1755955947,
+        "date_posted": 1755955947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
