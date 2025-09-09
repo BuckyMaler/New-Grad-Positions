@@ -1,37 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Uber",
-        "id": "da9c1439-8d41-4e7a-bfac-38a85b41e87f",
-        "title": "2024 Graduate Software Engineer I - United States",
-        "active": false,
-        "date_updated": 1726257440,
-        "date_posted": 1726257440,
-        "url": "https://university-uber.icims.com/jobs/134010/job",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wyetech",
-        "id": "b1fd2057-e1c2-4d84-ab83-1e93766bab8a",
-        "title": "Software Engineer 1 - Telework Available",
-        "active": false,
-        "date_updated": 1726258934,
-        "date_posted": 1726258934,
-        "url": "https://jobs.lever.co/wyetechllc/23c80f17-88a4-4f88-8309-b08259fd277e/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1727127998,
         "url": "https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html",
         "company_name": "Splunk",
@@ -18225,9 +18193,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755171076,
+        "date_updated": 1757319811,
         "url": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
-        "company_name": "Apex",
+        "company_name": "Apex Fintech Solutions",
         "title": "Software Engineer I (ALDP)",
         "locations": [
             "Austin, TX"
@@ -18238,7 +18206,8 @@
         "id": "4929aa5d-6718-4db5-ad67-943ed00e9fa8",
         "date_posted": 1755171076,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755567973,
@@ -19087,7 +19056,7 @@
         "company_name": "Mastercard",
         "id": "1e3ed3ad-963e-4860-adfd-b24288e46eaf",
         "title": "Software Engineer I - Backend - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1755298469,
         "date_posted": 1755298469,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Backend---Java-_R-258140",
@@ -21507,7 +21476,7 @@
         "company_name": "SMX",
         "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755909353,
         "date_posted": 1755909353,
         "url": "https://www.smxtech.com/careers/?gh_jid=6689584003",
@@ -22969,9 +22938,9 @@
         ]
     },
     {
-        "date_updated": 1756476999,
+        "date_updated": 1757317380,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://munichre-jobs.com/en/MunichRe/job/130423-data-scientist-na-integrated-analytics-2026-new-grad-toronto",
         "company_name": "Munich RE",
@@ -22984,7 +22953,7 @@
         "id": "f74a72c4-7120-4f49-9fc5-be50d5fa6c82",
         "date_posted": 1756476999,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756485726,
@@ -23731,7 +23700,7 @@
         "company_name": "Adobe",
         "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
         "title": "2026 University Graduate - Finance Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756862678,
         "date_posted": 1756862678,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
@@ -24099,7 +24068,7 @@
         "company_name": "RTX",
         "id": "db912136-78e3-4b91-a39a-27c5c8121d74",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756953612,
         "date_posted": 1756953612,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01787856-1",
@@ -24181,7 +24150,7 @@
         "company_name": "Mastercard",
         "id": "c46f1d49-efdf-41f5-b656-c45b25e49e9e",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756968542,
         "date_posted": 1756968542,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Software-Engineer-I_R-258957",
@@ -24602,7 +24571,7 @@
         "company_name": "Altice USA",
         "id": "2667bcdd-a309-4376-a0ef-736453f4c541",
         "title": "Software Dev Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757030938,
         "date_posted": 1757030938,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
@@ -24867,7 +24836,7 @@
         "company_name": "The Boeing Company",
         "id": "4098078f-4134-4979-b41f-7dabd027c11e",
         "title": "Entry Level Software Engineer-Test & Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1757021587,
         "date_posted": 1757021587,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2",
@@ -25040,7 +25009,7 @@
         "company_name": "Bumble",
         "id": "7c4ad6e4-ec7b-4352-b201-7a1dda598aa1",
         "title": "New Grad - Jr. Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757114201,
         "date_posted": 1757114201,
         "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110/apply",
@@ -25060,7 +25029,7 @@
         "company_name": "Jerry",
         "id": "f92a2963-37d7-49a6-9354-0b4fb0ddc238",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757115593,
         "date_posted": 1757115593,
         "url": "https://jobs.ashbyhq.com/jerry.ai/fef3f366-d14d-4a29-9a83-a3a99f9dfcbc/application",
@@ -25081,7 +25050,7 @@
         "company_name": "Jerry",
         "id": "7771b2aa-d6b1-4c3c-b809-6068e52be6fa",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757115592,
         "date_posted": 1757115592,
         "url": "https://jobs.ashbyhq.com/jerry.ai/82b3f656-b7a6-4abd-a35b-876d4c6e2a11/application",
@@ -25122,8 +25091,8 @@
         "company_name": "CACI",
         "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
         "title": "Entry Level Java and Python Software Engineer",
-        "active": true,
-        "date_updated": 1757118218,
+        "active": false,
+        "date_updated": 1757310408,
         "date_posted": 1757118218,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
         "locations": [
@@ -25131,10 +25100,8 @@
         ],
         "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -25142,7 +25109,7 @@
         "company_name": "Cox",
         "id": "d0811db1-ec47-4cb1-8b04-bd837aa97c50",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757119025,
         "date_posted": 1757119025,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202566673",
@@ -25490,6 +25457,234 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boom Supersonic",
+        "id": "f321e2b2-f378-4a33-91f6-00583f014a13",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757301300,
+        "date_posted": 1757301300,
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1757313716,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Graduate--Colorado-_1193617",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Data Science Graduate",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "bfe85994-7d27-4578-b191-e27f6a8a0e0d",
+        "date_posted": 1757313716,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757314093,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/Aprio/e52783da-4116-4f88-9bfb-0cc6ce4a6993/",
+        "company_name": "Aprio",
+        "title": "Assurance Associate - Blockchain, Digital Assets, Specialty Lending and AI",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "8935c4c6-0eff-4be7-bf3c-7f36b500cb4f",
+        "date_posted": 1757314093,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757314225,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628",
+        "company_name": "Labcorp",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Durham, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0088cc85-7e7c-4563-be41-79a76ddd441a",
+        "date_posted": 1757314225,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757314521,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920",
+        "company_name": "Extra Space Storage",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1edbb68c-cff8-4b93-ba93-9e72cca3a9a8",
+        "date_posted": 1757314521,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757314647,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://divergehealth.org/jobs/?gh_jid=4840575007",
+        "company_name": "Diverge Health",
+        "title": "Associate Software Developer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "57007c96-cbf2-4562-aa20-c94c9d123d00",
+        "date_posted": 1757314647,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "a564c7c1-63c4-4627-9c80-967441cc17b1",
+        "title": "Wavelogic Software Developer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757317184,
+        "date_posted": 1757317184,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R028787",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1757353619,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505",
+        "company_name": "Epic",
+        "title": "Infrastructure Engineer",
+        "locations": [
+            "Madison, WI"
+        ],
+        "category": "Software Engineering",
+        "source": "mtlogs",
+        "id": "c660f891-9a0b-4c58-9515-f470876c9a1d",
+        "date_posted": 1757353619,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "9b8368bd-1cdc-4d74-b2c5-c14efd204f2a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757361618,
+        "date_posted": 1757361618,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566477",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "f2a8a85a-3bd3-479b-b879-255bc443908b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757363452,
+        "date_posted": 1757363452,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566586",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fe3b559c-6d17-46af-9a0e-d7c236c83404",
+        "title": "Software Engineer I - Raytheon",
+        "active": true,
+        "date_updated": 1757366999,
+        "date_posted": 1757366999,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Symbotic",
+        "id": "7de63c56-a8bc-4966-92db-17ffa0a4b2a6",
+        "title": "New Grad-Hardware Engineer",
+        "active": true,
+        "date_updated": 1757370770,
+        "date_posted": 1757370770,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/New-Grad--Hardware-Engineer_R5410",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
