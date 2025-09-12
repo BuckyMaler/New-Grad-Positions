@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "a01d45cb-bb9a-41a7-8d48-4472ee0e9ce9",
-        "title": "New College Grad Engineer - Software Engineer - Firmware Engineering",
-        "active": false,
-        "date_updated": 1726505835,
-        "date_posted": 1726505835,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000014221462",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "WeRide",
-        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
-        "title": "New Grads 2025 - General Software Engineer",
-        "active": true,
-        "date_updated": 1726513959,
-        "date_posted": 1726513959,
-        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Visa",
-        "id": "8f50b4d0-d3af-4269-abb6-1836747404a0",
-        "title": "Software Engineer \u2013 New College Grad - 2025",
-        "active": false,
-        "date_updated": 1726514170,
-        "date_posted": 1726514170,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000014249028",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Visa",
-        "id": "7b133c04-a4b3-4a3f-b1ce-e7ec9b0f3f67",
-        "title": "Software Engineer \u2013 New College Grad - 2025",
-        "active": false,
-        "date_updated": 1726621429,
-        "date_posted": 1726514170,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000014248486",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Intuition",
-        "id": "feae57c5-bd69-4c29-aa99-8299b7f8854e",
-        "title": "Embedded Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1726528466,
-        "date_posted": 1726528466,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4319633005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "GitHub",
         "id": "f84c07a1-2726-4b59-82df-2be684c240c0",
         "title": "Software Engineer I - Copilot",
@@ -10888,7 +10808,7 @@
         "company_name": "Uber",
         "id": "bb21a4af-4fd6-46a1-b521-436522a27f34",
         "title": "Software Engineer I - Container Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1748484487,
         "date_posted": 1748484487,
         "url": "https://www.uber.com/global/en/careers/list/144046/",
@@ -20288,27 +20208,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "WeRide",
-        "id": "c0d9d327-19d8-4ea5-ad00-b08cd465b892",
-        "title": "New Grads 2025 - Software Engineer - Algorithm",
-        "active": true,
-        "date_updated": 1737560161,
-        "date_posted": 1726513966,
-        "url": "https://jobs.lever.co/weride/e77ec79c-1aa5-42f3-85b5-9000a146df6c/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Old Mission",
         "id": "896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
@@ -21122,7 +21021,7 @@
         "company_name": "Cellular Sales",
         "id": "92e74f26-5002-4900-bc4c-1b8275e33447",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755823620,
         "date_posted": 1755823620,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job",
@@ -22023,7 +21922,7 @@
         "company_name": "Verisk",
         "id": "77d06abd-87ab-4f69-b03c-11fca5383d54",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756206884,
         "date_posted": 1751383894,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1749",
@@ -22186,7 +22085,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "a921a0e1-c844-437c-9342-4540980ae604",
         "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1756248226,
         "date_posted": 1756248226,
         "url": "https://careers-sig.icims.com/jobs/9261/job",
@@ -22235,7 +22134,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "2cc230a4-31a8-4212-80a7-6fd0eec0b08b",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1756248222,
         "date_posted": 1756248222,
         "url": "https://careers-sig.icims.com/jobs/9716/job",
@@ -24784,7 +24683,7 @@
         "company_name": "Adobe",
         "id": "32a96099-ef28-4059-8655-a22c8e1e4733",
         "title": "2026 University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757044606,
         "date_posted": 1757044606,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Software-Engineer_R158633",
@@ -25627,7 +25526,7 @@
         "company_name": "RTX",
         "id": "fe3b559c-6d17-46af-9a0e-d7c236c83404",
         "title": "Software Engineer I - Raytheon",
-        "active": true,
+        "active": false,
         "date_updated": 1757366999,
         "date_posted": 1757366999,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
@@ -26372,7 +26271,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757508459,
+        "date_updated": 1757630566,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -26387,7 +26286,7 @@
         "id": "e2f789ff-3aec-4923-8c11-2427ee98139f",
         "date_posted": 1757508459,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757508571,
@@ -26426,7 +26325,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757508762,
+        "date_updated": 1757630542,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -26441,7 +26340,7 @@
         "id": "4e5b1236-1ed0-4b1c-b6e9-86b38a05424b",
         "date_posted": 1757508762,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757508886,
@@ -26488,7 +26387,7 @@
         "company_name": "LSEG",
         "id": "93c66ea2-9e08-4953-bcd0-25dde3130368",
         "title": "Junior Analyst-Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1757530416,
         "date_posted": 1757530416,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Junior-Analyst--Data-Scientist_R0111079-1",
@@ -26508,7 +26407,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": true,
+        "active": false,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -26589,7 +26488,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -26609,7 +26508,7 @@
         "company_name": "Iridium Communications",
         "id": "9f81e03e-67c6-4385-903a-18c1bcfaf9ea",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757545863,
         "date_posted": 1757542246,
         "url": "https://careers-iridium.icims.com/jobs/4644/job?mobile=true&needsRedirect=false",
@@ -26617,6 +26516,630 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "5759211d-5a88-4eb2-be9b-fd2d0bd803aa",
+        "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
+        "active": true,
+        "date_updated": 1757549798,
+        "date_posted": 1757549798,
+        "url": "https://careers-sig.icims.com/jobs/9261/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
+        "title": "Software Developer \u2013 New Grad - Sprc",
+        "active": false,
+        "date_updated": 1757549793,
+        "date_posted": 1757549793,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "d926f42e-6ace-475c-87f2-027dd64296c4",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1757551938,
+        "date_posted": 1757551938,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integration Innovation (i3)",
+        "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "active": false,
+        "date_updated": 1757551572,
+        "date_posted": 1757542243,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "eac1e4ed-b205-4a48-9313-cf212ad80292",
+        "title": "Software Engineer I - C/C++ Linux",
+        "active": true,
+        "date_updated": 1757553049,
+        "date_posted": 1757553049,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "8213bbaa-0280-40e2-ae4a-df244590403f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757553050,
+        "date_posted": 1757553050,
+        "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sev1Tech",
+        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1757554446,
+        "date_posted": 1757554446,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sev1Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "5d784d85-0c4c-465d-bc90-b69c2af6f4d3",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1757556229,
+        "date_posted": 1757556229,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1757558310,
+        "date_posted": 1757558310,
+        "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motive",
+        "id": "d293d84b-b5d5-4187-8d88-4dd5c4a27dd1",
+        "title": "Backend Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1757558070,
+        "date_posted": 1757558070,
+        "url": "https://job-boards.greenhouse.io/gomotive/jobs/8134258002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Motive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "81812d77-1856-4a81-aedb-e98ee2007f27",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1757566924,
+        "date_posted": 1757566924,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starpath Robotics",
+        "id": "2f29e648-16e9-4a69-81b2-6ad5b25c4000",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1757627394,
+        "date_posted": 1757568610,
+        "url": "https://jobs.ashbyhq.com/starpath.space/e27021db-0427-4d4a-a2a1-5f8f349ad4d8/application",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Starpath-Robotics",
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "29a35bfe-e4e3-4e8b-99cf-38bfbe95a5e1",
+        "title": "2026 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1757570607,
+        "date_posted": 1757570607,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159163",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "f94251b5-2b21-475f-b793-151b8433e069",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757592956,
+        "date_posted": 1757592956,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080906904",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": true,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dayton Freight Lines",
+        "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1757611606,
+        "date_posted": 1757611606,
+        "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Dayton-Freight-Lines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LPL Financial Holdings",
+        "id": "23c87d4e-610a-4a43-ba32-3f2381c3abfd",
+        "title": "New Grad 2026 - Technology - Software Development",
+        "active": true,
+        "date_updated": 1757615552,
+        "date_posted": 1757615552,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twilio",
+        "id": "55400a2a-e6c6-4182-bb85-ec37b3ac133c",
+        "title": "Software Engineer \u2013 Early Career - Messaging API",
+        "active": true,
+        "date_updated": 1757617247,
+        "date_posted": 1757617247,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7245466",
+        "locations": [
+            "Alberta, Canada",
+            "British Columbia, Canada",
+            "Ontario, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "e800e187-4db2-4abe-b579-6499bfe2df89",
+        "title": "Data Engineer - Junior",
+        "active": true,
+        "date_updated": 1757629347,
+        "date_posted": 1757629347,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer--Junior_R0226048",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "77bf2b07-1a7a-40d8-b077-2346471ab0be",
+        "title": "University Graduate - Junior Product Manager",
+        "active": true,
+        "date_updated": 1757633670,
+        "date_posted": 1757633670,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Junior-Product-Manager_R159932",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "90b25733-b550-4ed8-bcbb-6a3719e1c56a",
+        "title": "2026 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1757633642,
+        "date_posted": 1757633642,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159933",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8d176532-5dae-4784-8732-ebd40b79cd56",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757632708,
+        "date_posted": 1757632708,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
