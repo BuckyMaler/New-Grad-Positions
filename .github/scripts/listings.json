@@ -1,72 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Medtronic",
-        "id": "6a396006-a3b9-4d2f-ab15-de58e7862142",
-        "title": "Software Engineer I - Mobile Apps - California",
-        "active": false,
-        "date_updated": 1726629097,
-        "date_posted": 1726629097,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I---Mobile-Apps--California-_R5824-1",
-        "locations": [
-            "LA",
-            "Northridge, LA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Duolingo",
-        "id": "9115ecfe-dd21-4257-bbe3-c8650b2a1fb0",
-        "title": "Data Scientist I \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1726672204,
-        "date_posted": 1726672204,
-        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7642744002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Duolingo",
-        "id": "b349103c-bc7d-459b-af2b-cdba940d102d",
-        "title": "Data Scientist I \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1726672203,
-        "date_posted": 1726672203,
-        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7643896002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nutanix",
-        "id": "63d21810-1727-414f-a45d-9f29febb8931",
-        "title": "Early Career / Software Engineer 2 - Cdp",
-        "active": false,
-        "date_updated": 1726701052,
-        "date_posted": 1726701052,
-        "url": "https://jobs.jobvite.com/nutanix/job/ogruufwp?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "ELEVI Associates",
         "id": "03aa7886-2ee0-47fe-9e95-33e5c2baa998",
         "title": "Entry Level Software Engineer",
@@ -13152,7 +13086,7 @@
         "company_name": "The Boeing Company",
         "id": "b8e14c36-bba1-4830-b233-54949d054ae8",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1751479662,
         "date_posted": 1751479662,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Aurora-CO/Entry-Level-Full-Stack-Software-Engineer_JR2025456200-1",
@@ -15122,7 +15056,7 @@
         "company_name": "Chewy",
         "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1753970216,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
@@ -15157,7 +15091,7 @@
         "company_name": "Chewy",
         "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1753970281,
         "date_posted": 1753919144,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
@@ -21031,7 +20965,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d8749eca-e9d4-4014-87e5-253cf8d840b1",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755848537,
         "date_posted": 1755848537,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192943-1",
@@ -22471,7 +22405,7 @@
         ]
     },
     {
-        "date_updated": 1756413103,
+        "date_updated": 1757727143,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22486,7 +22420,7 @@
         "id": "2e96d4bd-b1d9-43e6-8b6e-cb82a90cdf34",
         "date_posted": 1756413103,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756413457,
@@ -23056,132 +22990,6 @@
             "Uxbridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": true,
-        "date_updated": 1747347510,
-        "date_posted": 1726672039,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1747347510,
-        "date_posted": 1726672039,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1747347510,
-        "date_posted": 1726672039,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1747347510,
-        "date_posted": 1726672039,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1747347510,
-        "date_posted": 1726672039,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1747347510,
-        "date_posted": 1726672039,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -25558,7 +25366,7 @@
         "company_name": "Jerry",
         "id": "7f518353-ff97-40d7-abab-3000f533d8b6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757383760,
         "date_posted": 1757383760,
         "url": "https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a/application",
@@ -25578,7 +25386,7 @@
         "company_name": "Jerry",
         "id": "069c39cd-3586-42b5-b14d-25ffcbd5e35b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757383760,
         "date_posted": 1757383760,
         "url": "https://jobs.ashbyhq.com/jerry.ai/e3c1fe10-9514-4fe4-89db-48d0c5cb4be3/application",
@@ -25753,7 +25561,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757401457,
+        "date_updated": 1757727568,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -25770,7 +25578,7 @@
         "id": "db6b2270-09fd-4711-a9f1-fd02df611769",
         "date_posted": 1757401457,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757401533,
@@ -26069,7 +25877,7 @@
         "company_name": "RTX",
         "id": "89141f56-0558-428b-970f-de05949c8f2d",
         "title": "Cybersecurity Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757467779,
         "date_posted": 1757467779,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Cybersecurity-Engineer-I--Onsite-_01791225",
@@ -26089,7 +25897,7 @@
         "company_name": "Cable One",
         "id": "fd690af3-6f2c-4d4e-9bf7-72aa86204d61",
         "title": "Cyber Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757471425,
         "date_posted": 1757471425,
         "url": "https://cableone.wd1.myworkdayjobs.com/Cable_One_External_Careers/job/Phoenix-AZ/Cyber-Security-Engineer-I_R-105943-1",
@@ -26543,7 +26351,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -27021,7 +26829,7 @@
         "company_name": "Booz Allen",
         "id": "e800e187-4db2-4abe-b579-6499bfe2df89",
         "title": "Data Engineer - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1757629347,
         "date_posted": 1757629347,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer--Junior_R0226048",
@@ -27312,6 +27120,127 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Alphataraxia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strive Health",
+        "id": "13c5772b-50de-4d60-ae45-3012585915d5",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757723715,
+        "date_posted": 1757723715,
+        "url": "https://job-boards.greenhouse.io/strivehealth/jobs/4601284006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Strive-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "ed276201-e267-4d79-b7d9-93e599b2a9db",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757727238,
+        "date_posted": 1757727238,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/d54013d8-4a78-4d9d-bd03-c49ca28b31c5/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fc663241-b323-42be-8eb7-61d5630089e1",
+        "title": "Embedded Linux Software Engineer I",
+        "active": true,
+        "date_updated": 1757728253,
+        "date_posted": 1757728253,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AllTrails",
+        "id": "b3c80fe1-d839-482f-aa36-e8840e4b63e8",
+        "title": "Software Engineer I - Fullstack - Trail Data",
+        "active": true,
+        "date_updated": 1757729051,
+        "date_posted": 1757729051,
+        "url": "https://jobs.lever.co/alltrails/eedd7a84-9fa6-4653-9ea6-1475ed813568/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AllTrails",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "7aaed7bd-cc81-4a44-a1f0-5f65ede1de5e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1757728949,
+        "date_posted": 1757728949,
+        "url": "https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757741129,
+        "date_posted": 1757741129,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/7ff90ae2-69a9-49ca-82c9-be9a4005c4de/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
