@@ -1,107 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "ELEVI Associates",
-        "id": "03aa7886-2ee0-47fe-9e95-33e5c2baa998",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1726844996,
-        "date_posted": 1726844996,
-        "url": "https://job-boards.greenhouse.io/eleviassociates/jobs/6213926003",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/ELEVI-Associates",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "922c721f-9b0c-44d4-af33-5c75a368e6a4",
-        "title": "Optical Mixed Signal Design Software Engineer \u2013 New College Grad 2024",
-        "active": false,
-        "date_updated": 1726861159,
-        "date_posted": 1726861159,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Optical-Mixed-Signal-Design-Software-Engineer---New-College-Grad-2024_JR1987468",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "151d21e0-ca6a-41ba-8c9e-688627666fd3",
-        "title": "Software Engineer \u2013 Early Career - Boulder - CO or Raleigh - NC - Jan 2025 or sooner start date ONLY",
-        "active": false,
-        "date_updated": 1726860832,
-        "date_posted": 1726860832,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/oOIxufwh?nl=1&nl=1&fr=false",
-        "locations": [
-            "Raleigh, NC",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SingleStore",
-        "id": "fa2a973c-8235-41f5-a834-149693170158",
-        "title": "Software Engineer \u2013 University Graduate - Managed Service",
-        "active": false,
-        "date_updated": 1726873934,
-        "date_posted": 1726873934,
-        "url": "https://boards.greenhouse.io/singlestore/jobs/6237446",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SingleStore",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SingleStore",
-        "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
-        "title": "Software Engineer \u2013 University Graduate - Database Engine",
-        "active": true,
-        "date_updated": 1726873933,
-        "date_posted": 1726873933,
-        "url": "https://boards.greenhouse.io/singlestore/jobs/6237482",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SingleStore",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Magical",
-        "id": "04a16174-d8f0-48f6-a1d1-0e7305b5142d",
-        "title": "New Grad Front End/Fullstack Engineer - Remote - North America",
-        "active": false,
-        "date_updated": 1726873647,
-        "date_posted": 1726873647,
-        "url": "https://jobs.ashbyhq.com/magical/70434e4d-91a4-47b3-8cd1-a7adf8fcd718/application",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/82f71d0b-1b62-419e-a151-644b20c06ecd",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Duolingo",
         "id": "138bbf00-42c5-43ac-98c8-0e9d78e5e159",
         "title": "Software Engineer \u2013 New Graduate",
@@ -984,22 +883,6 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Redhorse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DV Trading",
-        "id": "9f73ebc2-717c-47ee-a630-ed3ff5aade38",
-        "title": "Junior Quantitative Developer",
-        "active": false,
-        "date_updated": 1726801881,
-        "date_posted": 1726801881,
-        "url": "https://boards.greenhouse.io/dvtrading/jobs/4475499005",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -13226,7 +13109,7 @@
         "company_name": "Sigma Computing",
         "id": "9f6380b7-4668-49fb-9b83-4e51e0815a76",
         "title": "Software Engineer \u2013 New Grad Program",
-        "active": true,
+        "active": false,
         "date_updated": 1756120706,
         "date_posted": 1751696380,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003",
@@ -15267,7 +15150,7 @@
         "company_name": "IMEG",
         "id": "c2d7fcdd-c8fe-4c43-9dc1-de65608846a9",
         "title": "Full Stack Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1754002555,
         "date_posted": 1754002555,
         "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer-1--Remote-_R-14878",
@@ -16480,7 +16363,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -19191,7 +19074,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -21007,7 +20890,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ce72f687-0643-43a5-9527-4d892c6faea2",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1755850660,
         "date_posted": 1755850660,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192929-1",
@@ -25428,7 +25311,7 @@
         "company_name": "Adobe",
         "id": "b3ef6e74-a8c5-4541-af5e-dc69ff1d6a1a",
         "title": "2026 University Graduate - Application Security Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757385677,
         "date_posted": 1757385677,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Application-Security-Engineer_R159164",
@@ -25937,7 +25820,7 @@
         "company_name": "Visa",
         "id": "1f0477f2-1188-4942-a4c0-c3ff7df3d67f",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757527878,
         "date_posted": 1757434736,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080905285",
@@ -26167,7 +26050,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": true,
+        "active": false,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -26391,7 +26274,7 @@
         "company_name": "Thorlabs",
         "id": "8213bbaa-0280-40e2-ae4a-df244590403f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757553050,
         "date_posted": 1757553050,
         "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/apply",
@@ -26849,7 +26732,7 @@
         "company_name": "Adobe",
         "id": "77bf2b07-1a7a-40d8-b077-2346471ab0be",
         "title": "University Graduate - Junior Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1757633670,
         "date_posted": 1757633670,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Junior-Product-Manager_R159932",
@@ -26870,7 +26753,7 @@
         "company_name": "Adobe",
         "id": "90b25733-b550-4ed8-bcbb-6a3719e1c56a",
         "title": "2026 University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757633642,
         "date_posted": 1757633642,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159933",
@@ -27152,7 +27035,7 @@
         "company_name": "Jerry",
         "id": "ed276201-e267-4d79-b7d9-93e599b2a9db",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757727238,
         "date_posted": 1757727238,
         "url": "https://jobs.ashbyhq.com/jerry.ai/d54013d8-4a78-4d9d-bd03-c49ca28b31c5/application",
@@ -27213,7 +27096,7 @@
         "company_name": "Peraton",
         "id": "7aaed7bd-cc81-4a44-a1f0-5f65ede1de5e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757728949,
         "date_posted": 1757728949,
         "url": "https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false",
@@ -27233,7 +27116,7 @@
         "company_name": "Jerry",
         "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757741129,
         "date_posted": 1757741129,
         "url": "https://jobs.ashbyhq.com/jerry.ai/7ff90ae2-69a9-49ca-82c9-be9a4005c4de/application",
@@ -27261,6 +27144,227 @@
             "Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "3bdc08a6-567f-4f30-97f0-01943c42a7e9",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1757919076,
+        "date_posted": 1757919076,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1757927576,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005",
+        "company_name": "BlackEdge Capital",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "fbeff231-a402-4d57-b41f-7f3c44a909de",
+        "date_posted": 1757927576,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757928459,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.garmin.com/jobs/16774",
+        "company_name": "Garmin",
+        "title": "Software Engineer 1 - Aviation Web Development",
+        "locations": [
+            "Chandler, AZ",
+            "Olathe, KS"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "87ec1c38-6307-41df-980e-5fdd9209acf6",
+        "date_posted": 1757928459,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757928668,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Reference-Data-Analyst-Junior_25905888",
+        "company_name": "Citi",
+        "title": "Reference Data Analyst Junior",
+        "locations": [
+            "Getzville, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "14ce3d00-cf34-4074-ae05-d64553e63196",
+        "date_posted": 1757928668,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757928947,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://tmhcc.wd1.myworkdayjobs.com/en-US/external/job/Georgia---Kennesaw/Associate-Full-Stack-Developer_2025-807",
+        "company_name": "TMHCC",
+        "title": "Associate Full Stack Developer",
+        "locations": [
+            "Kennesaw, GA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "848ad0bf-c5ff-43f3-a29b-eb2e511f786d",
+        "date_posted": 1757928947,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929148,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
+        "company_name": "Red Hat",
+        "title": "Associate Software Software Engineer",
+        "locations": [
+            "Durham, NC",
+            "Raleigh, NC",
+            "Boston, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "090226dc-3da5-4e4c-aa3a-4cdffae85495",
+        "date_posted": 1757929148,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NewsBreak",
+        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
+        "title": "Software Engineer \u2013 Junior & New Grad",
+        "active": true,
+        "date_updated": 1757975420,
+        "date_posted": 1739938781,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "db772bb7-f8f1-4514-8bc8-ad2dcabaf6ac",
+        "title": "Software Dev Engineer I",
+        "active": true,
+        "date_updated": 1757977985,
+        "date_posted": 1757977985,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326245900/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SingleStore",
+        "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
+        "title": "Software Engineer \u2013 University Graduate - Database Engine",
+        "active": true,
+        "date_updated": 1749692088,
+        "date_posted": 1749692088,
+        "url": "https://job-boards.greenhouse.io/singlestore/jobs/6237482",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "c42d7027-6ae4-4081-9548-2761ee619688",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757980147,
+        "date_posted": 1757980147,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/78d2ca56-897b-40e1-b7cf-012629cd05ae/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "3a9e8029-c852-4ef0-995f-d42a959e769f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757980146,
+        "date_posted": 1757980146,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
