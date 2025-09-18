@@ -12159,7 +12159,7 @@
         "company_name": "Sentry",
         "id": "a15680e4-5ffc-4ada-a0dd-820582ff0967",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755269781,
         "date_posted": 1750675326,
         "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d/application",
@@ -14439,7 +14439,7 @@
         "company_name": "Amentum",
         "id": "1b703188-0a92-41a2-a4ae-fd1777366cf6",
         "title": "Entry Level Software Engineer/Software Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1753478813,
         "date_posted": 1753478813,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0142800",
@@ -15226,7 +15226,7 @@
         "company_name": "Sentry",
         "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1754274376,
         "date_posted": 1754075670,
         "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
@@ -15243,7 +15243,7 @@
         "company_name": "Sentry",
         "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755270405,
         "date_posted": 1754075667,
         "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
@@ -20095,7 +20095,7 @@
         ]
     },
     {
-        "date_updated": 1755679391,
+        "date_updated": 1758068561,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -20110,7 +20110,7 @@
         "id": "965f400a-651f-4dac-afd9-b62bb7db814d",
         "date_posted": 1755679391,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755679462,
@@ -20891,7 +20891,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ce72f687-0643-43a5-9527-4d892c6faea2",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755850660,
         "date_posted": 1755850660,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192929-1",
@@ -22213,12 +22213,10 @@
         ]
     },
     {
-        "date_updated": 1756367276,
+        "date_updated": 1758068074,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
         "company_name": "NVIDIA",
         "title": "Software Engineer, TensorRT Specialized Platforms",
@@ -22230,7 +22228,7 @@
         "id": "33bd81ef-6d7f-45d6-af47-ac43c16d36fb",
         "date_posted": 1756367276,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756367372,
@@ -22415,7 +22413,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756413879,
+        "date_updated": 1758068030,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22432,7 +22430,7 @@
         "id": "a2151f28-9ee1-4eec-a92a-3adacf05cd51",
         "date_posted": 1756413879,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756731805,
@@ -22748,7 +22746,7 @@
         "company_name": "Seagate Technology ",
         "id": "ae299101-f673-4a96-87ff-2115d79846c1",
         "title": "Firmware Engineer \u2013 Early Career - AI/ML Focus",
-        "active": false,
+        "active": true,
         "date_updated": 1756509146,
         "date_posted": 1756509146,
         "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-(AIML-Focus)-CO-80501/1321668700/?ats=successfactors",
@@ -24602,7 +24600,7 @@
         "company_name": "CACI",
         "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
         "title": "Entry Level Java and Python Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757310408,
         "date_posted": 1757118218,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
@@ -25759,7 +25757,7 @@
         "company_name": "RTX",
         "id": "89141f56-0558-428b-970f-de05949c8f2d",
         "title": "Cybersecurity Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757467779,
         "date_posted": 1757467779,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Cybersecurity-Engineer-I--Onsite-_01791225",
@@ -25837,7 +25835,7 @@
         "company_name": "Visa",
         "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757527861,
         "date_posted": 1757493166,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080904205",
@@ -25888,12 +25886,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757508286,
+        "date_updated": 1758068271,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035",
         "company_name": "NVIDIA",
         "title": "Developer Technology Engineer, AI",
@@ -25910,7 +25906,7 @@
         "id": "a13aaf41-ca14-4ecd-ac84-db0c1dada41a",
         "date_posted": 1757508286,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757630566,
@@ -26008,7 +26004,7 @@
         "company_name": "Visa",
         "id": "2d3a9ad7-4d3e-4984-b030-688e147dee14",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757527251,
         "date_posted": 1757527251,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080906828",
@@ -26109,7 +26105,7 @@
         "company_name": "Visa",
         "id": "bd3e5c92-982c-40f7-8a22-24f26fcd1034",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757541848,
         "date_posted": 1757541848,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080905065",
@@ -26774,7 +26770,7 @@
         "company_name": "RTX",
         "id": "8d176532-5dae-4784-8732-ebd40b79cd56",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757632708,
         "date_posted": 1757632708,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
@@ -26890,7 +26886,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757668082,
+        "date_updated": 1758126557,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -26905,7 +26901,7 @@
         "id": "a48c0369-b4c6-428f-8b24-11678660c772",
         "date_posted": 1757668082,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757668156,
@@ -27135,8 +27131,8 @@
         "company_name": "RTX",
         "id": "16f0ad67-8a00-460b-886e-d1fea299b724",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1757836746,
+        "active": false,
+        "date_updated": 1758102898,
         "date_posted": 1757836746,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Software-Engineer-I--Onsite-_01781205",
         "locations": [
@@ -27144,10 +27140,8 @@
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27647,12 +27641,10 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758012133,
+        "date_updated": 1758068360,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
         "company_name": "Fifth Third",
         "title": "Quantitative Analyst I",
@@ -27664,7 +27656,7 @@
         "id": "88a836b0-963f-482f-b02b-79ee4829fa69",
         "date_posted": 1758012133,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758012249,
@@ -27685,7 +27677,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758013545,
+        "date_updated": 1758131507,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -27701,7 +27693,7 @@
         "id": "1ea8396e-6674-42b5-9ac9-6d517d41e0e3",
         "date_posted": 1758013545,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758014085,
@@ -27856,7 +27848,7 @@
         "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
         "title": "Junior Level Software Engineering - Associate",
         "active": true,
-        "date_updated": 1758054101,
+        "date_updated": 1758102973,
         "date_posted": 1758054101,
         "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -27864,10 +27856,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27875,7 +27865,7 @@
         "company_name": "Chewy",
         "id": "a1c7ebb8-f55a-4d0c-8293-ed794342d136",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758053613,
         "date_posted": 1758053613,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7253456",
@@ -28002,6 +27992,235 @@
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793655",
         "locations": [
             "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Atlantic Industries",
+        "id": "62c8d027-1bfb-4673-be23-d11d806a0ec6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758072616,
+        "date_posted": 1758072616,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3580950",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758103402,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/point72/jobs/8169967002",
+        "company_name": "Point72",
+        "title": "Quantitative Portfolio Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "58641e2a-5aea-4dca-af05-0c243aad7d1f",
+        "date_posted": 1758103402,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103534,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Irving-TX/Data-Analyst---2026-graduates_103573",
+        "company_name": "Gartner",
+        "title": "Data Analyst",
+        "locations": [
+            "Irving, TX",
+            "Stamford, CT"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1c8244b6-b01d-4f2c-964c-a3a9dfcc83b3",
+        "date_posted": 1758103534,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103649,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.duolingo.com/jobs/8151163002",
+        "company_name": "Duolingo",
+        "title": "AI Research Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "123f9e5d-ff4b-453d-a05d-187f44816b60",
+        "date_posted": 1758103649,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103683,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.duolingo.com/jobs/8169815002",
+        "company_name": "Duolingo",
+        "title": "AI Research Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d0a205f6-1e44-4eaf-b273-595808fd379c",
+        "date_posted": 1758103683,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103748,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
+        "company_name": "Verkada",
+        "title": "Security Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "221a1cf3-a2dd-4fce-b8a4-ffa97d213698",
+        "date_posted": 1758103748,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103856,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
+        "company_name": "Northrop Grumman",
+        "title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
+        "locations": [
+            "Roy, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0009e225-4e0a-4d85-8633-d6a70c1b84cc",
+        "date_posted": 1758103856,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103955,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "643c90a8-2e0c-42d5-9bf6-d0828d9d773b",
+        "date_posted": 1758103955,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "7aced101-ae2c-4a84-bc43-e6596dde3bda",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1758117402,
+        "date_posted": 1756160310,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/557",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758131629,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8",
+        "company_name": "Watershed",
+        "title": "Software engineer, new grad",
+        "locations": [
+            "San Francisco"
+        ],
+        "category": "Software Engineering",
+        "source": "alapre",
+        "id": "77d44535-7657-4a26-bad8-bb55dbfc5739",
+        "date_posted": 1758131629,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Aristocrat Leisure",
+        "id": "ed83edd9-2b43-4432-8d8b-337325577626",
+        "title": "Junior Product Manager",
+        "active": true,
+        "date_updated": 1758135009,
+        "date_posted": 1758135009,
+        "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Junior-Product-Manager_R0019672-1",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ced87084-4bc5-42fe-a43a-f59321283341",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758144036,
+        "date_posted": 1758144036,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
+        "locations": [
+            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
