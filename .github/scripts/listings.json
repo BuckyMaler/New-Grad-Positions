@@ -1,72 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "0365c6ff-064f-42b8-92a3-b85c6ff96158",
-        "title": "Compiler Engineer \u2013 New College Grad 2024 - LLVM",
-        "active": false,
-        "date_updated": 1727293018,
-        "date_posted": 1727293018,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2024_JR1988112",
-        "locations": [
-            "Austin, TX",
-            "Redmond, WA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ManTech",
-        "id": "189dfb08-5e4e-47d5-8c04-c3b0ff9a3629",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1727306140,
-        "date_posted": 1727306140,
-        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55534",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Flashpoint",
-        "id": "e1db1599-3641-4bf0-8f8e-1ebe542f074d",
-        "title": "Software Engineer I - Collections",
-        "active": false,
-        "date_updated": 1727306053,
-        "date_posted": 1727306053,
-        "url": "https://job-boards.greenhouse.io/flashpoint/jobs/7657674002?gh_jid=7657674002",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Flashpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "The Walt Disney Company",
-        "id": "8354284b-7ff7-4e9c-8426-9e05d6f8e46e",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1727305975,
-        "date_posted": 1727305975,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10098772",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amplitude",
         "id": "36e6b8c4-c134-4f08-a992-31498afc2999",
         "title": "Software Engineer I - Growth",
@@ -12686,7 +12620,7 @@
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1755269804,
         "date_posted": 1751385332,
         "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
@@ -12703,7 +12637,7 @@
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1751385330,
         "date_posted": 1751385330,
         "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
@@ -12755,7 +12689,7 @@
         "company_name": "Candid Health",
         "id": "8098037f-f4db-4feb-a7ea-2a17e108f871",
         "title": "Forward Deployed Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755269962,
         "date_posted": 1751413471,
         "url": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application",
@@ -14420,7 +14354,7 @@
         "company_name": "Northslope Technologies",
         "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755270266,
         "date_posted": 1753315722,
         "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
@@ -16146,7 +16080,7 @@
         "company_name": "Blue Origin",
         "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
         "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754610266,
         "date_posted": 1754610266,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
@@ -16187,7 +16121,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -16859,7 +16793,7 @@
         "company_name": "HNTB",
         "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
         "title": "Returning New Grad Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754978782,
         "date_posted": 1754978782,
         "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
@@ -17782,7 +17716,7 @@
         "company_name": "Blue Origin",
         "id": "0296a5d8-15c9-4d99-9837-ae8869168618",
         "title": "Avionics Software Engineer 1 \u2013 Early Career 2025 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755193215,
         "date_posted": 1755193215,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-1---Early-Career-2025-University-Grad_R54112",
@@ -17800,7 +17734,7 @@
         "company_name": "Blue Origin",
         "id": "76bda980-7f17-4147-913d-c39234019082",
         "title": "Machine Learning Engineer/Scientist I \u2013 Early Career 2025 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755193156,
         "date_posted": 1755193156,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164",
@@ -19865,7 +19799,7 @@
         "company_name": "Applied Intuition",
         "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
         "title": "Research Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755654113,
         "date_posted": 1755654113,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
@@ -22570,7 +22504,7 @@
         "company_name": "Seagate Technology ",
         "id": "ae299101-f673-4a96-87ff-2115d79846c1",
         "title": "Firmware Engineer \u2013 Early Career - AI/ML Focus",
-        "active": true,
+        "active": false,
         "date_updated": 1756509146,
         "date_posted": 1756509146,
         "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-(AIML-Focus)-CO-80501/1321668700/?ats=successfactors",
@@ -22668,7 +22602,7 @@
         "company_name": "Nutanix",
         "id": "9d624829-b749-4a08-98ec-ca5dab38321a",
         "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
-        "active": true,
+        "active": false,
         "date_updated": 1756745491,
         "date_posted": 1756745491,
         "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false",
@@ -22804,7 +22738,7 @@
         "company_name": "Blue Origin",
         "id": "8c125a08-f60a-4953-95e3-1a9411da20a7",
         "title": "Software Development Engineer I \u2013 Early Career & New Graduate Rotation",
-        "active": true,
+        "active": false,
         "date_updated": 1756903070,
         "date_posted": 1756826732,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
@@ -24026,7 +23960,7 @@
         "company_name": "Ellipsis Labs",
         "id": "04f4153d-3ef4-4c63-95fc-17771cca2eec",
         "title": "Software Engineer \u2013 Intern & New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757036984,
         "date_posted": 1757036984,
         "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
@@ -25193,7 +25127,7 @@
         "company_name": "Figma",
         "id": "3bea35c7-6895-4566-a81a-32705074a380",
         "title": "Early Career - Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1757356297,
         "date_posted": 1757356297,
         "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
@@ -25621,7 +25555,7 @@
         "company_name": "The Travelers Companies",
         "id": "972b83e3-656a-4d40-834f-46c6e1c77d65",
         "title": "Software Engineer I - Aws",
-        "active": false,
+        "active": true,
         "date_updated": 1757464265,
         "date_posted": 1757464265,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180",
@@ -25677,7 +25611,7 @@
         "company_name": "OffDeal",
         "id": "ec2ac102-621a-441e-a40d-c2e78d929bcc",
         "title": "Founding Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757493150,
         "date_posted": 1757022331,
         "url": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
@@ -26032,7 +25966,7 @@
         "company_name": "Amentum",
         "id": "d926f42e-6ace-475c-87f2-027dd64296c4",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551938,
         "date_posted": 1757551938,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1",
@@ -26053,7 +25987,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -26751,7 +26685,7 @@
         "company_name": "Sun Life",
         "id": "2033c21e-54e5-415d-a102-70d1e64a23b8",
         "title": "Student \u2013 Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757695085,
         "date_posted": 1757695085,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Software-Engineer--Winter-2026-_JR00114373",
@@ -27153,7 +27087,7 @@
         "company_name": "Jerry",
         "id": "c42d7027-6ae4-4081-9548-2761ee619688",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757980147,
         "date_posted": 1757980147,
         "url": "https://jobs.ashbyhq.com/jerry.ai/78d2ca56-897b-40e1-b7cf-012629cd05ae/application",
@@ -27174,7 +27108,7 @@
         "company_name": "Jerry",
         "id": "3a9e8029-c852-4ef0-995f-d42a959e769f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757980146,
         "date_posted": 1757980146,
         "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91/application",
@@ -27770,7 +27704,7 @@
         "company_name": "RTX",
         "id": "f9650e49-9a88-4962-be4b-fcdae6b32a04",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758064668,
         "date_posted": 1758064668,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT205-1128-W-2400-South-Salt-Lake-C-1128-West-2400-South-AST---Salt-Lake-City-Salt-Lake-City-UT-84119-USA/Software-Engineer-I--Onsite-_01794082",
@@ -27790,7 +27724,7 @@
         "company_name": "RTX",
         "id": "778d2009-634c-428a-a07c-3d267d1fb5f5",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758064653,
         "date_posted": 1758064653,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineer-I--Onsite-_01793337",
@@ -28159,7 +28093,7 @@
         "company_name": "Watershed",
         "id": "a3f9d5e3-404d-4f55-8cb0-002c4308a3a0",
         "title": "Software engineer \u2013 New grad",
-        "active": false,
+        "active": true,
         "date_updated": 1758160388,
         "date_posted": 1758160388,
         "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
@@ -28377,7 +28311,7 @@
         "company_name": "The Boeing Company",
         "id": "bb0b2050-ef39-45b9-bd01-a2a690787c67",
         "title": "Entry Level Software Engineer - Flight Simulation",
-        "active": false,
+        "active": true,
         "date_updated": 1758240979,
         "date_posted": 1758240979,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011",
@@ -28418,7 +28352,7 @@
         "company_name": "Galileo Financial Technologies",
         "id": "ff63a963-45c6-450b-8095-01242fec3767",
         "title": "New Grad \u2013 Software Engineer - Backend Developer - Sofi Money",
-        "active": true,
+        "active": false,
         "date_updated": 1758241813,
         "date_posted": 1758241813,
         "url": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003",
@@ -28499,7 +28433,7 @@
         "company_name": "Kodiak Robotics",
         "id": "b3d163ed-b500-4876-97f8-02cdebbde835",
         "title": "Autonomy/AI Software Engineer-Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1758308874,
         "date_posted": 1758308874,
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4028715009",
@@ -28540,7 +28474,7 @@
         "source": "Simplify",
         "category": "Other",
         "company_name": "Sev1Tech",
-        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
+        "id": "71bf6784-4332-4e13-9dda-b41a35330da4",
         "title": "Cybersecurity Engineer 1",
         "active": false,
         "date_updated": 1758315728,
@@ -28698,6 +28632,524 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "7d4bbb99-10c6-4779-8c77-b7f3e0d6d520",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1758331404,
+        "date_posted": 1758331404,
+        "url": "https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264418",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "4db29e91-1c1d-4211-a891-40e1bbab5387",
+        "title": "Entry Level Software Engineer - Kotlin - Java",
+        "active": true,
+        "date_updated": 1758330983,
+        "date_posted": 1758330983,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1ccc323b-5d54-4ffc-9303-dedeeb045f4c",
+        "title": "Software Engineer 1 - Engineering",
+        "active": true,
+        "date_updated": 1758340628,
+        "date_posted": 1758340628,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/1ff2f3c2-fbf0-4b33-a5d0-f9cde79bae52/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "67fa64e7-3c68-4c8c-b75d-63378d42a6d4",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1758341642,
+        "date_posted": 1758341642,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160134",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "ab8f47e0-d4cb-4316-89da-a7386c3b8deb",
+        "title": "Software Engineer 1 - Engineering - Core App - Retention - Automation - React - NodeJS - TypeScript - AWS - Python - Docker - CI/CD - Redis - Postgres - DynamoDB - Clickhouse - AI/ML",
+        "active": true,
+        "date_updated": 1758343111,
+        "date_posted": 1758343111,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/42f3759f-eaa8-4b31-93ba-f6d206d0df3f/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copeland",
+        "id": "1599007b-284e-4c5b-8e95-3582644c3e9b",
+        "title": "Associate Product Manager \u2013 New Grad/Mid Level",
+        "active": true,
+        "date_updated": 1758357031,
+        "date_posted": 1757982669,
+        "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Kennesaw-GA-USA/Associate-Product-Manager--New-Grad-Mid-Level-_JR110266",
+        "locations": [
+            "Kennesaw, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Copeland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Belvedere Trading",
+        "id": "3901b5e1-a5fb-4c05-9738-654a70a6341d",
+        "title": "Software Engineer \u2013 Entry Level 2026",
+        "active": true,
+        "date_updated": 1758357059,
+        "date_posted": 1754707548,
+        "url": "https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "d8d3887c-f0f5-45e9-af46-6c289c90d27f",
+        "title": "MBA University Graduate - Product Manager",
+        "active": true,
+        "date_updated": 1758358426,
+        "date_posted": 1756434231,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Manager_R158962",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Meta",
+        "id": "f5f3a5fb-8744-4e44-ba4b-7ae81fdcc1c1",
+        "title": "Product Security Engineer \u2013 University Grad",
+        "active": true,
+        "date_updated": 1758359233,
+        "date_posted": 1753485873,
+        "url": "https://www.metacareers.com/jobs/2179414399210116",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Decagon",
+        "id": "3028cdea-b3ff-4483-b94a-856891810dcf",
+        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1758361453,
+        "date_posted": 1757117107,
+        "url": "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Decagon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Decagon",
+        "id": "76bd6015-beee-4e02-bb81-8d04bfc62f4e",
+        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1758362035,
+        "date_posted": 1756943431,
+        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Decagon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abridge",
+        "id": "900d3fae-428b-45b6-847a-878c333f3f4e",
+        "title": "Full Stack Engineer - New Grad - Product Engineering - Typescript - React - Next.js",
+        "active": true,
+        "date_updated": 1758361853,
+        "date_posted": 1756165745,
+        "url": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Abridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
+        "title": "PON Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758362371,
+        "date_posted": 1757622733,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765",
+        "locations": [
+            "Mansfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
+        "title": "Software Development Engineer 1 - Engineering - Development",
+        "active": true,
+        "date_updated": 1758363766,
+        "date_posted": 1757972597,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
+        "title": "Software Developer Engineer 1 - Front-End UI Development",
+        "active": true,
+        "date_updated": 1758368656,
+        "date_posted": 1757977983,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "IXL Learning",
+        "id": "cedbf36e-b47f-4f1e-bc52-9a1279770d2e",
+        "title": "Associate Product Manager \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758369745,
+        "date_posted": 1755744079,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8128549002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "150396ee-b19c-450a-9b36-76e035cc0762",
+        "title": "Software Development Engineer 1 - GenAI",
+        "active": true,
+        "date_updated": 1758372101,
+        "date_posted": 1756160312,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/759",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Belvedere Trading",
+        "id": "a8a35e5f-1a4d-42b1-ac87-8d42f18d9d76",
+        "title": "Quantitative Trader \u2013 Entry Level 2026",
+        "active": true,
+        "date_updated": 1758371659,
+        "date_posted": 1754707547,
+        "url": "https://jobs.lever.co/belvederetrading/7a15eeab-69ce-489e-bdb6-122dd0360b40/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roblox",
+        "id": "cb516fb8-a980-4251-9c89-91f871f258b4",
+        "title": "Associate Product Manager - Early Career",
+        "active": true,
+        "date_updated": 1757969510,
+        "date_posted": 1756867324,
+        "url": "https://careers.roblox.com/jobs/7167343?gh_jid=7167343",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "3dcd2e88-e3d8-4347-90c3-366c28c12e37",
+        "title": "Software Engineer 1 - International Card Services - Int Card & Risk Services Tech",
+        "active": true,
+        "date_updated": 1758375670,
+        "date_posted": 1755823820,
+        "url": "https://aexp.eightfold.ai/careers/job/30763120",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WhatNot",
+        "id": "38cca989-4499-494a-9df9-4b012d5d184a",
+        "title": "Software Engineer \u2013 2026 New Grad",
+        "active": true,
+        "date_updated": 1758377502,
+        "date_posted": 1757023972,
+        "url": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mechanical Orchard",
+        "id": "c6aedd71-e0a7-415b-b19a-8aa6a14ae2ff",
+        "title": "Software Engineer \u2013 New Grads Welcome",
+        "active": true,
+        "date_updated": 1758377460,
+        "date_posted": 1746479374,
+        "url": "https://jobs.lever.co/mechanicalorchard/3ee619b5-9916-453c-8ed0-30fcbf75a675/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mechanical-Orchard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commure",
+        "id": "1c49e461-9658-4a0a-ae74-588933252625",
+        "title": "Software Engineer \u2013 Summer 2026 New Grad - Ambient AI",
+        "active": true,
+        "date_updated": 1758380383,
+        "date_posted": 1756339280,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netic",
+        "id": "f6288fa7-371b-43c4-95a9-b5bf2f92193b",
+        "title": "Machine Learning Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758384471,
+        "date_posted": 1756678071,
+        "url": "https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Netic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PathAI",
+        "id": "c02dfa55-86e8-4965-9800-7ea301501001",
+        "title": "Machine Learning Engineer 1/2/3",
+        "active": true,
+        "date_updated": 1758388097,
+        "date_posted": 1757648115,
+        "url": "https://www.pathai.com/careers/8062963002?gh_jid=8062963002",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PathAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's",
             "PhD"
         ]
