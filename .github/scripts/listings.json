@@ -11032,7 +11032,7 @@
         "company_name": "Numeric",
         "id": "f048af16-1b47-4bba-910e-a1cf1b5d1588",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1755269686,
         "date_posted": 1749526495,
         "url": "https://jobs.ashbyhq.com/numeric/75fb980e-623a-4b92-932b-4ff3ae6fc2e8/application",
@@ -13102,7 +13102,7 @@
         "company_name": "Citadel Securities",
         "id": "9f39417b-65f8-44a7-a1f8-63cce9e90313",
         "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755268857,
         "date_posted": 1752196370,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
@@ -19532,7 +19532,7 @@
         "company_name": "SHEIN",
         "id": "6d5d0a3a-f920-4c8f-9689-91cf1e30500c",
         "title": "Big Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753915290,
         "date_posted": 1753915290,
         "url": "https://job-boards.greenhouse.io/shein/jobs/4825893008",
@@ -22106,7 +22106,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -25756,7 +25756,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -25817,7 +25817,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -27556,7 +27556,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "77590a74-c1c6-4ddf-af2d-7a286d9cacab",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758063154,
         "date_posted": 1758063154,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Colorado/Software-Engineer-I_R144461",
@@ -28344,7 +28344,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -28758,7 +28758,7 @@
         "company_name": "Ciena",
         "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
         "title": "PON Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758362371,
         "date_posted": 1757622733,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765",
@@ -29784,6 +29784,330 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "7c064910-805a-4037-876c-13452565138c",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1758674824,
+        "date_posted": 1758674824,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1_R62252",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citigroup",
+        "id": "2dd479a3-c56a-41c4-be00-e2cc0c4bab4f",
+        "title": "Entry Level Java Developer/Software Engineer and Technology Business Analysts - Technology Business Analysis - Applications Development",
+        "active": true,
+        "date_updated": 1758681047,
+        "date_posted": 1758681047,
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Entry-Level-Java-Developer-Software-Engineer-and-Technology-Business-Analysts_25908328",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "9473651a-1bbf-47c0-8007-15c3b4b0d008",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1758683467,
+        "date_posted": 1758683467,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/UT-Salt-Lake-City-175-East-400-South/Junior-Software-Engineer_R000098752-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "82a2775d-0300-415a-b3b3-b7115901f814",
+        "title": "Software Engineer 1 - Engineering / Product Development",
+        "active": false,
+        "date_updated": 1758683914,
+        "date_posted": 1758683914,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "IXL Learning",
+        "id": "7e59f39b-87af-49fa-9170-40895f2548a1",
+        "title": "Associate Product Manager \u2013 New Grad - Product Management",
+        "active": true,
+        "date_updated": 1758685716,
+        "date_posted": 1758685716,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182864002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758691834,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
+        "company_name": "JPMorganChase",
+        "title": "Quantitative Research - Data Analytics - Associate",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
+        "date_posted": 1758691834,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758691926,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5616603004",
+        "company_name": "Figma",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "89a69655-711e-42fd-8699-a8b6caf767ca",
+        "date_posted": 1758691926,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "4b9c702f-06fa-4fa4-97a0-4aab1951ffbc",
+        "title": "Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team",
+        "active": true,
+        "date_updated": 1758697147,
+        "date_posted": 1758697147,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "aad18883-77ff-4b1e-9af2-1688cd8d74ec",
+        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1758701832,
+        "date_posted": 1758701832,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182862002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "018cb132-f0f1-48f6-b5fe-1bc111d1ec6d",
+        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1758701815,
+        "date_posted": 1758701815,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182830002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "78d2b8a7-dbfd-4431-bcf7-4a0bd151c057",
+        "title": "Software Development Engineer 1 - Mobile Apps Engineering",
+        "active": true,
+        "date_updated": 1758384406,
+        "date_posted": 1755201965,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-iOS,-Mobile-Apps-Engineering-NY-11714/1271275900/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758738003,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
+        "company_name": "Pinterest",
+        "title": "Software Engineer University Grad",
+        "locations": [
+            "San Francisco",
+            "Palo Alto",
+            "Seattle"
+        ],
+        "category": "Software Engineering",
+        "source": "GAchuzia",
+        "id": "950c76d4-44a9-4b51-bcc5-61c8cc18f172",
+        "date_posted": 1758738003,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "e99da8c0-784c-404e-a32b-9a4ce8a5fe59",
+        "title": "New Grad Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1758754101,
+        "date_posted": 1758754101,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "93063771-56a1-40e8-9ed6-96737f9bd052",
+        "title": "Routing/IP Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758754111,
+        "date_posted": 1758754111,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer---New-Grad_R029033",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
+        "title": "Junior Software Developer - Go Lang",
+        "active": true,
+        "date_updated": 1758755035,
+        "date_posted": 1758755035,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
+        "title": "Junior Software Developer - Java/Scala",
+        "active": true,
+        "date_updated": 1758755027,
+        "date_posted": 1758755027,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
+        "locations": [
+            "Ireland",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
