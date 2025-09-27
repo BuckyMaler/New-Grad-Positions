@@ -1,85 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Accenture Federal Services",
-        "id": "eaa3483e-9354-4e5a-b05c-1a0ed6257712",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1727752415,
-        "date_posted": 1727752415,
-        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398469006",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Codazen",
-        "id": "8024d820-597d-41d3-b788-20dd2b2eaea4",
-        "title": "Full-Stack Engineer Summer 2025 New Grad",
-        "active": false,
-        "date_updated": 1727795737,
-        "date_posted": 1727795737,
-        "url": "https://boards.greenhouse.io/codazen/jobs/5338061004",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Codazen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SeatGeek",
-        "id": "05f006a7-e4b0-4263-915b-b761c61f8240",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1727811719,
-        "date_posted": 1727811719,
-        "url": "https://seatgeek.com/jobs/6295342?gh_jid=6295342",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SeatGeek",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SMX",
-        "id": "efdb49dd-cee5-4049-bca9-01d77d755cf3",
-        "title": "Junior Software Engineer - Ts/Sci CI Poly",
-        "active": false,
-        "date_updated": 1727811030,
-        "date_posted": 1727811030,
-        "url": "https://www.smxtech.com/careers/?gh_jid=6228060003",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
-        "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
-        "active": false,
-        "date_updated": 1727824595,
-        "date_posted": 1727824595,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1727859026,
         "url": "https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/",
         "company_name": "IBM",
@@ -11739,7 +11659,7 @@
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755269232,
         "date_posted": 1750670041,
         "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
@@ -17167,7 +17087,7 @@
         "company_name": "Becton, Dickinson and Company",
         "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755154524,
         "date_posted": 1755154524,
         "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-523411-1",
@@ -18097,7 +18017,7 @@
         "company_name": "Esri",
         "id": "2399ab40-9836-4bd9-ab03-e62e992c5fdc",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755289886,
         "date_posted": 1755289886,
         "url": "https://www.esri.com/careers/4829377007?gh_jid=4829377007",
@@ -22462,7 +22382,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -25785,7 +25705,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -28310,9 +28230,9 @@
         "source": "Simplify",
         "category": "Other",
         "company_name": "Sev1Tech",
-        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
+        "id": "71bf6784-4332-4e13-9dda-b41a35330da4",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -28971,7 +28891,7 @@
         "company_name": "PathAI",
         "id": "c02dfa55-86e8-4965-9800-7ea301501001",
         "title": "Machine Learning Engineer 1/2/3",
-        "active": true,
+        "active": false,
         "date_updated": 1758388097,
         "date_posted": 1757648115,
         "url": "https://www.pathai.com/careers/8062963002?gh_jid=8062963002",
@@ -29317,7 +29237,7 @@
         "company_name": "The Boeing Company",
         "id": "549eeb08-3ded-452b-8f16-6842e19982f5",
         "title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1758593154,
         "date_posted": 1758593154,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
@@ -29760,7 +29680,7 @@
         "company_name": "Fifth Third Bank",
         "id": "7c064910-805a-4037-876c-13452565138c",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758674824,
         "date_posted": 1758674824,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1_R62252",
@@ -30372,6 +30292,454 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
+        "title": "Junior Software Engineer - Java Engineering",
+        "active": true,
+        "date_updated": 1758864132,
+        "date_posted": 1758864132,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000083897595",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758868246,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Scientist",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
+        "date_posted": 1758868246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868556,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/genies/jobs/7477215003",
+        "company_name": "Genies",
+        "title": "Product Operations Associate \u2013 AI Avatars",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "3f5b7918-0cf4-4af1-985a-75882623a878",
+        "date_posted": 1758868556,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868677,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59811",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3c72f92a-18d0-434a-8838-180a9471c3a6",
+        "date_posted": 1758868677,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868742,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "858b146b-f1ab-47ae-80b6-b1ad8c88b3c4",
+        "date_posted": 1758868742,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868768,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "835a1a1c-0727-4c58-a98a-e10a07a4b490",
+        "date_posted": 1758868768,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868830,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "fd78602f-e1ba-444e-a3ee-30ce6c64e479",
+        "date_posted": 1758868830,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758908599,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137893",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "61cf0f69-c461-4d69-8d66-a38e0793f155",
+        "date_posted": 1758868913,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758908577,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137895",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b99326c9-d40e-4238-909c-ae297aa406ae",
+        "date_posted": 1758868962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758908617,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137894",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7461ea90-d24b-4386-96da-74a96591f64c",
+        "date_posted": 1758869022,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758908537,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineerinng-Associate_137898",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "aca440de-1ade-458a-b97a-875f3a52cbbb",
+        "date_posted": 1758869050,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758908384,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2917f903-c781-46a7-ab98-258e930850f9",
+        "date_posted": 1758869229,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1758887825,
+        "date_posted": 1758887825,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
+        "title": "Software Engineer University Grad",
+        "active": true,
+        "date_updated": 1758887132,
+        "date_posted": 1758887132,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "d592e898-680a-4be8-99f5-718021b9ebe4",
+        "title": "Data Scientist New College Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1758894862,
+        "date_posted": 1758894862,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Bachelors-Degree--Santa-Clara--CA-_R2517338",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parafin",
+        "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758910882,
+        "date_posted": 1758910882,
+        "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parafin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
+        "title": "Data Engineer 1 - Insurance Industry",
+        "active": true,
+        "date_updated": 1758914436,
+        "date_posted": 1758914436,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ardent",
+        "id": "0792f38f-5a91-4853-8e4b-717325737b5d",
+        "title": "Junior Developer Consultant - Geospatial Software Development",
+        "active": true,
+        "date_updated": 1758916693,
+        "date_posted": 1758916693,
+        "url": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ardent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Gauntlet Networks",
+        "id": "623f45db-6ae9-4795-981f-a40286a0be77",
+        "title": "Quant Research Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758915902,
+        "date_posted": 1758915902,
+        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad/apply",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Gauntlet-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Honeywell",
+        "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
+        "title": "Cyber Security Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758917815,
+        "date_posted": 1758917815,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
+        "title": "Software Engineer 1 - Industrial Automation",
+        "active": true,
+        "date_updated": 1758917853,
+        "date_posted": 1758917853,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
+        "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
+        "active": true,
+        "date_updated": 1758917756,
+        "date_posted": 1758917756,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758917678,
+        "date_posted": 1758917678,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
