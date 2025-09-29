@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "PolyAI",
-        "id": "1a84467e-5607-475f-80ae-9938c2d6d9b5",
-        "title": "Software Engineer \u2013 Graduate / Junior - Project - Must be in Toronto",
-        "active": false,
-        "date_updated": 1727939792,
-        "date_posted": 1727939792,
-        "url": "https://apply.workable.com/poly-ai/j/E2ED2F21C7/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PolyAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Quora",
-        "id": "9a0f2cb2-8c5e-4116-80f2-47494253da2d",
-        "title": "Data Scientist \u2013 New Grad - Monetization - Remote",
-        "active": false,
-        "date_updated": 1727983301,
-        "date_posted": 1727983301,
-        "url": "https://jobs.ashbyhq.com/quora/1033c9d1-10e5-46c0-b44a-3c236b12647c/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Quora",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "583e0015-4701-4b94-b3e2-3fa2e0fdb4df",
-        "title": "Software Engineer I - Data Platform",
-        "active": false,
-        "date_updated": 1727983099,
-        "date_posted": 1727983099,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/6228449003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "34620c69-14aa-46d2-814a-23a053d3591e",
-        "title": "Software Engineer for Cloud Platforms \u2013 New College Graduate 2024 - Deep Learning Applications",
-        "active": false,
-        "date_updated": 1727997513,
-        "date_posted": 1727997513,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer-for-Cloud-Platforms--Deep-Learning-Applications---New-College-Graduate-2024_JR1988779",
-        "locations": [
-            "Remote in USA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "d0c6bf2e-e67e-494b-af52-2611c5dd70a2",
-        "title": "Associate \u2013 New Grad - Software Engineer - OR049161",
-        "active": false,
-        "date_updated": 1727997393,
-        "date_posted": 1727997393,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049161-_R195502",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Citylitics",
         "id": "fa5a36a9-0fbc-45bf-beac-f34757f70c86",
         "title": "Junior Data Engineer",
@@ -1036,22 +955,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/4019ae9c-3cfa-47fe-83fd-758f3b050277",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wayfair",
-        "id": "ba404dfa-b4af-43bc-9ee8-616886163bf3",
-        "title": "Software Engineer I \u2013 Experienced Graduates - Fall 2024 Start",
-        "active": false,
-        "date_updated": 1730316554,
-        "date_posted": 1727996760,
-        "url": "https://www.wayfair.com/careers/jobs/7626279002?gh_jid=7626279002",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -21960,7 +21863,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -25354,7 +25257,7 @@
     {
         "date_updated": 1757507941,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1",
         "company_name": "Jonas",
@@ -25773,7 +25676,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -28196,7 +28099,7 @@
         "source": "Simplify",
         "category": "Other",
         "company_name": "Sev1Tech",
-        "id": "71bf6784-4332-4e13-9dda-b41a35330da4",
+        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
         "active": true,
         "date_updated": 1758315728,
@@ -29576,7 +29479,7 @@
         "company_name": "The Boeing Company",
         "id": "3d53433a-408a-4c5d-bddb-aae123505562",
         "title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1758658002,
         "date_posted": 1758658002,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
@@ -30933,6 +30836,47 @@
             "Warren, MI"
         ],
         "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8ff03fb4-7ad5-4b9d-afd7-6014e3031149",
+        "title": "Engineer 1: Summer 2026 \u2013 Senior Full Stack Cloud Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759043106,
+        "date_posted": 1759043106,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW102-Middletown-Aircraft-Rd-PO-Box-611-Middletown-CT-06457-USA/Engineer-I--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Remote-_01794400",
+        "locations": [
+            "Middletown, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ISYS Technologies",
+        "id": "8413cf8b-9f9f-45f7-a2ed-d55a89685016",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1757606508,
+        "date_posted": 1757606508,
+        "url": "https://careers-i2xisys.icims.com/jobs/14627/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/ISYS-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
