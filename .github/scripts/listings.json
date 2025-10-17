@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Caterpillar Inc.",
-        "id": "401fd6ec-e523-439f-8266-d46c148a2a19",
-        "title": "Early Career Data Scientist / Technical Analyst",
-        "active": false,
-        "date_updated": 1739852039,
-        "date_posted": 1739852039,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2025-Cat-Digital---Early-Career-Data-Scientist---Technical-Analyst_R0000292585",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "The Trade Desk",
         "id": "50ec14ed-3ef8-4a27-af0e-3a8791befc1c",
         "title": "Software Engineer I - 2025 Start",
@@ -19650,7 +19633,7 @@
         "company_name": "Figma",
         "id": "3bea35c7-6895-4566-a81a-32705074a380",
         "title": "Early Career - Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1757356297,
         "date_posted": 1757356297,
         "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
@@ -20510,7 +20493,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -20570,7 +20553,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -28854,19 +28837,16 @@
         "id": "4111e6c0-b494-4c0a-a3bd-c2361bf7fb4a",
         "title": "Software Engineer 1 - Remote Assist",
         "active": true,
-        "date_updated": 1760385199,
+        "date_updated": 1760640644,
         "date_posted": 1760385199,
         "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
         "locations": [
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -28875,19 +28855,16 @@
         "id": "11a24614-aae6-401d-b591-ee36aef2bd4c",
         "title": "Software Engineer 1 - Remote Assist",
         "active": true,
-        "date_updated": 1760385202,
+        "date_updated": 1760640623,
         "date_posted": 1760385202,
         "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -29194,7 +29171,7 @@
         ]
     },
     {
-        "date_updated": 1760494951,
+        "date_updated": 1760640591,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -29209,10 +29186,10 @@
         "id": "f794abf3-e79e-4923-aedb-de0fc28d1119",
         "date_posted": 1760494951,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1760495126,
+        "date_updated": 1760640434,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -29227,7 +29204,7 @@
         "id": "2199e407-beea-48a0-92e0-2e9baccabd36",
         "date_posted": 1760495126,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -29369,5 +29346,46 @@
         "date_posted": 1760568390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D3",
+        "id": "21b95fb5-d489-4032-af81-46650b0e2764",
+        "title": "Frontend Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760580897,
+        "date_posted": 1760580897,
+        "url": "https://d3.com/careers?gh_jid=4915213008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/D3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NewsBreak",
+        "id": "65b7b88a-dfaa-44a4-bb60-2668ec00dd55",
+        "title": "Software Engineer \u2013 New Grad Friendly - IOS",
+        "active": true,
+        "date_updated": 1760628067,
+        "date_posted": 1760628067,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4610466006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
