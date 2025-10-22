@@ -20403,7 +20403,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20445,7 +20445,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -30149,7 +30149,7 @@
         ]
     },
     {
-        "date_updated": 1761003868,
+        "date_updated": 1761068422,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -30164,7 +30164,7 @@
         "id": "3b7b1744-bddb-4645-8ffe-3f4b1a0e5adf",
         "date_posted": 1761003868,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761004100,
@@ -30199,6 +30199,143 @@
         "source": "angie-hue",
         "id": "d9980de4-2b70-42e8-bc57-dd8f4aef7f37",
         "date_posted": 1761004191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "4e1ec0f3-85ff-4f22-b10c-37f8efee27af",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1761006232,
+        "date_posted": 1761006232,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Revionics",
+        "id": "9873b7c9-836b-4c1f-ac5a-d2e1bd8eb06b",
+        "title": "Machine Learning Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1761005407,
+        "date_posted": 1761005407,
+        "url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125",
+        "locations": [
+            "Austin, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revionics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "7a67807d-c3f0-4885-a552-930c812bb0da",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1761029265,
+        "date_posted": 1761029265,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/6f0c0817-8062-4c4f-8b45-b495993b7037/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "552aa4cb-8453-45eb-8353-c0078d32f45f",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": false,
+        "date_updated": 1761027993,
+        "date_posted": 1761027993,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223346",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1761068952,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin",
+        "company_name": "Evolent",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "f65d4916-fb32-42fd-8d7f-6e675f17c844",
+        "date_posted": 1761068952,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761069073,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer",
+        "company_name": "Battelle",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "f29707a4-936f-4644-b392-cf44bbbdfbfa",
+        "date_posted": 1761069073,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761069578,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.spotandtango.com/careers?gh_jid=4620638005",
+        "company_name": "Spot & Tango",
+        "title": "Jr. Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "993ac503-c6ec-4aea-8729-a736a944f3e0",
+        "date_posted": 1761069578,
         "company_url": "",
         "is_visible": true
     }
