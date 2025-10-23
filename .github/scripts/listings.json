@@ -2,54 +2,6 @@
     {
         "source": "Simplify",
         "company_name": "Cox",
-        "id": "27b0e8df-5377-4ec6-84f0-77e94d52c2ae",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740413896,
-        "date_posted": 1740413896,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---Austin--TX_R202558269",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Secoda",
-        "id": "daad87a9-037b-48fb-a0eb-788a2088a419",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1740413781,
-        "date_posted": 1740413781,
-        "url": "https://jobs.ashbyhq.com/secoda/ad9807e9-a9d3-4247-99d7-37f68995ecd3/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Secoda",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "USAA",
-        "id": "cd1e2acf-03bb-4fd7-b4fe-b5041860a5cb",
-        "title": "Software Engineer Entry Level",
-        "active": false,
-        "date_updated": 1740430781,
-        "date_posted": 1740430781,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level_R0107289",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
         "id": "a8f5b8eb-be6c-487f-9b83-84a4fb9fe28a",
         "title": "Software Engineer I",
         "active": false,
@@ -3163,22 +3115,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Curtiss-Wright Corporation",
-        "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1745412218,
-        "date_posted": 1740429670,
-        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -10660,7 +10596,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -20403,7 +20339,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20445,7 +20381,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -20505,7 +20441,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -20996,7 +20932,7 @@
         "company_name": "Expedia Group",
         "id": "0414920e-9a7a-46e6-967c-320c1b558953",
         "title": "Software Development Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757695543,
         "date_posted": 1757695543,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
@@ -27360,18 +27296,16 @@
         "id": "94c8e7c1-8c2e-40e8-b8b6-a0778dfff751",
         "title": "Software Engineer 1 - Air Dominance Modeling and Analysis",
         "active": true,
-        "date_updated": 1759830396,
+        "date_updated": 1761155761,
         "date_posted": 1759830396,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2025-Full-Time-Raytheon-Software-Engineer-I_01797272",
         "locations": [
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "date_updated": 1759858417,
@@ -27736,14 +27670,14 @@
         "id": "7419dc98-8673-4535-8fbc-a1c2cf000dc8",
         "title": "Entry Level Software Developer",
         "active": true,
-        "date_updated": 1760016385,
+        "date_updated": 1761155731,
         "date_posted": 1759968454,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
         "locations": [
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "U.S. Citizenship is Required",
         "degrees": []
     },
@@ -30094,7 +30028,7 @@
         "company_name": "RELX",
         "id": "166a8f30-394b-4967-98ec-383b13bd20c3",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1760999833,
         "date_posted": 1760999833,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Software-Engineer-I_R100158-2",
@@ -30134,7 +30068,7 @@
         "company_name": "Capital One",
         "id": "cf4297fe-119f-4bd3-899c-40031c9dac08",
         "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761001165,
         "date_posted": 1761001165,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223348-1",
@@ -30322,7 +30256,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761069578,
+        "date_updated": 1761155659,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -30337,6 +30271,150 @@
         "id": "993ac503-c6ec-4aea-8729-a736a944f3e0",
         "date_posted": 1761069578,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capitolis",
+        "id": "e55e0b4b-64d9-41cf-bde0-50d494620b07",
+        "title": "Junior Software Engineer",
+        "active": false,
+        "date_updated": 1761092610,
+        "date_posted": 1761092610,
+        "url": "https://capitolis.com/careers/job/?gh_jid=6670061003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capitolis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "3fcf882e-b106-447c-95fb-7b793b897e9a",
+        "title": "Junior Data Scientist - ",
+        "active": true,
+        "date_updated": 1761096036,
+        "date_posted": 1761096036,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Junior-Data-Scientist_60012560-1",
+        "locations": [
+            "London, UK",
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "D2L",
+        "id": "a14f5f74-0c3a-4c07-b4b7-e8c7c4737121",
+        "title": "Software Developer Rotation Program \u2013 Spring 2026 New Graduate",
+        "active": true,
+        "date_updated": 1761120299,
+        "date_posted": 1761120299,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "93c78b5d-5ecf-4eca-a08f-9ac97eb0a260",
+        "title": "Software Engineer I - Hardware Test - R3999",
+        "active": true,
+        "date_updated": 1761165452,
+        "date_posted": 1761165452,
+        "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Peraton",
+        "id": "1e1617fa-d2a5-4145-accf-02ef70da0cd0",
+        "title": "Software Engineer-Junior",
+        "active": true,
+        "date_updated": 1761170075,
+        "date_posted": 1761170075,
+        "url": "https://careers-peraton.icims.com/jobs/160719/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SMX",
+        "id": "6b0e1cce-1603-4928-8862-c9be2bbf7727",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1761170320,
+        "date_posted": 1761170320,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7498313003",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "b4e24b78-23ad-4be6-9b21-5c568c5a87e9",
+        "title": "2026 Full-time - Java Software Engineer I - Onsite - PA",
+        "active": true,
+        "date_updated": 1761172459,
+        "date_posted": 1761172459,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
