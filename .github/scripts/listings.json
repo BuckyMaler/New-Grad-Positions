@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Onto Innovation",
-        "id": "34bb1875-7334-4028-8e57-fd6283e37b2f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1740528631,
-        "date_posted": 1740528631,
-        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Tucson-AZ/Software-Engineer-1_R-4313",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Onto-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Healthfirst",
-        "id": "cbce0fc3-4ecd-462b-8850-9144178409bd",
-        "title": "Technology Early Career Development Program - Full Stack Developer",
-        "active": false,
-        "date_updated": 1740528646,
-        "date_posted": 1740528646,
-        "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Healthfirst",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wood Mackenzie",
-        "id": "07475729-6892-4070-8a63-a553fcfa9a6c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740528598,
-        "date_posted": 1740528598,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "f8f8c43c-8d56-44e9-aa13-7f887bfc39ca",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740529389,
-        "date_posted": 1740529389,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558007",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "KBR",
-        "id": "871e08f9-4581-4a47-84c3-662f3f14ff0c",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1740530363,
-        "date_posted": 1740530363,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Springfield-Virginia/Junior-Software-Developer_R2098967",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Adobe",
         "id": "e6e76bc9-f0d3-4345-9a47-9133dc723ee6",
         "title": "Software Development Engineer 1",
@@ -641,22 +561,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Whoop",
-        "id": "5de1c3ac-3ffe-4fc2-bf0c-a547b5b4d15f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1741655648,
-        "date_posted": 1740529975,
-        "url": "https://jobs.lever.co/whoop/f6a52874-4099-4768-b5bb-66b211c12140/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -2093,23 +1997,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "National Audubon Society",
-        "id": "98c5b79d-f3e7-4260-918b-ce5bc3a58a04",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1741914671,
-        "date_posted": 1740529740,
-        "url": "https://audubon.wd5.myworkdayjobs.com/Audubon/job/New-York-NY/Junior-Data-Engineer_JR624",
-        "locations": [
-            "Washington, DC",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Audubon-Society",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -6357,7 +6244,7 @@
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755269232,
         "date_posted": 1750670041,
         "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
@@ -17520,7 +17407,7 @@
     {
         "date_updated": 1756905852,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -28149,9 +28036,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760086742,
+        "date_updated": 1761333316,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230",
         "company_name": "Applied Materials",
@@ -30111,7 +29998,7 @@
         "company_name": "Jerry",
         "id": "4e1ec0f3-85ff-4f22-b10c-37f8efee27af",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1761006232,
         "date_posted": 1761006232,
         "url": "https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application",
@@ -30154,7 +30041,7 @@
         "company_name": "Jerry",
         "id": "7a67807d-c3f0-4885-a552-930c812bb0da",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1761029265,
         "date_posted": 1761029265,
         "url": "https://jobs.ashbyhq.com/jerry.ai/6f0c0817-8062-4c4f-8b45-b495993b7037/application",
@@ -30407,9 +30294,9 @@
         ]
     },
     {
-        "date_updated": 1761244889,
+        "date_updated": 1761333827,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6",
         "company_name": "Zapier",
@@ -30920,5 +30807,155 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "676e9f3c-e166-4409-95c3-cd96c5b4bd08",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1761265797,
+        "date_posted": 1761265797,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1761287865,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004",
+        "company_name": "Boerboel",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL",
+            "London, UK"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "05384dfe-3c5b-40be-b984-1e6855e92967",
+        "date_posted": 1761287865,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761337891,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Data-Analyst-I-Bioinformatician-Rheumatology_RQ4038981",
+        "company_name": "Mass General Brigham",
+        "title": "Data Analyst I Bioinformatician Rheumatology",
+        "locations": [
+            "Boston, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "f4b9ae2a-0d00-4989-ad83-f3a74f1b361c",
+        "date_posted": 1761287895,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1761287926,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer_R98792-3",
+        "company_name": "RELX",
+        "title": "Tech Accelerate Graduate Program - Software Engineer (June)",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "d0b15b9a-5e0d-4ea6-b10a-df323ccc6486",
+        "date_posted": 1761287926,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761287960,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004",
+        "company_name": "Boerboel",
+        "title": "Developer",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL",
+            "London, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "3e052335-d644-4c6c-bee7-3057e3d555e8",
+        "date_posted": 1761287960,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761287984,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/amplitude/jobs/8223048002",
+        "company_name": "Amplitude",
+        "title": "Software Engineer I, Growth Platform",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "624fc6b0-a5d4-4328-83d0-e0b4173e6b78",
+        "date_posted": 1761287984,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761288024,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/312200",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "7c363f36-2fc1-4cf8-930d-0e7034241f61",
+        "date_posted": 1761288024,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761288181,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297",
+        "company_name": "RELX",
+        "title": "Tech Accelerate Graduate Program - Software Engineer (January)",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "0a402116-2fb3-4be5-bcf0-91f2b47025ca",
+        "date_posted": 1761288181,
+        "company_url": "",
+        "is_visible": true
     }
 ]
