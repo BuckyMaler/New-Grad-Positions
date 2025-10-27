@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "eBay",
-        "id": "e7be3663-17a6-4893-88c2-343079ea6812",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1740703242,
-        "date_posted": 1740703242,
-        "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/E-Bay",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "78e04359-a5f1-411c-a1b4-0d8d8d53208b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740702898,
-        "date_posted": 1740702898,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202559167",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "AMERICAN SYSTEMS",
-        "id": "b83c8e76-1e74-4dee-a98a-551d1e3bf2da",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740703710,
-        "date_posted": 1740703710,
-        "url": "https://careers-americansystems.icims.com/jobs/2296/job",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Apple",
-        "id": "507c11b8-1ab9-4adf-ba97-90c11d465916",
-        "title": "IOS Software Engineer \u2013 Early Career - IS&T",
-        "active": false,
-        "date_updated": 1740730899,
-        "date_posted": 1740730899,
-        "url": "https://jobs.apple.com/en-us/details/200593209",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Apple",
-        "id": "e1182df4-c638-44ac-8b6a-a76247b838ff",
-        "title": "Software Development Engineer in Test \u2013 Early Career - Retail Engineering",
-        "active": false,
-        "date_updated": 1740775398,
-        "date_posted": 1740775398,
-        "url": "https://jobs.apple.com/en-us/details/200592987",
-        "locations": [],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "FICO",
-        "id": "b8271e90-1000-4226-8fdc-cdf343c709eb",
-        "title": "Software Engineering - Engineer I",
-        "active": false,
-        "date_updated": 1740774771,
-        "date_posted": 1740774771,
-        "url": "https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-Canada/Software-Engineering---Engineer-I_30378",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Sierra Nevada Coporation",
         "id": "19f38bf7-9f66-4300-a0ce-0d3baf782090",
         "title": "Software Engineer I",
@@ -10420,7 +10326,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -12506,7 +12412,7 @@
         "company_name": "Anduril",
         "id": "c53ca87c-c841-48ae-890a-270460384105",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755289229,
         "date_posted": 1755289229,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824362007",
@@ -14061,7 +13967,7 @@
         "company_name": "Applied Intuition",
         "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
         "title": "Research Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755654113,
         "date_posted": 1755654113,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
@@ -20163,7 +20069,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20428,7 +20334,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -24201,7 +24107,7 @@
         "company_name": "mthree",
         "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
         "title": "Junior Software Developer - Go Lang",
-        "active": false,
+        "active": true,
         "date_updated": 1758755035,
         "date_posted": 1758755035,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
@@ -27771,7 +27677,7 @@
         "company_name": "Truveta",
         "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
         "title": "Software Engineer \u2013 Entry Level - Front End",
-        "active": true,
+        "active": false,
         "date_updated": 1760043093,
         "date_posted": 1760043093,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
@@ -31032,6 +30938,68 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Promise",
+        "id": "f490ebdd-aaae-4bdf-af52-b3974fbf71b1",
+        "title": "Software Engineer \u2013 New Grad - Forward Deployed AI",
+        "active": true,
+        "date_updated": 1761467767,
+        "date_posted": 1761467767,
+        "url": "https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Promise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Promise",
+        "id": "d0b13129-f026-459d-9e71-7a7881d8701e",
+        "title": "Software Engineer \u2013 New Grad - Forward Deployed AI",
+        "active": true,
+        "date_updated": 1761467764,
+        "date_posted": 1761467764,
+        "url": "https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443/application",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Promise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "2c40466c-9807-4564-b790-fc5981e2c872",
+        "title": "Junior Software Engineer - ",
+        "active": true,
+        "date_updated": 1761505342,
+        "date_posted": 1761505342,
+        "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
